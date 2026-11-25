@@ -1,0 +1,833 @@
+# SkiReady by GOES Health: full text
+
+GOES provides guidance and is not a substitute for professional medical care. If you think you have a medical emergency, call 911.
+
+# SkiReady by GOES Health: cold-safety for families skiing with kids
+
+> Live National Weather Service wind chill checks for family ski resorts, plus parent guides to frostnip, frostbite, hypothermia and altitude for kids aged 2 to 10.
+
+Source page: https://skiready.goes.health/
+Updated: 2026-11-25
+
+Confidence. Outdoors. GOES prepares and educates you to explore with confidence, wherever you are and when it matters most.
+
+## The 3-check ski day
+1. Before the first lift: face covered, goggles meet the helmet, one dry sock, mittens on.
+2. At every warm-up break: look at cheeks and noses, feel fingers and toes, swap anything wet.
+3. After lunch: quiet, clumsy or cranky? Make it a shorter afternoon.
+
+## Is it too cold today?
+- At 5°F (temperature or wind chill) and colder, cut back time outside ([CPS](https://caringforkids.cps.ca/handouts/safety-and-injury-prevention/frostbite)).
+- Below -15°F, avoid outdoor play; exposed skin begins to freeze within minutes ([AAP](https://www.healthychildren.org/english/safety-prevention/at-play/pages/winter-safety.aspx)).
+- 0°F with a 15 mph wind feels like -19°F; frostbite can happen in about 30 minutes ([NWS](https://www.weather.gov/safety/cold-wind-chill-chart)).
+- A body temperature below 95°F is a hypothermia emergency ([CDC](https://www.cdc.gov/winter-weather/prevention/index.html)).
+
+## Guides
+- [Frostnip & Frostbite in Kids Skiing: Cheeks, Fingers, Toes & Early Signs](https://skiready.goes.health/guides/frostbite-kids-skiing.md): How to spot frostnip early on your child's cheeks, nose, fingers and toes while skiing, what to do in the lodge, what not to do, and when to get care. Based on CDC, AAP and Wilderness Medical Society guidance.
+- [Hypothermia in Young Children on the Mountain: Early Signs, Safe Rewarming & When to Call 911](https://skiready.goes.health/guides/hypothermia-young-kids-skiing.md): The early signs of hypothermia in toddlers and young kids on a ski day (shivering, clumsiness, going quiet), how to rewarm safely, and when to call 911. Based on CDC, NIH MedlinePlus and AAP guidance.
+- [How Cold Is Too Cold to Ski with Kids? Wind Chill Cutoffs, Chairlift Breaks & Layering](https://skiready.goes.health/guides/wind-chill-cutoffs-kids-skiing.md): Wind chill numbers pediatric groups use (AAP: avoid below -15°F), what the NWS frostbite chart means on a chairlift, how ski schools handle cold days, and how to layer kids. With a quick wind-chill calculator.
+- [High-Altitude & Cold Prep for Family Ski Trips (8,000–12,000 ft)](https://skiready.goes.health/guides/altitude-cold-family-ski-trip.md): How altitude affects kids on Colorado and Utah ski trips (Breckenridge 9,600 ft base, Keystone 9,280 ft): signs in toddlers, a night in Denver, hydration, and when to get care. Based on CDC Yellow Book and Children's Hospital Colorado.
+- [Toddler Ski Gear Checklist for Cold Days (Ages 2–5)](https://skiready.goes.health/guides/toddler-ski-gear-checklist.md): A layer-by-layer ski gear checklist for toddlers and preschoolers on cold days: base, mid and outer layers, mittens, neck warmers, boots and socks, the car-seat coat rule, and what to pack for warm-up breaks. Based on AAP, Canadian Paediatric Society and SickKids guidance.
+
+## Resorts (NWS fetched Nov 25, 7:11 AM MST)
+| Resort | Base ft | Summit ft | Now | 48-hr low wind chill | NWS alerts |
+|---|---|---|---|---|---|
+| [Breckenridge Ski Resort](https://skiready.goes.health/resorts/breckenridge.md) | 9,600 | 12,998 | 16°F, wind 3 mph WSW, sunny | 8°F | none |
+| [Keystone Resort](https://skiready.goes.health/resorts/keystone.md) | 9,280 | 12,408 | 18°F, wind 3 mph WSW, sunny | 6°F | none |
+| [Steamboat Ski Resort](https://skiready.goes.health/resorts/steamboat.md) | 6,900 | 10,568 | 18°F, wind calm, sunny | 18°F | none |
+| [Park City Mountain](https://skiready.goes.health/resorts/park-city.md) | 6,800 | 10,026 | 27°F, wind 2 mph SSE, partly sunny | 22°F | none |
+| [Palisades Tahoe (Olympic Valley)](https://skiready.goes.health/resorts/palisades-tahoe.md) | 6,200 | 9,050 | 29°F, wind 5 mph SW, mostly cloudy | 25°F | none |
+| [Stowe Mountain Resort](https://skiready.goes.health/resorts/stowe.md) | 1,559 | 4,395 | 22°F, wind calm, partly sunny | 11°F | none |
+| [Vail Mountain](https://skiready.goes.health/resorts/vail.md) | 8,120 | 11,570 | 16°F, wind 5 mph SE, sunny | 6°F | none |
+
+## When signal drops, GOES steps in.
+
+The free GOES Outdoor Health & Safety app keeps frostbite, hypothermia and altitude guidance on your phone offline: an interactive health assessment, 50+ visual how-to guides, and 200+ prevention tips across 60+ medical topics. Founded by wilderness medicine doctors.
+
+- iOS: https://apps.apple.com/us/app/goes-outdoor-health-safety/id1576527901?ct=skiready_markdown&mt=8
+- Android: https://play.google.com/store/apps/details?id=com.goes.mobile&referrer=utm_source%3Dmarkdown%26utm_medium%3Dagent%26utm_campaign%3Dskiready
+- About: https://goes.health/app?utm_source=markdown&utm_medium=agent&utm_campaign=skiready
+
+Free to download. GOES+ is $5.99/month or $35.99/year after a 7-day free trial; renews automatically unless canceled.
+
+GOES provides guidance and is not a substitute for professional medical care. If you think you have a medical emergency, call 911.
+
+
+---
+
+# Frostnip & Frostbite in Kids Skiing: Cheeks, Fingers, Toes & Early Signs
+
+> How to spot frostnip early on your child's cheeks, nose, fingers and toes while skiing, what to do in the lodge, what not to do, and when to get care. Based on CDC, AAP and Wilderness Medical Society guidance.
+
+Source page: https://skiready.goes.health/guides/frostbite-kids-skiing
+Updated: 2026-11-25
+
+Frostnip is common, and it's easy to catch early. Two minutes of looking at cheeks, noses and fingers at every warm-up break keeps a cold morning from turning into frostbite.
+
+## Quick answer
+1. Red, stinging skin is the early stage (frostnip). Go inside and warm it gently.
+2. White, grey or waxy, firm, numb skin can be frostbite. Get help from ski patrol or a clinic.
+3. Never rub it, and never use a fire, heater or heating pad to warm it.
+
+Sources: [Canadian Paediatric Society: Frostbite](https://caringforkids.cps.ca/handouts/safety-and-injury-prevention/frostbite), [CDC: Preventing frostbite](https://www.cdc.gov/winter-weather/prevention/preventing-frostbite.html)
+
+## Where it starts on kids
+
+Frostbite usually hits the nose, ears, cheeks, chin, fingers and toes. ([CDC](https://www.cdc.gov/winter-weather/prevention/preventing-frostbite.html)) On a chairlift the face takes the wind, and small kids barely move their faces, so cheeks and noses are where you'll see it first. Babies and toddlers are at higher risk because they move less and can't tell you they're cold. ([CPS](https://caringforkids.cps.ca/handouts/safety-and-injury-prevention/frostbite)) So look, don't ask.
+
+## Symptom check: frostnip vs. frostbite
+
+| What you see | What it likely is | What to do |
+|---|---|---|
+| Red, slightly swollen skin that stings, burns or tingles | Frostnip (early stage) | Go inside, cover the skin, warm it gently. It should feel normal again as it warms ([CPS](https://caringforkids.cps.ca/handouts/safety-and-injury-prevention/frostbite)) |
+| Tingling skin that's starting to look grey | Getting worse | Get indoors now and warm it gently with body heat or warm (not hot) water ([CPS](https://caringforkids.cps.ca/handouts/safety-and-injury-prevention/frostbite)) |
+| White, grayish-yellow or waxy patch that feels firm and numb | Possible frostbite | Get medical help: ski patrol, the resort clinic, or 911 if they're also showing signs of hypothermia ([CDC](https://www.cdc.gov/winter-weather/prevention/preventing-frostbite.html)) |
+| Numbness that doesn't go away after warming | Needs a medical check | Get medical advice right away ([CPS](https://caringforkids.cps.ca/handouts/safety-and-injury-prevention/frostbite)) |
+
+## Warming up in the lodge: do and don't
+
+**Do**
+- Get out of the wind and into the lodge. Swap wet mittens, socks and neck gaiters for dry ones. ([CDC](https://www.cdc.gov/winter-weather/prevention/preventing-frostbite.html))
+- Warm the skin gently: a warm hand over cheeks, fingers tucked into an armpit, or warm (not hot) water. ([CPS](https://caringforkids.cps.ca/handouts/safety-and-injury-prevention/frostbite))
+- Take off rings or anything tight on the hand or foot before it swells. ([WMS](https://journals.sagepub.com/doi/full/10.1177/10806032231222359))
+- Check for hypothermia signs too: shivering, clumsiness, unusual quiet or sleepiness. ([CDC](https://www.cdc.gov/winter-weather/prevention/index.html))
+
+**Don't**
+- Don't rub or massage the skin, and never rub it with snow. ([CDC](https://www.cdc.gov/winter-weather/prevention/preventing-frostbite.html)) ([WMS](https://journals.sagepub.com/doi/full/10.1177/10806032231222359))
+- Don't warm it with a fireplace, heat lamp, radiator, stove, heating pad or electric blanket. Numb skin burns easily. ([CDC](https://www.cdc.gov/winter-weather/prevention/preventing-frostbite.html))
+- Don't walk on frostbitten feet or toes unless you have to. ([CDC](https://www.cdc.gov/winter-weather/prevention/preventing-frostbite.html))
+- Don't thaw it if it could freeze again on the way down. Refreezing does more damage. ([WMS](https://journals.sagepub.com/doi/full/10.1177/10806032231222359))
+
+## Fit and packing tips that prevent most frostnip
+
+- One thin wool or synthetic ski sock, not two. Boots should let toes wiggle; tight boots cut circulation. ([CPS](https://caringforkids.cps.ca/handouts/safety-and-injury-prevention/frostbite))
+- Mittens over gloves for little hands, so fingers stay together and share warmth. Pack a spare dry pair. ([CPS](https://caringforkids.cps.ca/handouts/safety-and-injury-prevention/frostbite))
+- Face covered on cold or windy days: a balaclava or neck gaiter plus goggles that seal against the helmet. ([SickKids](https://www.aboutkidshealth.ca/cold-weather-injuries))
+- Layers you can add or take off quickly, and nothing cotton next to the skin. ([AAP](https://www.healthychildren.org/english/safety-prevention/at-play/pages/winter-safety.aspx))
+- Warm-up breaks indoors. Kids having fun don't notice they're getting cold. ([AAP](https://www.healthychildren.org/english/safety-prevention/at-play/pages/winter-safety.aspx))
+
+## When it's more than frostnip
+
+If the skin stays white, grey, waxy or numb after warming, or blisters show up, get medical help the same day. Resort clinics and ski patrol treat frostbite often. When the closest care is more than 2 hours away, the Wilderness Medical Society describes rewarming in water held at 37 to 39°C (98.6 to 102.2°F), but only if the part won't freeze again. ([WMS](https://journals.sagepub.com/doi/full/10.1177/10806032231222359)) At a ski resort, care is almost always closer than that, so head to patrol or the clinic.
+
+## Parent FAQ
+
+**What does frostnip look like on a child's cheeks?**
+Red, slightly swollen skin that stings or burns, sometimes tingly. It's the early stage and usually gets better with gentle rewarming indoors (Canadian Paediatric Society).
+
+**How fast can kids get frostbite while skiing?**
+It depends on the wind chill. On the National Weather Service chart, exposed skin can get frostbite in 30 minutes at about -19°F wind chill (0°F air with a 15 mph wind), and faster as it gets colder. Chairlift rides and fast runs add wind.
+
+**Should I rub my child's cold hands to warm them?**
+No. Don't rub or massage frostbitten skin, and don't use a fire, heater or heating pad. Warm it gently with body heat or warm (not hot) water (CDC).
+
+**When should I take my child to a doctor for frostbite?**
+If the skin is white, grey, waxy, firm or numb, or still numb after warming, get medical help. Call 911 if your child also shows signs of hypothermia, like confusion, drowsiness or clumsiness.
+
+## Sources
+- [CDC: Preventing frostbite](https://www.cdc.gov/winter-weather/prevention/preventing-frostbite.html)
+- [Canadian Paediatric Society: Frostbite](https://caringforkids.cps.ca/handouts/safety-and-injury-prevention/frostbite)
+- [AAP HealthyChildren.org: Winter safety tips](https://www.healthychildren.org/english/safety-prevention/at-play/pages/winter-safety.aspx)
+- [AboutKidsHealth (SickKids): Cold weather injuries](https://www.aboutkidshealth.ca/cold-weather-injuries)
+- [Wilderness Medical Society: Frostbite guidelines, 2024 update](https://journals.sagepub.com/doi/full/10.1177/10806032231222359)
+- [National Weather Service: Wind chill chart](https://www.weather.gov/safety/cold-wind-chill-chart)
+- [CDC: Preventing hypothermia](https://www.cdc.gov/winter-weather/prevention/index.html)
+
+## When signal drops, GOES steps in.
+
+The free GOES Outdoor Health & Safety app keeps frostbite, hypothermia and altitude guidance on your phone offline: an interactive health assessment, 50+ visual how-to guides, and 200+ prevention tips across 60+ medical topics. Founded by wilderness medicine doctors.
+
+- iOS: https://apps.apple.com/us/app/goes-outdoor-health-safety/id1576527901?ct=skiready_markdown&mt=8
+- Android: https://play.google.com/store/apps/details?id=com.goes.mobile&referrer=utm_source%3Dmarkdown%26utm_medium%3Dagent%26utm_campaign%3Dskiready
+- About: https://goes.health/app?utm_source=markdown&utm_medium=agent&utm_campaign=skiready
+
+Free to download. GOES+ is $5.99/month or $35.99/year after a 7-day free trial; renews automatically unless canceled.
+
+GOES provides guidance and is not a substitute for professional medical care. If you think you have a medical emergency, call 911.
+
+
+---
+
+# Hypothermia in Young Children on the Mountain: Early Signs, Safe Rewarming & When to Call 911
+
+> The early signs of hypothermia in toddlers and young kids on a ski day (shivering, clumsiness, going quiet), how to rewarm safely, and when to call 911. Based on CDC, NIH MedlinePlus and AAP guidance.
+
+Source page: https://skiready.goes.health/guides/hypothermia-young-kids-skiing
+Updated: 2026-11-25
+
+Hypothermia on a ski day usually builds slowly: wet layers, a long lesson, a windy lift. The early signs are easy to see once you know them, and dry clothes plus a warm lodge fix most of it.
+
+## Quick answer
+1. Shivering is the body's early warning. Head inside, get dry, add layers, and offer a warm drink.
+2. Clumsy hands, stumbling, slurred words, unusual quiet or sleepiness: act now.
+3. Shivering that stops while they're still cold, confusion, or very low energy: call 911 or ski patrol.
+
+Sources: [CDC: Preventing hypothermia](https://www.cdc.gov/winter-weather/prevention/index.html), [MedlinePlus (NIH): Hypothermia](https://medlineplus.gov/ency/article/000038.htm)
+
+## Why young kids get cold faster
+
+Smaller kids lose heat faster and often don't notice they're getting cold while they're having fun. ([AAP](https://www.healthychildren.org/english/safety-prevention/at-play/pages/winter-safety.aspx)) Little kids often can't tell you they're cold. Look, don't ask. Babies with hypothermia can have bright red, cold skin and very low energy. ([CDC](https://www.cdc.gov/winter-weather/prevention/index.html)) Hypothermia can happen even above 40°F if a child is wet from snow, sweat or rain. ([CDC](https://www.cdc.gov/winter-weather/prevention/index.html))
+
+## Symptom check: what to watch for
+
+| Sign | What it means | What to do |
+|---|---|---|
+| Shivering, cold hands, saying they're cold or wanting to stop | The body's early warning | Go inside, get dry, add layers, give them a snack and a warm drink ([SickKids](https://www.aboutkidshealth.ca/cold-weather-injuries)) |
+| Fumbling hands, clumsy skiing, stumbling, slurred or mumbled words | Hypothermia is setting in | Get them warm now: out of wet clothes, into blankets and dry layers, in a warm room ([CDC](https://www.cdc.gov/winter-weather/prevention/index.html)) |
+| Unusually quiet, confused, drowsy, very low energy | A serious sign | Get medical help now: ski patrol or 911 ([CDC](https://www.cdc.gov/winter-weather/prevention/index.html)) |
+| Shivering stops while they're still cold, slowed breathing | Getting more severe | Call 911 or ski patrol now ([NIH](https://medlineplus.gov/ency/article/000038.htm)) |
+| Baby or toddler with bright red, cold skin and very low energy | Hypothermia in infants | Get medical help right away ([CDC](https://www.cdc.gov/winter-weather/prevention/index.html)) |
+
+## Safe rewarming: do and don't
+
+**Do**
+- Get into a warm room or shelter; at a resort, that means the lodge or the ski patrol hut. ([CDC](https://www.cdc.gov/winter-weather/prevention/index.html))
+- Take off wet clothes, including socks and base layers. ([CDC](https://www.cdc.gov/winter-weather/prevention/index.html))
+- Warm the center of the body first (chest, neck, head and groin) under loose, dry blankets and layers. Skin-to-skin contact helps. ([CDC](https://www.cdc.gov/winter-weather/prevention/index.html))
+- If they're alert, a warm drink helps. Never give drinks to a child who isn't fully alert. ([CDC](https://www.cdc.gov/winter-weather/prevention/index.html))
+- Take their temperature if you can. Below 95°F is an emergency: get medical help. ([CDC](https://www.cdc.gov/winter-weather/prevention/index.html))
+
+**Don't**
+- Don't wait it out on the lift line; go in at the first steady shivering. ([SickKids](https://www.aboutkidshealth.ca/cold-weather-injuries))
+- Don't put heating pads, heat lamps or a fireplace directly on numb fingers or toes; numb skin burns easily. ([CDC](https://www.cdc.gov/winter-weather/prevention/preventing-frostbite.html))
+
+## When to call 911
+
+Call 911 (or flag ski patrol, who can reach you faster on the hill) if your child is confused, unusually drowsy or hard to wake, has slurred speech, stops shivering while still cold, has slowed breathing, or has a temperature below 95°F. ([CDC](https://www.cdc.gov/winter-weather/prevention/index.html)) ([NIH](https://medlineplus.gov/ency/article/000038.htm)) Hypothermia and frostbite often happen together, so check fingers, toes and cheeks too. ([NIH](https://medlineplus.gov/ency/article/000038.htm))
+
+## Prevention that works for little skiers
+
+- Dry beats warm: swap wet mittens and neck gaiters at lunch, and pack spares. ([AAP](https://www.healthychildren.org/english/safety-prevention/at-play/pages/winter-safety.aspx))
+- Thin layers (wool or synthetic base, fleece, waterproof shell), no cotton. ([AAP](https://www.healthychildren.org/english/safety-prevention/at-play/pages/winter-safety.aspx))
+- Indoor warm-up breaks on cold days, before kids ask. ([AAP](https://www.healthychildren.org/english/safety-prevention/at-play/pages/winter-safety.aspx))
+- Snacks and warm drinks at breaks help kids keep making heat.
+- Tell the ski school instructor how your child acts when they're cold.
+
+## Parent FAQ
+
+**What are the first signs of hypothermia in a child?**
+Shivering, being very tired, and fumbling hands are early signs. Confusion, memory loss, slurred speech and drowsiness are more serious. Babies can have bright red, cold skin and very low energy (CDC).
+
+**Is it a good sign if my child stops shivering?**
+Not if they're still cold. At very low body temperatures shivering can stop (NIH MedlinePlus). If a cold child stops shivering, gets confused or very sleepy, call 911 or ski patrol.
+
+**What temperature is hypothermia in a child?**
+CDC advises that a body temperature below 95°F is an emergency that needs immediate medical attention.
+
+**Can kids get hypothermia when it isn't very cold?**
+Yes. Hypothermia can happen at cool temperatures above 40°F if someone is wet from rain, sweat or snow and gets chilled (CDC). Wet spring and storm-day skiing count.
+
+## Sources
+- [CDC: Preventing hypothermia](https://www.cdc.gov/winter-weather/prevention/index.html)
+- [MedlinePlus (NIH): Hypothermia](https://medlineplus.gov/ency/article/000038.htm)
+- [AAP HealthyChildren.org: Winter safety tips](https://www.healthychildren.org/english/safety-prevention/at-play/pages/winter-safety.aspx)
+- [AboutKidsHealth (SickKids): Cold weather injuries](https://www.aboutkidshealth.ca/cold-weather-injuries)
+- [CDC: Preventing frostbite](https://www.cdc.gov/winter-weather/prevention/preventing-frostbite.html)
+
+## When signal drops, GOES steps in.
+
+The free GOES Outdoor Health & Safety app keeps frostbite, hypothermia and altitude guidance on your phone offline: an interactive health assessment, 50+ visual how-to guides, and 200+ prevention tips across 60+ medical topics. Founded by wilderness medicine doctors.
+
+- iOS: https://apps.apple.com/us/app/goes-outdoor-health-safety/id1576527901?ct=skiready_markdown&mt=8
+- Android: https://play.google.com/store/apps/details?id=com.goes.mobile&referrer=utm_source%3Dmarkdown%26utm_medium%3Dagent%26utm_campaign%3Dskiready
+- About: https://goes.health/app?utm_source=markdown&utm_medium=agent&utm_campaign=skiready
+
+Free to download. GOES+ is $5.99/month or $35.99/year after a 7-day free trial; renews automatically unless canceled.
+
+GOES provides guidance and is not a substitute for professional medical care. If you think you have a medical emergency, call 911.
+
+
+---
+
+# How Cold Is Too Cold to Ski with Kids? Wind Chill Cutoffs, Chairlift Breaks & Layering
+
+> Wind chill numbers pediatric groups use (AAP: avoid below -15°F), what the NWS frostbite chart means on a chairlift, how ski schools handle cold days, and how to layer kids. With a quick wind-chill calculator.
+
+Source page: https://skiready.goes.health/guides/wind-chill-cutoffs-kids-skiing
+Updated: 2026-11-25
+
+There's no single number every resort uses, but pediatric guidance gives you a clear line. Check the wind chill, not just the temperature, and plan the day around it.
+
+## Quick answer
+1. Check the wind chill, not the air temperature. Wind is what freezes cheeks on the lift.
+2. Below 5°F (temperature or wind chill), shorten time outside and take more warm-up breaks.
+3. Below -15°F wind chill, pediatric groups advise against outdoor play for kids.
+
+Sources: [AAP HealthyChildren.org: Winter safety tips](https://www.healthychildren.org/english/safety-prevention/at-play/pages/winter-safety.aspx), [Canadian Paediatric Society: Frostbite](https://caringforkids.cps.ca/handouts/safety-and-injury-prevention/frostbite), [National Weather Service: Wind chill chart](https://www.weather.gov/safety/cold-wind-chill-chart)
+
+## The numbers pediatric groups use
+
+| Temperature or wind chill | What guidance says | Ski-day plan for young kids |
+|---|---|---|
+| Above 5°F | Normal winter play; dress in layers ([AAP](https://www.healthychildren.org/english/safety-prevention/at-play/pages/winter-safety.aspx)) | Normal day with regular indoor warm-up breaks |
+| 5°F to -15°F | Cut back time outside ([CPS](https://caringforkids.cps.ca/handouts/safety-and-injury-prevention/frostbite)) | Shorter day, face fully covered, frequent lodge breaks |
+| Below -15°F | Avoid outdoor play: exposed skin begins to freeze within minutes ([AAP](https://www.healthychildren.org/english/safety-prevention/at-play/pages/winter-safety.aspx)) | Indoor day, or skip the lifts for young kids |
+| -16°F (-27°C) or below | Consider keeping kids indoors ([CPS](https://caringforkids.cps.ca/handouts/safety-and-injury-prevention/frostbite)) | Indoor day |
+
+## What the NWS chart means on a chairlift
+
+The National Weather Service wind chill chart shades three frostbite zones for exposed skin: 30 minutes, 10 minutes, and 5 minutes. ([NWS](https://www.weather.gov/safety/cold-wind-chill-chart)) For example, 0°F air with a 15 mph wind feels like -19°F, and frostbite can happen in about 30 minutes. ([NWS](https://www.weather.gov/safety/cold-wind-chill-chart)) A slow chairlift ride, plus the wind you create skiing down, adds up quickly. That's why covered faces and short laps matter more than how cold the temperature looks. The summit is usually colder and windier than the base, where most forecasts are made.
+
+## Will ski school cancel?
+
+Policies vary by resort and program, and many schools keep teaching on cold days as long as lifts run, with more indoor breaks. Some programs publish a cutoff (one Minnesota kids' program, for example, may cancel at -10°F temperature or wind chill). Call your ski school the day before, ask what they do on cold days, and tell the instructor how your child acts when they're cold. You can always choose a half day.
+
+## Layering that works for kids
+
+- Base: thin wool or synthetic, never cotton (it holds sweat). ([AAP](https://www.healthychildren.org/english/safety-prevention/at-play/pages/winter-safety.aspx))
+- Middle: fleece or light puffy. Add or remove it to match the day.
+- Shell: waterproof jacket and pants; snow in a cuff means wet skin later.
+- Face: balaclava or gaiter plus goggles that meet the helmet with no gap. ([SickKids](https://www.aboutkidshealth.ca/cold-weather-injuries))
+- Hands: mittens, long cuffs, a spare dry pair in your pocket. ([CPS](https://caringforkids.cps.ca/handouts/safety-and-injury-prevention/frostbite))
+- Feet: one thin ski sock and boots that let toes wiggle. ([CPS](https://caringforkids.cps.ca/handouts/safety-and-injury-prevention/frostbite))
+
+## Parent FAQ
+
+**How cold is too cold for kids to ski?**
+The American Academy of Pediatrics advises avoiding outdoor play when the temperature or wind chill is below -15°F, because exposed skin begins to freeze within minutes. The Canadian Paediatric Society suggests cutting time outside at 5°F (-15°C) or colder.
+
+**How do I calculate wind chill?**
+The NWS formula is 35.74 + 0.6215T - 35.75(V^0.16) + 0.4275T(V^0.16), where T is air temperature in °F and V is wind speed in mph. It applies when T is 50°F or less and wind is above 3 mph. Use the calculator on this page.
+
+**Is it colder on the chairlift?**
+Usually. The upper mountain tends to be colder and windier than the base, and the lift is exposed. Cover faces and plan shorter laps on cold days.
+
+**Does ski school cancel for cold?**
+It depends on the resort and program. Many keep running while lifts run, with extra indoor breaks. Ask your ski school directly and choose a half day if you're unsure.
+
+## Sources
+- [AAP HealthyChildren.org: Winter safety tips](https://www.healthychildren.org/english/safety-prevention/at-play/pages/winter-safety.aspx)
+- [Canadian Paediatric Society: Frostbite](https://caringforkids.cps.ca/handouts/safety-and-injury-prevention/frostbite)
+- [National Weather Service: Wind chill chart](https://www.weather.gov/safety/cold-wind-chill-chart)
+- [AboutKidsHealth (SickKids): Cold weather injuries](https://www.aboutkidshealth.ca/cold-weather-injuries)
+
+## When signal drops, GOES steps in.
+
+The free GOES Outdoor Health & Safety app keeps frostbite, hypothermia and altitude guidance on your phone offline: an interactive health assessment, 50+ visual how-to guides, and 200+ prevention tips across 60+ medical topics. Founded by wilderness medicine doctors.
+
+- iOS: https://apps.apple.com/us/app/goes-outdoor-health-safety/id1576527901?ct=skiready_markdown&mt=8
+- Android: https://play.google.com/store/apps/details?id=com.goes.mobile&referrer=utm_source%3Dmarkdown%26utm_medium%3Dagent%26utm_campaign%3Dskiready
+- About: https://goes.health/app?utm_source=markdown&utm_medium=agent&utm_campaign=skiready
+
+Free to download. GOES+ is $5.99/month or $35.99/year after a 7-day free trial; renews automatically unless canceled.
+
+GOES provides guidance and is not a substitute for professional medical care. If you think you have a medical emergency, call 911.
+
+
+---
+
+# High-Altitude & Cold Prep for Family Ski Trips (8,000–12,000 ft)
+
+> How altitude affects kids on Colorado and Utah ski trips (Breckenridge 9,600 ft base, Keystone 9,280 ft): signs in toddlers, a night in Denver, hydration, and when to get care. Based on CDC Yellow Book and Children's Hospital Colorado.
+
+Source page: https://skiready.goes.health/guides/altitude-cold-family-ski-trip
+Updated: 2026-11-25
+
+Most kids do great at altitude. A slower first day, a night lower down if you can, and knowing the few signs to watch for are all it takes.
+
+## Quick answer
+1. Kids get altitude sickness about as often as adults, possibly a little less. Most do fine.
+2. If you can, sleep a night around Denver (about 5,000 ft) before a 9,000+ ft resort.
+3. Watch for headache, nausea, poor appetite, fussiness or poor sleep in the first 24 hours. Rest, don't go higher, and get care if it isn't improving.
+
+Sources: [Children's Hospital Colorado: Altitude sickness in kids](https://www.childrenscolorado.org/just-ask-childrens/articles/altitude-sickness/), [CDC Yellow Book: High-altitude travel](https://www.cdc.gov/yellow-book/hcp/environmental-hazards-risks/high-altitude-travel-and-altitude-illness.html)
+
+## What to expect at ski-resort altitude
+
+Symptoms usually start 2 to 12 hours after arriving, often during or after the first night. ([CDC](https://www.cdc.gov/yellow-book/hcp/environmental-hazards-risks/high-altitude-travel-and-altitude-illness.html)) Children's Hospital Colorado notes that kids are at about the same risk as adults, possibly a little less, and calls it "something to be aware of, but not something to have a paralyzing amount of fear over". ([Children's Colorado](https://www.childrenscolorado.org/just-ask-childrens/articles/altitude-sickness/)) Bases in this directory range from 1,559 ft (Stowe) to 9,600 ft (Breckenridge), and summits reach 12,998 ft.
+
+## Symptom check for kids who can't say what's wrong
+
+| What you see | What to do |
+|---|---|
+| Headache, nausea, not hungry, trouble sleeping (verbal kids) | Rest, keep them fed, no higher today. Mild symptoms usually ease within 1 to 3 days without going higher ([CDC](https://www.cdc.gov/yellow-book/hcp/environmental-hazards-risks/high-altitude-travel-and-altitude-illness.html)) |
+| Fussy, less playful, pale, eating less, sleeping more or less than usual (toddlers) | Treat it like altitude sickness if several happen together ([Children's Colorado](https://www.childrenscolorado.org/just-ask-childrens/articles/altitude-sickness/)) |
+| Symptoms getting worse, or not improving with rest | Get medical help and be ready to go lower ([Children's Colorado](https://www.childrenscolorado.org/just-ask-childrens/articles/altitude-sickness/)) |
+| Trouble breathing at rest, confusion, very hard to wake, clumsy walking | Emergency: call 911 ([CDC](https://www.cdc.gov/yellow-book/hcp/environmental-hazards-risks/high-altitude-travel-and-altitude-illness.html)) |
+
+## A calm plan for the first 48 hours
+
+- Day 0: a night around Denver if you can. ([Children's Colorado](https://www.childrenscolorado.org/just-ask-childrens/articles/altitude-sickness/))
+- Above 8,000 ft, avoid climbing more than about 1,600 ft a day where you can (sleeping altitude matters most). ([Children's Colorado](https://www.childrenscolorado.org/just-ask-childrens/articles/altitude-sickness/))
+- Day 1: short lesson or half day, easy terrain, early bedtime. ([Children's Colorado](https://www.childrenscolorado.org/just-ask-childrens/articles/altitude-sickness/))
+- Drink water regularly, but not more than normal. Encourage eating even if they're not very hungry. ([Children's Colorado](https://www.childrenscolorado.org/just-ask-childrens/articles/altitude-sickness/))
+- Kids with a cold or ear infection may be more likely to have symptoms. ([Children's Colorado](https://www.childrenscolorado.org/just-ask-childrens/articles/altitude-sickness/))
+- Know where the nearest clinic or hospital is before you need it. ([Children's Colorado](https://www.childrenscolorado.org/just-ask-childrens/articles/altitude-sickness/))
+
+## Cold and altitude together
+
+Higher altitude usually means colder, windier air, and dry mountain air dries kids out over a long day. Plan the same warm-up breaks you would for cold (see the wind chill guide), and keep water and snacks in your pocket. Doctors usually don't recommend taking a newborn under 6 weeks old much higher than where you live. ([Children's Colorado](https://www.childrenscolorado.org/just-ask-childrens/articles/altitude-sickness/))
+
+## Parent FAQ
+
+**Can kids get altitude sickness skiing in Colorado?**
+Yes. Children are at about the same risk as adults, possibly a little less (Children's Hospital Colorado). Symptoms usually start 2 to 12 hours after arrival, often after the first night (CDC Yellow Book).
+
+**What are signs of altitude sickness in a toddler?**
+Extra fussiness or irritability, less play, pale skin, eating less, and sleeping more or less than usual, especially several at once (Children's Hospital Colorado).
+
+**Should we stay in Denver before Breckenridge?**
+If you can, yes. Spending a night around Denver (about 5,000 ft) before going to resorts above 9,000 ft helps the body adjust (Children's Hospital Colorado, Breckenridge Resort).
+
+**When is altitude sickness an emergency?**
+Call 911 for trouble breathing at rest, confusion, extreme sleepiness, or clumsy walking. Get care if symptoms worsen or don't improve with rest, and be ready to go lower.
+
+## Sources
+- [Children's Hospital Colorado: Altitude sickness in kids](https://www.childrenscolorado.org/just-ask-childrens/articles/altitude-sickness/)
+- [CDC Yellow Book: High-altitude travel](https://www.cdc.gov/yellow-book/hcp/environmental-hazards-risks/high-altitude-travel-and-altitude-illness.html)
+
+## When signal drops, GOES steps in.
+
+The free GOES Outdoor Health & Safety app keeps frostbite, hypothermia and altitude guidance on your phone offline: an interactive health assessment, 50+ visual how-to guides, and 200+ prevention tips across 60+ medical topics. Founded by wilderness medicine doctors.
+
+- iOS: https://apps.apple.com/us/app/goes-outdoor-health-safety/id1576527901?ct=skiready_markdown&mt=8
+- Android: https://play.google.com/store/apps/details?id=com.goes.mobile&referrer=utm_source%3Dmarkdown%26utm_medium%3Dagent%26utm_campaign%3Dskiready
+- About: https://goes.health/app?utm_source=markdown&utm_medium=agent&utm_campaign=skiready
+
+Free to download. GOES+ is $5.99/month or $35.99/year after a 7-day free trial; renews automatically unless canceled.
+
+GOES provides guidance and is not a substitute for professional medical care. If you think you have a medical emergency, call 911.
+
+
+---
+
+# Toddler Ski Gear Checklist for Cold Days (Ages 2–5)
+
+> A layer-by-layer ski gear checklist for toddlers and preschoolers on cold days: base, mid and outer layers, mittens, neck warmers, boots and socks, the car-seat coat rule, and what to pack for warm-up breaks. Based on AAP, Canadian Paediatric Society and SickKids guidance.
+
+Source page: https://skiready.goes.health/guides/toddler-ski-gear-checklist
+Updated: 2026-11-25
+
+Dressing a toddler for the snow comes down to three things: thin layers you can add or take off, nothing wet against the skin, and every bit of skin covered when the wind picks up. Here's the whole list, from car seat to chairlift.
+
+## Quick answer
+1. Several thin layers beat one bulky one. Start with a wicking base layer, never cotton.
+2. Mittens, a hat that covers the ears, a neck warmer, and waterproof boots roomy enough to wiggle toes.
+3. Take the puffy coat off before buckling the car seat, and pack a dry spare of everything.
+
+Sources: [AAP HealthyChildren.org: Winter safety tips](https://www.healthychildren.org/english/safety-prevention/at-play/pages/winter-safety.aspx), [Canadian Paediatric Society: Frostbite](https://caringforkids.cps.ca/handouts/safety-and-injury-prevention/frostbite), [AboutKidsHealth (SickKids): Dressing for the cold](https://www.aboutkidshealth.ca/dressing-for-the-cold), [AAP HealthyChildren.org: Winter car seat safety tips](https://www.healthychildren.org/English/safety-prevention/on-the-go/Pages/Winter-Car-Seat-Safety-Tips.aspx)
+
+## Why toddlers need a different checklist
+
+Kids lose heat faster than adults because their bodies are smaller, and when they're having fun they don't want to come in. ([AAP](https://www.healthychildren.org/english/safety-prevention/at-play/pages/winter-safety.aspx)) Babies and toddlers are at greater risk of cold injuries because they can't tell you they're cold. ([SickKids](https://www.aboutkidshealth.ca/cold-weather-injuries)) So the gear does the work: dress them so they stay dry and covered, and check on them instead of asking.
+
+## The layer-by-layer checklist
+
+| Layer | What to pack | Why |
+|---|---|---|
+| Base layer | Thin, snug long underwear top and bottom in polyester, silk or similar. Not cotton | Moves sweat off the skin. Damp skin loses heat fast ([sickkids-dressing](https://www.aboutkidshealth.ca/dressing-for-the-cold)) |
+| Middle layer | Fleece or wool. Two thin layers work as well as one thick one | This is the insulation, and thin layers are easy to add or remove ([sickkids-dressing](https://www.aboutkidshealth.ca/dressing-for-the-cold)) |
+| Outer layer | Waterproof, windproof jacket with a hood and high collar, plus bib-style snow pants | Blocks wind and snow; bibs keep snow out when little kids roll around ([sickkids-dressing](https://www.aboutkidshealth.ca/dressing-for-the-cold)) |
+| Head and neck | Warm hat or helmet liner that covers the ears, a neck warmer or tube scarf, and a balaclava on very cold days | Ears frostbite easily, and a tube scarf avoids a long loose scarf ([CPS](https://caringforkids.cps.ca/handouts/safety-and-injury-prevention/frostbite)) ([sickkids-dressing](https://www.aboutkidshealth.ca/dressing-for-the-cold)) |
+| Hands | Waterproof mittens, plus at least one dry spare pair | Fingers bunched together in a mitten stay warmer than in gloves ([CPS](https://caringforkids.cps.ca/handouts/safety-and-injury-prevention/frostbite)) |
+| Feet | Moisture-wicking socks and boots that aren't tight | Tight boots squeeze blood flow and make feet colder. Toes should wiggle ([sickkids-dressing](https://www.aboutkidshealth.ca/dressing-for-the-cold)) ([CPS](https://caringforkids.cps.ca/handouts/safety-and-injury-prevention/frostbite)) |
+| Eyes and face | Goggles that meet the helmet, and a face covering for chairlifts | Skiing's speed raises the risk of windburn and frostbite on the face ([SickKids](https://www.aboutkidshealth.ca/cold-weather-injuries)) |
+
+## The drive up: car seats and coats
+
+**Do**
+- Dress your toddler in thin layers for the car: leggings or long underwear, pants, a warm top and a thin fleece. ([aap-carseat](https://www.healthychildren.org/English/safety-prevention/on-the-go/Pages/Winter-Car-Seat-Safety-Tips.aspx))
+- Take off the puffy coat or snowsuit before buckling, then lay the coat or a blanket over the harness. ([aap-carseat](https://www.healthychildren.org/English/safety-prevention/on-the-go/Pages/Winter-Car-Seat-Safety-Tips.aspx))
+- Do the pinch test: if you can pinch the harness strap at the chest, tighten it. ([aap-carseat](https://www.healthychildren.org/English/safety-prevention/on-the-go/Pages/Winter-Car-Seat-Safety-Tips.aspx))
+- Put hats, mittens and socks on in the car. They keep kids warm without getting in the way of the straps. ([aap-carseat](https://www.healthychildren.org/English/safety-prevention/on-the-go/Pages/Winter-Car-Seat-Safety-Tips.aspx))
+
+**Don't**
+- Don't buckle a child in over a winter coat or snowsuit. In a crash the padding flattens and leaves the harness too loose. ([aap-carseat](https://www.healthychildren.org/English/safety-prevention/on-the-go/Pages/Winter-Car-Seat-Safety-Tips.aspx))
+- Don't leave wet mittens on for the ride home. Wet mittens make kids colder, not warmer. ([aap-carseat](https://www.healthychildren.org/English/safety-prevention/on-the-go/Pages/Winter-Car-Seat-Safety-Tips.aspx))
+
+## Your pocket kit for warm-up breaks
+
+- A dry pair of mittens and socks for each child. Change out of anything wet right away. ([AAP](https://www.healthychildren.org/english/safety-prevention/at-play/pages/winter-safety.aspx))
+- A spare neck warmer or balaclava. They get damp from breath fast.
+- Snacks and a drink. AAP suggests something warm to drink when warming a cold child back up. ([AAP](https://www.healthychildren.org/english/safety-prevention/at-play/pages/winter-safety.aspx))
+- Tabs on zippers so small hands can work them with mittens on. ([sickkids-dressing](https://www.aboutkidshealth.ca/dressing-for-the-cold))
+- A plan for indoor breaks on a schedule, not just when someone complains. ([AAP](https://www.healthychildren.org/english/safety-prevention/at-play/pages/winter-safety.aspx))
+
+## Getting the fit right on the hill
+
+Take a layer off just before a burst of activity and put it back on when you stop, so kids don't sweat through their base layer. ([sickkids-dressing](https://www.aboutkidshealth.ca/dressing-for-the-cold)) If you're standing in a lift line or waiting at the bottom of the magic carpet, get them off the snow and out of the wind when you can. ([sickkids-dressing](https://www.aboutkidshealth.ca/dressing-for-the-cold)) At night, hang up jackets and snow pants and dry hats, mittens and boot liners somewhere warm, because damp gear won't keep anyone warm tomorrow. ([sickkids-dressing](https://www.aboutkidshealth.ca/dressing-for-the-cold)) And check the wind chill before you go: AAP advises avoiding outdoor play below -15°F, when exposed skin begins to freeze within minutes. ([AAP](https://www.healthychildren.org/english/safety-prevention/at-play/pages/winter-safety.aspx))
+
+## Parent FAQ
+
+**How many layers should a toddler wear skiing?**
+Usually three: a wicking base layer, an insulating fleece or wool middle layer, and a waterproof, windproof outer layer. The middle can be two thin pieces so you can adjust (SickKids AboutKidsHealth).
+
+**Mittens or gloves for a 3-year-old skier?**
+Mittens. Kids can bunch their fingers together inside mittens, which keeps them warmer in real cold (Canadian Paediatric Society). Pack a dry spare pair.
+
+**Can my toddler wear a snowsuit in the car seat?**
+No. Bulky coats and snowsuits shouldn't go under a car seat harness. Dress them in thin layers, buckle them in snugly, then put the coat or a blanket over the straps (AAP).
+
+**Is cotton OK under a ski suit?**
+Skip it. Cotton holds moisture, and damp skin loses heat quickly. Choose polyester, silk or similar materials for the base layer (SickKids AboutKidsHealth).
+
+## Sources
+- [AAP HealthyChildren.org: Winter safety tips](https://www.healthychildren.org/english/safety-prevention/at-play/pages/winter-safety.aspx)
+- [Canadian Paediatric Society: Frostbite](https://caringforkids.cps.ca/handouts/safety-and-injury-prevention/frostbite)
+- [AboutKidsHealth (SickKids): Dressing for the cold](https://www.aboutkidshealth.ca/dressing-for-the-cold)
+- [AboutKidsHealth (SickKids): Cold weather injuries](https://www.aboutkidshealth.ca/cold-weather-injuries)
+- [AAP HealthyChildren.org: Winter car seat safety tips](https://www.healthychildren.org/English/safety-prevention/on-the-go/Pages/Winter-Car-Seat-Safety-Tips.aspx)
+
+## When signal drops, GOES steps in.
+
+The free GOES Outdoor Health & Safety app keeps frostbite, hypothermia and altitude guidance on your phone offline: an interactive health assessment, 50+ visual how-to guides, and 200+ prevention tips across 60+ medical topics. Founded by wilderness medicine doctors.
+
+- iOS: https://apps.apple.com/us/app/goes-outdoor-health-safety/id1576527901?ct=skiready_markdown&mt=8
+- Android: https://play.google.com/store/apps/details?id=com.goes.mobile&referrer=utm_source%3Dmarkdown%26utm_medium%3Dagent%26utm_campaign%3Dskiready
+- About: https://goes.health/app?utm_source=markdown&utm_medium=agent&utm_campaign=skiready
+
+Free to download. GOES+ is $5.99/month or $35.99/year after a 7-day free trial; renews automatically unless canceled.
+
+GOES provides guidance and is not a substitute for professional medical care. If you think you have a medical emergency, call 911.
+
+
+---
+
+# Breckenridge Ski Resort with kids: cold-safety & live forecast
+
+> Highest base on this list. Most families feel the altitude before they feel the cold.
+
+Source page: https://skiready.goes.health/resorts/breckenridge
+Updated: 2026-11-25
+
+- Base elevation: 9,600 ft; summit: 12,998 ft (Peak 8 summit). Source: [Breckenridge Resort: Breckenridge altitude, what to know](https://www.breckenridge.com/travel-guide/breckenridge-elevation.aspx)
+- Nearest hospital: St. Anthony Summit Hospital (Frisco)
+- NWS point 39.48,-106.07 (Breckenridge, CO; grid elevation 9,797 ft), fetched Nov 25, 7:11 AM MST
+- At fetch: 16°F, wind 3 mph WSW, sunny (feels like about 16°F)
+- Lowest NWS wind chill, next 48 h: 8°F (Above 5°F: normal winter day)
+- Active NWS alerts: none
+
+## Altitude first
+The base is 9,600 ft. If you can, spend a night around Denver first; make day one short; watch for headache, nausea, poor appetite, fussiness or poor sleep in the first 24 hours ([Children's Colorado](https://www.childrenscolorado.org/just-ask-childrens/articles/altitude-sickness/), [CDC](https://www.cdc.gov/yellow-book/hcp/environmental-hazards-risks/high-altitude-travel-and-altitude-illness.html)).
+
+## NWS forecast
+| Period | Temp | Forecast | Wind |
+|---|---|---|---|
+| Today | 47°F | Sunny | 2 to 6 mph WNW |
+| Tonight | 21°F | Mostly Cloudy | 3 mph WSW |
+| Thanksgiving Day | 45°F | Mostly Sunny | 3 to 9 mph WNW |
+| Thursday Night | 21°F | Mostly Clear | 8 to 13 mph WNW |
+| Friday | 44°F | Mostly Sunny | 15 mph WNW |
+| Friday Night | 25°F | Snow Showers Likely | 14 to 17 mph W |
+| Saturday | 33°F | Snow Showers Likely | 20 mph WNW |
+| Saturday Night | 14°F | Snow Showers Likely | 10 to 18 mph WNW |
+
+Full forecast: https://forecast.weather.gov/MapClick.php?lat=39.48&lon=-106.07
+
+## Cold bands for kids
+- At 5°F or colder (temperature or wind chill): cut back time outside ([CPS](https://caringforkids.cps.ca/handouts/safety-and-injury-prevention/frostbite)).
+- Below -15°F: avoid outdoor play ([AAP](https://www.healthychildren.org/english/safety-prevention/at-play/pages/winter-safety.aspx)).
+
+SkiReady is independent and is not affiliated with or endorsed by any ski resort, the National Weather Service or any government agency.
+
+## When signal drops, GOES steps in.
+
+The free GOES Outdoor Health & Safety app keeps frostbite, hypothermia and altitude guidance on your phone offline: an interactive health assessment, 50+ visual how-to guides, and 200+ prevention tips across 60+ medical topics. Founded by wilderness medicine doctors.
+
+- iOS: https://apps.apple.com/us/app/goes-outdoor-health-safety/id1576527901?ct=skiready_markdown&mt=8
+- Android: https://play.google.com/store/apps/details?id=com.goes.mobile&referrer=utm_source%3Dmarkdown%26utm_medium%3Dagent%26utm_campaign%3Dskiready
+- About: https://goes.health/app?utm_source=markdown&utm_medium=agent&utm_campaign=skiready
+
+Free to download. GOES+ is $5.99/month or $35.99/year after a 7-day free trial; renews automatically unless canceled.
+
+GOES provides guidance and is not a substitute for professional medical care. If you think you have a medical emergency, call 911.
+
+
+---
+
+# Keystone Resort with kids: cold-safety & live forecast
+
+> High base plus long gondola and chairlift rides. Wind on the ride up is where cheeks and fingers get cold.
+
+Source page: https://skiready.goes.health/resorts/keystone
+Updated: 2026-11-25
+
+- Base elevation: 9,280 ft; summit: 12,408 ft. Source: [Vail Resorts News: Keystone winter fast facts](https://news.vailresorts.com/2011-09-08-Keystone-Winter-Fast-Facts-2012-13)
+- Nearest hospital: St. Anthony Summit Hospital (Frisco)
+- NWS point 39.605,-105.944 (Keystone, CO; grid elevation 9,396 ft), fetched Nov 25, 7:11 AM MST
+- At fetch: 18°F, wind 3 mph WSW, sunny (feels like about 18°F)
+- Lowest NWS wind chill, next 48 h: 6°F (Above 5°F: normal winter day)
+- Active NWS alerts: none
+
+## Altitude first
+The base is 9,280 ft. If you can, spend a night around Denver first; make day one short; watch for headache, nausea, poor appetite, fussiness or poor sleep in the first 24 hours ([Children's Colorado](https://www.childrenscolorado.org/just-ask-childrens/articles/altitude-sickness/), [CDC](https://www.cdc.gov/yellow-book/hcp/environmental-hazards-risks/high-altitude-travel-and-altitude-illness.html)).
+
+## NWS forecast
+| Period | Temp | Forecast | Wind |
+|---|---|---|---|
+| Today | 48°F | Sunny | 2 to 6 mph W |
+| Tonight | 20°F | Mostly Cloudy | 5 mph SSW |
+| Thanksgiving Day | 46°F | Mostly Sunny | 2 to 8 mph WNW |
+| Thursday Night | 22°F | Mostly Clear | 7 to 12 mph WNW |
+| Friday | 45°F | Mostly Sunny | 10 to 14 mph WNW |
+| Friday Night | 25°F | Snow Showers Likely | 15 mph W |
+| Saturday | 35°F | Snow Showers Likely | 15 to 18 mph WNW |
+| Saturday Night | 14°F | Snow Showers Likely | 10 to 16 mph WNW |
+
+Full forecast: https://forecast.weather.gov/MapClick.php?lat=39.605&lon=-105.944
+
+## Cold bands for kids
+- At 5°F or colder (temperature or wind chill): cut back time outside ([CPS](https://caringforkids.cps.ca/handouts/safety-and-injury-prevention/frostbite)).
+- Below -15°F: avoid outdoor play ([AAP](https://www.healthychildren.org/english/safety-prevention/at-play/pages/winter-safety.aspx)).
+
+SkiReady is independent and is not affiliated with or endorsed by any ski resort, the National Weather Service or any government agency.
+
+## When signal drops, GOES steps in.
+
+The free GOES Outdoor Health & Safety app keeps frostbite, hypothermia and altitude guidance on your phone offline: an interactive health assessment, 50+ visual how-to guides, and 200+ prevention tips across 60+ medical topics. Founded by wilderness medicine doctors.
+
+- iOS: https://apps.apple.com/us/app/goes-outdoor-health-safety/id1576527901?ct=skiready_markdown&mt=8
+- Android: https://play.google.com/store/apps/details?id=com.goes.mobile&referrer=utm_source%3Dmarkdown%26utm_medium%3Dagent%26utm_campaign%3Dskiready
+- About: https://goes.health/app?utm_source=markdown&utm_medium=agent&utm_campaign=skiready
+
+Free to download. GOES+ is $5.99/month or $35.99/year after a 7-day free trial; renews automatically unless canceled.
+
+GOES provides guidance and is not a substitute for professional medical care. If you think you have a medical emergency, call 911.
+
+
+---
+
+# Steamboat Ski Resort with kids: cold-safety & live forecast
+
+> Lower base than Summit County, but the summit is about 3,700 ft higher than the base and noticeably colder.
+
+Source page: https://skiready.goes.health/resorts/steamboat
+Updated: 2026-11-25
+
+- Base elevation: 6,900 ft; summit: 10,568 ft (Mount Werner). Source: [Steamboat Chamber: Steamboat facts & figures](https://www.steamboatchamber.com/discover-steamboat/facts-figures/)
+- Nearest hospital: UCHealth Yampa Valley Medical Center (Steamboat Springs)
+- NWS point 40.4575,-106.804 (Steamboat Springs, CO; grid elevation 7,323 ft), fetched Nov 25, 7:11 AM MST
+- At fetch: 18°F, wind calm, sunny (feels like about 18°F)
+- Lowest NWS wind chill, next 48 h: 18°F (Above 5°F: normal winter day)
+- Active NWS alerts: none
+
+## NWS forecast
+| Period | Temp | Forecast | Wind |
+|---|---|---|---|
+| Today | 45°F | Mostly Sunny | 0 mph  |
+| Tonight | 22°F | Mostly Cloudy | 0 mph  |
+| Thanksgiving Day | 45°F | Mostly Sunny | 0 to 5 mph WSW |
+| Thursday Night | 24°F | Partly Cloudy | 0 mph  |
+| Friday | 44°F | Mostly Cloudy then Chance Rain And Snow Showers | 0 to 5 mph WSW |
+| Friday Night | 27°F | Rain And Snow Showers | 5 mph WSW |
+| Saturday | 39°F | Snow Showers | 5 to 15 mph W |
+| Saturday Night | 18°F | Chance Snow Showers | 0 to 10 mph WSW |
+
+Full forecast: https://forecast.weather.gov/MapClick.php?lat=40.4575&lon=-106.804
+
+## Cold bands for kids
+- At 5°F or colder (temperature or wind chill): cut back time outside ([CPS](https://caringforkids.cps.ca/handouts/safety-and-injury-prevention/frostbite)).
+- Below -15°F: avoid outdoor play ([AAP](https://www.healthychildren.org/english/safety-prevention/at-play/pages/winter-safety.aspx)).
+
+SkiReady is independent and is not affiliated with or endorsed by any ski resort, the National Weather Service or any government agency.
+
+## When signal drops, GOES steps in.
+
+The free GOES Outdoor Health & Safety app keeps frostbite, hypothermia and altitude guidance on your phone offline: an interactive health assessment, 50+ visual how-to guides, and 200+ prevention tips across 60+ medical topics. Founded by wilderness medicine doctors.
+
+- iOS: https://apps.apple.com/us/app/goes-outdoor-health-safety/id1576527901?ct=skiready_markdown&mt=8
+- Android: https://play.google.com/store/apps/details?id=com.goes.mobile&referrer=utm_source%3Dmarkdown%26utm_medium%3Dagent%26utm_campaign%3Dskiready
+- About: https://goes.health/app?utm_source=markdown&utm_medium=agent&utm_campaign=skiready
+
+Free to download. GOES+ is $5.99/month or $35.99/year after a 7-day free trial; renews automatically unless canceled.
+
+GOES provides guidance and is not a substitute for professional medical care. If you think you have a medical emergency, call 911.
+
+
+---
+
+# Park City Mountain with kids: cold-safety & live forecast
+
+> Dry, sunny cold. Cheeks and noses can get frostnip on a bluebird day without anyone noticing.
+
+Source page: https://skiready.goes.health/resorts/park-city
+Updated: 2026-11-25
+
+- Base elevation: 6,800 ft; summit: 10,026 ft. Source: [Ski Utah: Park City Mountain](https://www.skiutah.com/members/park-city-mountain/snowreport)
+- Nearest hospital: Intermountain Park City Hospital
+- NWS point 40.6512,-111.508 (Park City, UT; grid elevation 6,919 ft), fetched Nov 25, 7:11 AM MST
+- At fetch: 27°F, wind 2 mph SSE, partly sunny (feels like about 27°F)
+- Lowest NWS wind chill, next 48 h: 22°F (Above 5°F: normal winter day)
+- Active NWS alerts: none
+
+## NWS forecast
+| Period | Temp | Forecast | Wind |
+|---|---|---|---|
+| Today | 46°F | Mostly Cloudy | 2 mph SSW |
+| Tonight | 26°F | Partly Cloudy | 2 mph W |
+| Thanksgiving Day | 47°F | Mostly Sunny | 1 mph W |
+| Thursday Night | 28°F | Partly Cloudy | 1 to 5 mph SW |
+| Friday | 48°F | Partly Sunny | 3 mph SW |
+| Friday Night | 31°F | Rain And Snow Likely | 3 to 16 mph SW |
+| Saturday | 39°F | Light Snow Likely | 3 to 16 mph W |
+| Saturday Night | 25°F | Mostly Cloudy | 2 to 7 mph SW |
+
+Full forecast: https://forecast.weather.gov/MapClick.php?lat=40.6512&lon=-111.508
+
+## Cold bands for kids
+- At 5°F or colder (temperature or wind chill): cut back time outside ([CPS](https://caringforkids.cps.ca/handouts/safety-and-injury-prevention/frostbite)).
+- Below -15°F: avoid outdoor play ([AAP](https://www.healthychildren.org/english/safety-prevention/at-play/pages/winter-safety.aspx)).
+
+SkiReady is independent and is not affiliated with or endorsed by any ski resort, the National Weather Service or any government agency.
+
+## When signal drops, GOES steps in.
+
+The free GOES Outdoor Health & Safety app keeps frostbite, hypothermia and altitude guidance on your phone offline: an interactive health assessment, 50+ visual how-to guides, and 200+ prevention tips across 60+ medical topics. Founded by wilderness medicine doctors.
+
+- iOS: https://apps.apple.com/us/app/goes-outdoor-health-safety/id1576527901?ct=skiready_markdown&mt=8
+- Android: https://play.google.com/store/apps/details?id=com.goes.mobile&referrer=utm_source%3Dmarkdown%26utm_medium%3Dagent%26utm_campaign%3Dskiready
+- About: https://goes.health/app?utm_source=markdown&utm_medium=agent&utm_campaign=skiready
+
+Free to download. GOES+ is $5.99/month or $35.99/year after a 7-day free trial; renews automatically unless canceled.
+
+GOES provides guidance and is not a substitute for professional medical care. If you think you have a medical emergency, call 911.
+
+
+---
+
+# Palisades Tahoe (Olympic Valley) with kids: cold-safety & live forecast
+
+> Sierra storms come in wet. Damp mittens and soaked layers, not deep cold, are the usual problem for kids.
+
+Source page: https://skiready.goes.health/resorts/palisades-tahoe
+Updated: 2026-11-25
+
+- Base elevation: 6,200 ft; summit: 9,050 ft. Source: [Palisades Tahoe: Mountain statistics](https://www.palisadestahoe.com/footer/mountain-statistics)
+- Nearest hospital: Tahoe Forest Hospital (Truckee)
+- NWS point 39.1968,-120.2354 (Sunnyside-Tahoe City, CA; grid elevation 6,283 ft), fetched Nov 25, 7:11 AM MST
+- At fetch: 29°F, wind 5 mph SW, mostly cloudy (feels like about 24°F)
+- Lowest NWS wind chill, next 48 h: 25°F (Above 5°F: normal winter day)
+- Active NWS alerts: none
+
+## NWS forecast
+| Period | Temp | Forecast | Wind |
+|---|---|---|---|
+| Today | 47°F | Mostly Sunny | 0 to 5 mph SW |
+| Tonight | 27°F | Partly Cloudy | 0 mph  |
+| Thanksgiving Day | 54°F | Partly Sunny | 0 mph  |
+| Thursday Night | 31°F | Mostly Cloudy | 0 mph  |
+| Friday | 54°F | Partly Sunny | 0 to 5 mph S |
+| Friday Night | 32°F | Mostly Cloudy | 0 to 5 mph SW |
+| Saturday | 50°F | Partly Sunny | 0 mph  |
+| Saturday Night | 31°F | Mostly Cloudy then Chance Rain And Snow | 0 to 10 mph SW |
+
+Full forecast: https://forecast.weather.gov/MapClick.php?lat=39.1968&lon=-120.2354
+
+## Cold bands for kids
+- At 5°F or colder (temperature or wind chill): cut back time outside ([CPS](https://caringforkids.cps.ca/handouts/safety-and-injury-prevention/frostbite)).
+- Below -15°F: avoid outdoor play ([AAP](https://www.healthychildren.org/english/safety-prevention/at-play/pages/winter-safety.aspx)).
+
+SkiReady is independent and is not affiliated with or endorsed by any ski resort, the National Weather Service or any government agency.
+
+## When signal drops, GOES steps in.
+
+The free GOES Outdoor Health & Safety app keeps frostbite, hypothermia and altitude guidance on your phone offline: an interactive health assessment, 50+ visual how-to guides, and 200+ prevention tips across 60+ medical topics. Founded by wilderness medicine doctors.
+
+- iOS: https://apps.apple.com/us/app/goes-outdoor-health-safety/id1576527901?ct=skiready_markdown&mt=8
+- Android: https://play.google.com/store/apps/details?id=com.goes.mobile&referrer=utm_source%3Dmarkdown%26utm_medium%3Dagent%26utm_campaign%3Dskiready
+- About: https://goes.health/app?utm_source=markdown&utm_medium=agent&utm_campaign=skiready
+
+Free to download. GOES+ is $5.99/month or $35.99/year after a 7-day free trial; renews automatically unless canceled.
+
+GOES provides guidance and is not a substitute for professional medical care. If you think you have a medical emergency, call 911.
+
+
+---
+
+# Stowe Mountain Resort with kids: cold-safety & live forecast
+
+> Low elevation, but Northeast arctic outbreaks bring the deepest wind chills on this list. Exposed skin is the main risk.
+
+Source page: https://skiready.goes.health/resorts/stowe
+Updated: 2026-11-25
+
+- Base elevation: 1,559 ft; summit: 4,395 ft (Mt. Mansfield, Vermont's highest peak). Source: [Vail Resorts News: Stowe Mountain Resort tip sheet](https://news.vailresorts.com/stowe-mountain-resort-tip-sheet)
+- Nearest hospital: Copley Hospital (Morrisville)
+- NWS point 44.53,-72.781 (Underhill Center, VT; grid elevation 2,093 ft), fetched Nov 25, 7:11 AM MST
+- At fetch: 22°F, wind calm, partly sunny (feels like about 22°F)
+- Lowest NWS wind chill, next 48 h: 11°F (Above 5°F: normal winter day)
+- Active NWS alerts: none
+
+## NWS forecast
+| Period | Temp | Forecast | Wind |
+|---|---|---|---|
+| Today | 30°F | Sunny | 1 mph SW |
+| Tonight | 18°F | Mostly Cloudy | 2 to 6 mph S |
+| Thanksgiving Day | 33°F | Mostly Cloudy | 7 mph SE |
+| Thursday Night | 30°F | Freezing Rain | 8 to 14 mph E |
+| Friday | 38°F | Light Rain then Rain And Snow | 5 to 8 mph SE |
+| Friday Night | 33°F | Light Rain then Rain And Snow Showers | 6 to 10 mph SW |
+| Saturday | 34°F | Rain And Snow Showers | 6 to 9 mph W |
+| Saturday Night | 31°F | Chance Rain And Snow Showers then Chance Rain And Snow | 7 to 10 mph SW |
+
+Full forecast: https://forecast.weather.gov/MapClick.php?lat=44.53&lon=-72.781
+
+## Cold bands for kids
+- At 5°F or colder (temperature or wind chill): cut back time outside ([CPS](https://caringforkids.cps.ca/handouts/safety-and-injury-prevention/frostbite)).
+- Below -15°F: avoid outdoor play ([AAP](https://www.healthychildren.org/english/safety-prevention/at-play/pages/winter-safety.aspx)).
+
+SkiReady is independent and is not affiliated with or endorsed by any ski resort, the National Weather Service or any government agency.
+
+## When signal drops, GOES steps in.
+
+The free GOES Outdoor Health & Safety app keeps frostbite, hypothermia and altitude guidance on your phone offline: an interactive health assessment, 50+ visual how-to guides, and 200+ prevention tips across 60+ medical topics. Founded by wilderness medicine doctors.
+
+- iOS: https://apps.apple.com/us/app/goes-outdoor-health-safety/id1576527901?ct=skiready_markdown&mt=8
+- Android: https://play.google.com/store/apps/details?id=com.goes.mobile&referrer=utm_source%3Dmarkdown%26utm_medium%3Dagent%26utm_campaign%3Dskiready
+- About: https://goes.health/app?utm_source=markdown&utm_medium=agent&utm_campaign=skiready
+
+Free to download. GOES+ is $5.99/month or $35.99/year after a 7-day free trial; renews automatically unless canceled.
+
+GOES provides guidance and is not a substitute for professional medical care. If you think you have a medical emergency, call 911.
+
+
+---
+
+# Vail Mountain with kids: cold-safety & live forecast
+
+> Big mountain with long lift rides out to the Back Bowls. The summit is about 3,450 ft above the base, so plan warm-up breaks before kids get cold, not after.
+
+Source page: https://skiready.goes.health/resorts/vail
+Updated: 2026-11-25
+
+- Base elevation: 8,120 ft; summit: 11,570 ft. Source: [Vail Mountain: Mountain info](https://www.vail.com/the-mountain/about-the-mountain/mountain-info.aspx)
+- Nearest hospital: Vail Health Hospital (Vail)
+- NWS point 39.6403,-106.3742 (Vail, CO; grid elevation 8,950 ft), fetched Nov 25, 7:11 AM MST
+- At fetch: 16°F, wind 5 mph SE, sunny (feels like about 8°F)
+- Lowest NWS wind chill, next 48 h: 6°F (Above 5°F: normal winter day)
+- Active NWS alerts: none
+
+## Altitude first
+The base is 8,120 ft. If you can, spend a night around Denver first; make day one short; watch for headache, nausea, poor appetite, fussiness or poor sleep in the first 24 hours ([Children's Colorado](https://www.childrenscolorado.org/just-ask-childrens/articles/altitude-sickness/), [CDC](https://www.cdc.gov/yellow-book/hcp/environmental-hazards-risks/high-altitude-travel-and-altitude-illness.html)).
+
+## NWS forecast
+| Period | Temp | Forecast | Wind |
+|---|---|---|---|
+| Today | 45°F | Sunny | 0 to 5 mph SW |
+| Tonight | 22°F | Mostly Cloudy | 0 to 5 mph SSE |
+| Thanksgiving Day | 44°F | Mostly Sunny | 0 to 5 mph WSW |
+| Thursday Night | 24°F | Mostly Clear | 5 mph SW |
+| Friday | 43°F | Partly Sunny | 5 to 10 mph WSW |
+| Friday Night | 27°F | Snow Showers | 5 mph WSW |
+| Saturday | 36°F | Snow Showers | 5 to 10 mph W |
+| Saturday Night | 16°F | Snow Showers Likely | 0 to 5 mph W |
+
+Full forecast: https://forecast.weather.gov/MapClick.php?lat=39.6403&lon=-106.3742
+
+## Cold bands for kids
+- At 5°F or colder (temperature or wind chill): cut back time outside ([CPS](https://caringforkids.cps.ca/handouts/safety-and-injury-prevention/frostbite)).
+- Below -15°F: avoid outdoor play ([AAP](https://www.healthychildren.org/english/safety-prevention/at-play/pages/winter-safety.aspx)).
+
+SkiReady is independent and is not affiliated with or endorsed by any ski resort, the National Weather Service or any government agency.
+
+## When signal drops, GOES steps in.
+
+The free GOES Outdoor Health & Safety app keeps frostbite, hypothermia and altitude guidance on your phone offline: an interactive health assessment, 50+ visual how-to guides, and 200+ prevention tips across 60+ medical topics. Founded by wilderness medicine doctors.
+
+- iOS: https://apps.apple.com/us/app/goes-outdoor-health-safety/id1576527901?ct=skiready_markdown&mt=8
+- Android: https://play.google.com/store/apps/details?id=com.goes.mobile&referrer=utm_source%3Dmarkdown%26utm_medium%3Dagent%26utm_campaign%3Dskiready
+- About: https://goes.health/app?utm_source=markdown&utm_medium=agent&utm_campaign=skiready
+
+Free to download. GOES+ is $5.99/month or $35.99/year after a 7-day free trial; renews automatically unless canceled.
+
+GOES provides guidance and is not a substitute for professional medical care. If you think you have a medical emergency, call 911.

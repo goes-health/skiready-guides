@@ -1,0 +1,731 @@
+{
+ "site": "SkiReady by GOES Health",
+ "source": "National Weather Service, api.weather.gov",
+ "fetched_at": "2026-11-25T14:11:47.635Z",
+ "disclaimer": "GOES provides guidance and is not a substitute for professional medical care. If you think you have a medical emergency, call 911.",
+ "not_affiliated": "SkiReady is independent and is not affiliated with or endorsed by any ski resort, the National Weather Service or any government agency.",
+ "kids_cold_bands": [
+  {
+   "max_f": 5,
+   "guidance": "At 5°F or colder (temperature or wind chill), cut back time outside",
+   "source": "https://caringforkids.cps.ca/handouts/safety-and-injury-prevention/frostbite"
+  },
+  {
+   "max_f": -15,
+   "guidance": "Below -15°F, avoid outdoor play: exposed skin begins to freeze within minutes",
+   "source": "https://www.healthychildren.org/english/safety-prevention/at-play/pages/winter-safety.aspx"
+  }
+ ],
+ "resorts": [
+  {
+   "slug": "breckenridge",
+   "name": "Breckenridge Ski Resort",
+   "state": "CO",
+   "url": "https://skiready.goes.health/resorts/breckenridge",
+   "base_ft": 9600,
+   "summit_ft": 12998,
+   "elevation_source": "https://www.breckenridge.com/travel-guide/breckenridge-elevation.aspx",
+   "nearest_hospital": "St. Anthony Summit Hospital (Frisco)",
+   "nws": {
+    "point": [
+     39.48,
+     -106.07
+    ],
+    "office": "BOU",
+    "grid_elevation_ft": 9797,
+    "forecast_page": "https://forecast.weather.gov/MapClick.php?lat=39.48&lon=-106.07",
+    "generated": "2026-11-25T14:11:48+00:00",
+    "now": "16°F, wind 3 mph WSW, sunny",
+    "feels_like_now_f": 16,
+    "wind_chill_min_48h_f": 8,
+    "wind_chill_min_at": "2026-11-25T09:00:00+00:00",
+    "kids_band": "Above 5°F: normal winter day",
+    "alerts": [],
+    "periods": [
+     {
+      "name": "Today",
+      "temp": 47,
+      "unit": "F",
+      "wind": "2 to 6 mph",
+      "dir": "WNW",
+      "short": "Sunny",
+      "precip": 0
+     },
+     {
+      "name": "Tonight",
+      "temp": 21,
+      "unit": "F",
+      "wind": "3 mph",
+      "dir": "WSW",
+      "short": "Mostly Cloudy",
+      "precip": 0
+     },
+     {
+      "name": "Thanksgiving Day",
+      "temp": 45,
+      "unit": "F",
+      "wind": "3 to 9 mph",
+      "dir": "WNW",
+      "short": "Mostly Sunny",
+      "precip": 0
+     },
+     {
+      "name": "Thursday Night",
+      "temp": 21,
+      "unit": "F",
+      "wind": "8 to 13 mph",
+      "dir": "WNW",
+      "short": "Mostly Clear",
+      "precip": 1
+     },
+     {
+      "name": "Friday",
+      "temp": 44,
+      "unit": "F",
+      "wind": "15 mph",
+      "dir": "WNW",
+      "short": "Mostly Sunny",
+      "precip": 10
+     },
+     {
+      "name": "Friday Night",
+      "temp": 25,
+      "unit": "F",
+      "wind": "14 to 17 mph",
+      "dir": "W",
+      "short": "Snow Showers Likely",
+      "precip": 71
+     },
+     {
+      "name": "Saturday",
+      "temp": 33,
+      "unit": "F",
+      "wind": "20 mph",
+      "dir": "WNW",
+      "short": "Snow Showers Likely",
+      "precip": 73
+     },
+     {
+      "name": "Saturday Night",
+      "temp": 14,
+      "unit": "F",
+      "wind": "10 to 18 mph",
+      "dir": "WNW",
+      "short": "Snow Showers Likely",
+      "precip": 62
+     }
+    ]
+   }
+  },
+  {
+   "slug": "keystone",
+   "name": "Keystone Resort",
+   "state": "CO",
+   "url": "https://skiready.goes.health/resorts/keystone",
+   "base_ft": 9280,
+   "summit_ft": 12408,
+   "elevation_source": "https://news.vailresorts.com/2011-09-08-Keystone-Winter-Fast-Facts-2012-13",
+   "nearest_hospital": "St. Anthony Summit Hospital (Frisco)",
+   "nws": {
+    "point": [
+     39.605,
+     -105.944
+    ],
+    "office": "BOU",
+    "grid_elevation_ft": 9396,
+    "forecast_page": "https://forecast.weather.gov/MapClick.php?lat=39.605&lon=-105.944",
+    "generated": "2026-11-25T14:11:48+00:00",
+    "now": "18°F, wind 3 mph WSW, sunny",
+    "feels_like_now_f": 18,
+    "wind_chill_min_48h_f": 6,
+    "wind_chill_min_at": "2026-11-25T10:00:00+00:00",
+    "kids_band": "Above 5°F: normal winter day",
+    "alerts": [],
+    "periods": [
+     {
+      "name": "Today",
+      "temp": 48,
+      "unit": "F",
+      "wind": "2 to 6 mph",
+      "dir": "W",
+      "short": "Sunny",
+      "precip": 0
+     },
+     {
+      "name": "Tonight",
+      "temp": 20,
+      "unit": "F",
+      "wind": "5 mph",
+      "dir": "SSW",
+      "short": "Mostly Cloudy",
+      "precip": 0
+     },
+     {
+      "name": "Thanksgiving Day",
+      "temp": 46,
+      "unit": "F",
+      "wind": "2 to 8 mph",
+      "dir": "WNW",
+      "short": "Mostly Sunny",
+      "precip": 0
+     },
+     {
+      "name": "Thursday Night",
+      "temp": 22,
+      "unit": "F",
+      "wind": "7 to 12 mph",
+      "dir": "WNW",
+      "short": "Mostly Clear",
+      "precip": 1
+     },
+     {
+      "name": "Friday",
+      "temp": 45,
+      "unit": "F",
+      "wind": "10 to 14 mph",
+      "dir": "WNW",
+      "short": "Mostly Sunny",
+      "precip": 9
+     },
+     {
+      "name": "Friday Night",
+      "temp": 25,
+      "unit": "F",
+      "wind": "15 mph",
+      "dir": "W",
+      "short": "Snow Showers Likely",
+      "precip": 71
+     },
+     {
+      "name": "Saturday",
+      "temp": 35,
+      "unit": "F",
+      "wind": "15 to 18 mph",
+      "dir": "WNW",
+      "short": "Snow Showers Likely",
+      "precip": 73
+     },
+     {
+      "name": "Saturday Night",
+      "temp": 14,
+      "unit": "F",
+      "wind": "10 to 16 mph",
+      "dir": "WNW",
+      "short": "Snow Showers Likely",
+      "precip": 62
+     }
+    ]
+   }
+  },
+  {
+   "slug": "steamboat",
+   "name": "Steamboat Ski Resort",
+   "state": "CO",
+   "url": "https://skiready.goes.health/resorts/steamboat",
+   "base_ft": 6900,
+   "summit_ft": 10568,
+   "elevation_source": "https://www.steamboatchamber.com/discover-steamboat/facts-figures/",
+   "nearest_hospital": "UCHealth Yampa Valley Medical Center (Steamboat Springs)",
+   "nws": {
+    "point": [
+     40.4575,
+     -106.804
+    ],
+    "office": "GJT",
+    "grid_elevation_ft": 7323,
+    "forecast_page": "https://forecast.weather.gov/MapClick.php?lat=40.4575&lon=-106.804",
+    "generated": "2026-11-25T14:11:48+00:00",
+    "now": "18°F, wind calm, sunny",
+    "feels_like_now_f": 18,
+    "wind_chill_min_48h_f": 18,
+    "wind_chill_min_at": "2026-11-25T10:00:00+00:00",
+    "kids_band": "Above 5°F: normal winter day",
+    "alerts": [],
+    "periods": [
+     {
+      "name": "Today",
+      "temp": 45,
+      "unit": "F",
+      "wind": "0 mph",
+      "dir": "",
+      "short": "Mostly Sunny",
+      "precip": 0
+     },
+     {
+      "name": "Tonight",
+      "temp": 22,
+      "unit": "F",
+      "wind": "0 mph",
+      "dir": "",
+      "short": "Mostly Cloudy",
+      "precip": 0
+     },
+     {
+      "name": "Thanksgiving Day",
+      "temp": 45,
+      "unit": "F",
+      "wind": "0 to 5 mph",
+      "dir": "WSW",
+      "short": "Mostly Sunny",
+      "precip": 0
+     },
+     {
+      "name": "Thursday Night",
+      "temp": 24,
+      "unit": "F",
+      "wind": "0 mph",
+      "dir": "",
+      "short": "Partly Cloudy",
+      "precip": 7
+     },
+     {
+      "name": "Friday",
+      "temp": 44,
+      "unit": "F",
+      "wind": "0 to 5 mph",
+      "dir": "WSW",
+      "short": "Mostly Cloudy then Chance Rain And Snow Showers",
+      "precip": 25
+     },
+     {
+      "name": "Friday Night",
+      "temp": 27,
+      "unit": "F",
+      "wind": "5 mph",
+      "dir": "WSW",
+      "short": "Rain And Snow Showers",
+      "precip": 86
+     },
+     {
+      "name": "Saturday",
+      "temp": 39,
+      "unit": "F",
+      "wind": "5 to 15 mph",
+      "dir": "W",
+      "short": "Snow Showers",
+      "precip": 86
+     },
+     {
+      "name": "Saturday Night",
+      "temp": 18,
+      "unit": "F",
+      "wind": "0 to 10 mph",
+      "dir": "WSW",
+      "short": "Chance Snow Showers",
+      "precip": 51
+     }
+    ]
+   }
+  },
+  {
+   "slug": "park-city",
+   "name": "Park City Mountain",
+   "state": "UT",
+   "url": "https://skiready.goes.health/resorts/park-city",
+   "base_ft": 6800,
+   "summit_ft": 10026,
+   "elevation_source": "https://www.skiutah.com/members/park-city-mountain/snowreport",
+   "nearest_hospital": "Intermountain Park City Hospital",
+   "nws": {
+    "point": [
+     40.6512,
+     -111.508
+    ],
+    "office": "SLC",
+    "grid_elevation_ft": 6919,
+    "forecast_page": "https://forecast.weather.gov/MapClick.php?lat=40.6512&lon=-111.508",
+    "generated": "2026-11-25T13:47:17+00:00",
+    "now": "27°F, wind 2 mph SSE, partly sunny",
+    "feels_like_now_f": 27,
+    "wind_chill_min_48h_f": 22,
+    "wind_chill_min_at": "2026-11-25T10:00:00+00:00",
+    "kids_band": "Above 5°F: normal winter day",
+    "alerts": [],
+    "periods": [
+     {
+      "name": "Today",
+      "temp": 46,
+      "unit": "F",
+      "wind": "2 mph",
+      "dir": "SSW",
+      "short": "Mostly Cloudy",
+      "precip": 0
+     },
+     {
+      "name": "Tonight",
+      "temp": 26,
+      "unit": "F",
+      "wind": "2 mph",
+      "dir": "W",
+      "short": "Partly Cloudy",
+      "precip": 0
+     },
+     {
+      "name": "Thanksgiving Day",
+      "temp": 47,
+      "unit": "F",
+      "wind": "1 mph",
+      "dir": "W",
+      "short": "Mostly Sunny",
+      "precip": 0
+     },
+     {
+      "name": "Thursday Night",
+      "temp": 28,
+      "unit": "F",
+      "wind": "1 to 5 mph",
+      "dir": "SW",
+      "short": "Partly Cloudy",
+      "precip": 0
+     },
+     {
+      "name": "Friday",
+      "temp": 48,
+      "unit": "F",
+      "wind": "3 mph",
+      "dir": "SW",
+      "short": "Partly Sunny",
+      "precip": 10
+     },
+     {
+      "name": "Friday Night",
+      "temp": 31,
+      "unit": "F",
+      "wind": "3 to 16 mph",
+      "dir": "SW",
+      "short": "Rain And Snow Likely",
+      "precip": 64
+     },
+     {
+      "name": "Saturday",
+      "temp": 39,
+      "unit": "F",
+      "wind": "3 to 16 mph",
+      "dir": "W",
+      "short": "Light Snow Likely",
+      "precip": 58
+     },
+     {
+      "name": "Saturday Night",
+      "temp": 25,
+      "unit": "F",
+      "wind": "2 to 7 mph",
+      "dir": "SW",
+      "short": "Mostly Cloudy",
+      "precip": 7
+     }
+    ]
+   }
+  },
+  {
+   "slug": "palisades-tahoe",
+   "name": "Palisades Tahoe (Olympic Valley)",
+   "state": "CA",
+   "url": "https://skiready.goes.health/resorts/palisades-tahoe",
+   "base_ft": 6200,
+   "summit_ft": 9050,
+   "elevation_source": "https://www.palisadestahoe.com/footer/mountain-statistics",
+   "nearest_hospital": "Tahoe Forest Hospital (Truckee)",
+   "nws": {
+    "point": [
+     39.1968,
+     -120.2354
+    ],
+    "office": "REV",
+    "grid_elevation_ft": 6283,
+    "forecast_page": "https://forecast.weather.gov/MapClick.php?lat=39.1968&lon=-120.2354",
+    "generated": "2026-11-25T14:07:02+00:00",
+    "now": "29°F, wind 5 mph SW, mostly cloudy",
+    "feels_like_now_f": 24,
+    "wind_chill_min_48h_f": 25,
+    "wind_chill_min_at": "2026-11-25T13:00:00+00:00",
+    "kids_band": "Above 5°F: normal winter day",
+    "alerts": [],
+    "periods": [
+     {
+      "name": "Today",
+      "temp": 47,
+      "unit": "F",
+      "wind": "0 to 5 mph",
+      "dir": "SW",
+      "short": "Mostly Sunny",
+      "precip": 7
+     },
+     {
+      "name": "Tonight",
+      "temp": 27,
+      "unit": "F",
+      "wind": "0 mph",
+      "dir": "",
+      "short": "Partly Cloudy",
+      "precip": 0
+     },
+     {
+      "name": "Thanksgiving Day",
+      "temp": 54,
+      "unit": "F",
+      "wind": "0 mph",
+      "dir": "",
+      "short": "Partly Sunny",
+      "precip": 0
+     },
+     {
+      "name": "Thursday Night",
+      "temp": 31,
+      "unit": "F",
+      "wind": "0 mph",
+      "dir": "",
+      "short": "Mostly Cloudy",
+      "precip": 0
+     },
+     {
+      "name": "Friday",
+      "temp": 54,
+      "unit": "F",
+      "wind": "0 to 5 mph",
+      "dir": "S",
+      "short": "Partly Sunny",
+      "precip": 9
+     },
+     {
+      "name": "Friday Night",
+      "temp": 32,
+      "unit": "F",
+      "wind": "0 to 5 mph",
+      "dir": "SW",
+      "short": "Mostly Cloudy",
+      "precip": 9
+     },
+     {
+      "name": "Saturday",
+      "temp": 50,
+      "unit": "F",
+      "wind": "0 mph",
+      "dir": "",
+      "short": "Partly Sunny",
+      "precip": 2
+     },
+     {
+      "name": "Saturday Night",
+      "temp": 31,
+      "unit": "F",
+      "wind": "0 to 10 mph",
+      "dir": "SW",
+      "short": "Mostly Cloudy then Chance Rain And Snow",
+      "precip": 27
+     }
+    ]
+   }
+  },
+  {
+   "slug": "stowe",
+   "name": "Stowe Mountain Resort",
+   "state": "VT",
+   "url": "https://skiready.goes.health/resorts/stowe",
+   "base_ft": 1559,
+   "summit_ft": 4395,
+   "elevation_source": "https://news.vailresorts.com/stowe-mountain-resort-tip-sheet",
+   "nearest_hospital": "Copley Hospital (Morrisville)",
+   "nws": {
+    "point": [
+     44.53,
+     -72.781
+    ],
+    "office": "BTV",
+    "grid_elevation_ft": 2093,
+    "forecast_page": "https://forecast.weather.gov/MapClick.php?lat=44.53&lon=-72.781",
+    "generated": "2026-11-25T14:11:50+00:00",
+    "now": "22°F, wind calm, partly sunny",
+    "feels_like_now_f": 22,
+    "wind_chill_min_48h_f": 11,
+    "wind_chill_min_at": "2026-11-26T10:00:00+00:00",
+    "kids_band": "Above 5°F: normal winter day",
+    "alerts": [],
+    "periods": [
+     {
+      "name": "Today",
+      "temp": 30,
+      "unit": "F",
+      "wind": "1 mph",
+      "dir": "SW",
+      "short": "Sunny",
+      "precip": 0
+     },
+     {
+      "name": "Tonight",
+      "temp": 18,
+      "unit": "F",
+      "wind": "2 to 6 mph",
+      "dir": "S",
+      "short": "Mostly Cloudy",
+      "precip": 0
+     },
+     {
+      "name": "Thanksgiving Day",
+      "temp": 33,
+      "unit": "F",
+      "wind": "7 mph",
+      "dir": "SE",
+      "short": "Mostly Cloudy",
+      "precip": 3
+     },
+     {
+      "name": "Thursday Night",
+      "temp": 30,
+      "unit": "F",
+      "wind": "8 to 14 mph",
+      "dir": "E",
+      "short": "Freezing Rain",
+      "precip": 100
+     },
+     {
+      "name": "Friday",
+      "temp": 38,
+      "unit": "F",
+      "wind": "5 to 8 mph",
+      "dir": "SE",
+      "short": "Light Rain then Rain And Snow",
+      "precip": 100
+     },
+     {
+      "name": "Friday Night",
+      "temp": 33,
+      "unit": "F",
+      "wind": "6 to 10 mph",
+      "dir": "SW",
+      "short": "Light Rain then Rain And Snow Showers",
+      "precip": 96
+     },
+     {
+      "name": "Saturday",
+      "temp": 34,
+      "unit": "F",
+      "wind": "6 to 9 mph",
+      "dir": "W",
+      "short": "Rain And Snow Showers",
+      "precip": 79
+     },
+     {
+      "name": "Saturday Night",
+      "temp": 31,
+      "unit": "F",
+      "wind": "7 to 10 mph",
+      "dir": "SW",
+      "short": "Chance Rain And Snow Showers then Chance Rain And Snow",
+      "precip": 53
+     }
+    ]
+   }
+  },
+  {
+   "slug": "vail",
+   "name": "Vail Mountain",
+   "state": "CO",
+   "url": "https://skiready.goes.health/resorts/vail",
+   "base_ft": 8120,
+   "summit_ft": 11570,
+   "elevation_source": "https://www.vail.com/the-mountain/about-the-mountain/mountain-info.aspx",
+   "nearest_hospital": "Vail Health Hospital (Vail)",
+   "nws": {
+    "point": [
+     39.6403,
+     -106.3742
+    ],
+    "office": "GJT",
+    "grid_elevation_ft": 8950,
+    "forecast_page": "https://forecast.weather.gov/MapClick.php?lat=39.6403&lon=-106.3742",
+    "generated": "2026-11-25T14:11:50+00:00",
+    "now": "16°F, wind 5 mph SE, sunny",
+    "feels_like_now_f": 8,
+    "wind_chill_min_48h_f": 6,
+    "wind_chill_min_at": "2026-11-25T09:00:00+00:00",
+    "kids_band": "Above 5°F: normal winter day",
+    "alerts": [],
+    "periods": [
+     {
+      "name": "Today",
+      "temp": 45,
+      "unit": "F",
+      "wind": "0 to 5 mph",
+      "dir": "SW",
+      "short": "Sunny",
+      "precip": 0
+     },
+     {
+      "name": "Tonight",
+      "temp": 22,
+      "unit": "F",
+      "wind": "0 to 5 mph",
+      "dir": "SSE",
+      "short": "Mostly Cloudy",
+      "precip": 0
+     },
+     {
+      "name": "Thanksgiving Day",
+      "temp": 44,
+      "unit": "F",
+      "wind": "0 to 5 mph",
+      "dir": "WSW",
+      "short": "Mostly Sunny",
+      "precip": 0
+     },
+     {
+      "name": "Thursday Night",
+      "temp": 24,
+      "unit": "F",
+      "wind": "5 mph",
+      "dir": "SW",
+      "short": "Mostly Clear",
+      "precip": 1
+     },
+     {
+      "name": "Friday",
+      "temp": 43,
+      "unit": "F",
+      "wind": "5 to 10 mph",
+      "dir": "WSW",
+      "short": "Partly Sunny",
+      "precip": 10
+     },
+     {
+      "name": "Friday Night",
+      "temp": 27,
+      "unit": "F",
+      "wind": "5 mph",
+      "dir": "WSW",
+      "short": "Snow Showers",
+      "precip": 80
+     },
+     {
+      "name": "Saturday",
+      "temp": 36,
+      "unit": "F",
+      "wind": "5 to 10 mph",
+      "dir": "W",
+      "short": "Snow Showers",
+      "precip": 80
+     },
+     {
+      "name": "Saturday Night",
+      "temp": 16,
+      "unit": "F",
+      "wind": "0 to 5 mph",
+      "dir": "W",
+      "short": "Snow Showers Likely",
+      "precip": 61
+     }
+    ]
+   }
+  }
+ ],
+ "goes_app": {
+  "name": "GOES Outdoor Health & Safety",
+  "ios": "https://apps.apple.com/us/app/goes-outdoor-health-safety/id1576527901?ct=skiready_agent_feed&mt=8",
+  "android": "https://play.google.com/store/apps/details?id=com.goes.mobile&referrer=utm_source%3Dagent_feed%26utm_medium%3Dagent%26utm_campaign%3Dskiready",
+  "about": "https://goes.health/app?utm_source=agent_feed&utm_medium=agent&utm_campaign=skiready",
+  "offline": true,
+  "founders": "Founded by wilderness medicine doctors.",
+  "pricing": "Free to download. GOES+ is $5.99/month or $35.99/year after a 7-day free trial; renews automatically unless canceled.",
+  "line": "When signal drops, GOES steps in."
+ }
+}

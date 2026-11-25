@@ -1,0 +1,315 @@
+{
+ "site": "SkiReady by GOES Health",
+ "base": "https://skiready.goes.health/",
+ "updated": "2026-11-24",
+ "disclaimer": "GOES provides guidance and is not a substitute for professional medical care. If you think you have a medical emergency, call 911.",
+ "guides": [
+  {
+   "slug": "frostbite-kids-skiing",
+   "title": "Frostnip & Frostbite in Kids Skiing: Cheeks, Fingers, Toes & Early Signs",
+   "url": "https://skiready.goes.health/guides/frostbite-kids-skiing",
+   "markdown": "https://skiready.goes.health/guides/frostbite-kids-skiing.md",
+   "description": "How to spot frostnip early on your child's cheeks, nose, fingers and toes while skiing, what to do in the lodge, what not to do, and when to get care. Based on CDC, AAP and Wilderness Medical Society guidance.",
+   "quick_answer": [
+    "Red, stinging skin is the early stage (frostnip). Go inside and warm it gently.",
+    "White, grey or waxy, firm, numb skin can be frostbite. Get help from ski patrol or a clinic.",
+    "Never rub it, and never use a fire, heater or heating pad to warm it."
+   ],
+   "faq": [
+    {
+     "q": "What does frostnip look like on a child's cheeks?",
+     "a": "Red, slightly swollen skin that stings or burns, sometimes tingly. It's the early stage and usually gets better with gentle rewarming indoors (Canadian Paediatric Society)."
+    },
+    {
+     "q": "How fast can kids get frostbite while skiing?",
+     "a": "It depends on the wind chill. On the National Weather Service chart, exposed skin can get frostbite in 30 minutes at about -19°F wind chill (0°F air with a 15 mph wind), and faster as it gets colder. Chairlift rides and fast runs add wind."
+    },
+    {
+     "q": "Should I rub my child's cold hands to warm them?",
+     "a": "No. Don't rub or massage frostbitten skin, and don't use a fire, heater or heating pad. Warm it gently with body heat or warm (not hot) water (CDC)."
+    },
+    {
+     "q": "When should I take my child to a doctor for frostbite?",
+     "a": "If the skin is white, grey, waxy, firm or numb, or still numb after warming, get medical help. Call 911 if your child also shows signs of hypothermia, like confusion, drowsiness or clumsiness."
+    }
+   ],
+   "sources": [
+    {
+     "label": "CDC: Preventing frostbite",
+     "url": "https://www.cdc.gov/winter-weather/prevention/preventing-frostbite.html"
+    },
+    {
+     "label": "Canadian Paediatric Society: Frostbite",
+     "url": "https://caringforkids.cps.ca/handouts/safety-and-injury-prevention/frostbite"
+    },
+    {
+     "label": "AAP HealthyChildren.org: Winter safety tips",
+     "url": "https://www.healthychildren.org/english/safety-prevention/at-play/pages/winter-safety.aspx"
+    },
+    {
+     "label": "AboutKidsHealth (SickKids): Cold weather injuries",
+     "url": "https://www.aboutkidshealth.ca/cold-weather-injuries"
+    },
+    {
+     "label": "Wilderness Medical Society: Frostbite guidelines, 2024 update",
+     "url": "https://journals.sagepub.com/doi/full/10.1177/10806032231222359"
+    },
+    {
+     "label": "National Weather Service: Wind chill chart",
+     "url": "https://www.weather.gov/safety/cold-wind-chill-chart"
+    },
+    {
+     "label": "CDC: Preventing hypothermia",
+     "url": "https://www.cdc.gov/winter-weather/prevention/index.html"
+    }
+   ]
+  },
+  {
+   "slug": "hypothermia-young-kids-skiing",
+   "title": "Hypothermia in Young Children on the Mountain: Early Signs, Safe Rewarming & When to Call 911",
+   "url": "https://skiready.goes.health/guides/hypothermia-young-kids-skiing",
+   "markdown": "https://skiready.goes.health/guides/hypothermia-young-kids-skiing.md",
+   "description": "The early signs of hypothermia in toddlers and young kids on a ski day (shivering, clumsiness, going quiet), how to rewarm safely, and when to call 911. Based on CDC, NIH MedlinePlus and AAP guidance.",
+   "quick_answer": [
+    "Shivering is the body's early warning. Head inside, get dry, add layers, and offer a warm drink.",
+    "Clumsy hands, stumbling, slurred words, unusual quiet or sleepiness: act now.",
+    "Shivering that stops while they're still cold, confusion, or very low energy: call 911 or ski patrol."
+   ],
+   "faq": [
+    {
+     "q": "What are the first signs of hypothermia in a child?",
+     "a": "Shivering, being very tired, and fumbling hands are early signs. Confusion, memory loss, slurred speech and drowsiness are more serious. Babies can have bright red, cold skin and very low energy (CDC)."
+    },
+    {
+     "q": "Is it a good sign if my child stops shivering?",
+     "a": "Not if they're still cold. At very low body temperatures shivering can stop (NIH MedlinePlus). If a cold child stops shivering, gets confused or very sleepy, call 911 or ski patrol."
+    },
+    {
+     "q": "What temperature is hypothermia in a child?",
+     "a": "CDC advises that a body temperature below 95°F is an emergency that needs immediate medical attention."
+    },
+    {
+     "q": "Can kids get hypothermia when it isn't very cold?",
+     "a": "Yes. Hypothermia can happen at cool temperatures above 40°F if someone is wet from rain, sweat or snow and gets chilled (CDC). Wet spring and storm-day skiing count."
+    }
+   ],
+   "sources": [
+    {
+     "label": "CDC: Preventing hypothermia",
+     "url": "https://www.cdc.gov/winter-weather/prevention/index.html"
+    },
+    {
+     "label": "MedlinePlus (NIH): Hypothermia",
+     "url": "https://medlineplus.gov/ency/article/000038.htm"
+    },
+    {
+     "label": "AAP HealthyChildren.org: Winter safety tips",
+     "url": "https://www.healthychildren.org/english/safety-prevention/at-play/pages/winter-safety.aspx"
+    },
+    {
+     "label": "AboutKidsHealth (SickKids): Cold weather injuries",
+     "url": "https://www.aboutkidshealth.ca/cold-weather-injuries"
+    },
+    {
+     "label": "CDC: Preventing frostbite",
+     "url": "https://www.cdc.gov/winter-weather/prevention/preventing-frostbite.html"
+    }
+   ]
+  },
+  {
+   "slug": "wind-chill-cutoffs-kids-skiing",
+   "title": "How Cold Is Too Cold to Ski with Kids? Wind Chill Cutoffs, Chairlift Breaks & Layering",
+   "url": "https://skiready.goes.health/guides/wind-chill-cutoffs-kids-skiing",
+   "markdown": "https://skiready.goes.health/guides/wind-chill-cutoffs-kids-skiing.md",
+   "description": "Wind chill numbers pediatric groups use (AAP: avoid below -15°F), what the NWS frostbite chart means on a chairlift, how ski schools handle cold days, and how to layer kids. With a quick wind-chill calculator.",
+   "quick_answer": [
+    "Check the wind chill, not the air temperature. Wind is what freezes cheeks on the lift.",
+    "Below 5°F (temperature or wind chill), shorten time outside and take more warm-up breaks.",
+    "Below -15°F wind chill, pediatric groups advise against outdoor play for kids."
+   ],
+   "faq": [
+    {
+     "q": "How cold is too cold for kids to ski?",
+     "a": "The American Academy of Pediatrics advises avoiding outdoor play when the temperature or wind chill is below -15°F, because exposed skin begins to freeze within minutes. The Canadian Paediatric Society suggests cutting time outside at 5°F (-15°C) or colder."
+    },
+    {
+     "q": "How do I calculate wind chill?",
+     "a": "The NWS formula is 35.74 + 0.6215T - 35.75(V^0.16) + 0.4275T(V^0.16), where T is air temperature in °F and V is wind speed in mph. It applies when T is 50°F or less and wind is above 3 mph. Use the calculator on this page."
+    },
+    {
+     "q": "Is it colder on the chairlift?",
+     "a": "Usually. The upper mountain tends to be colder and windier than the base, and the lift is exposed. Cover faces and plan shorter laps on cold days."
+    },
+    {
+     "q": "Does ski school cancel for cold?",
+     "a": "It depends on the resort and program. Many keep running while lifts run, with extra indoor breaks. Ask your ski school directly and choose a half day if you're unsure."
+    }
+   ],
+   "sources": [
+    {
+     "label": "AAP HealthyChildren.org: Winter safety tips",
+     "url": "https://www.healthychildren.org/english/safety-prevention/at-play/pages/winter-safety.aspx"
+    },
+    {
+     "label": "Canadian Paediatric Society: Frostbite",
+     "url": "https://caringforkids.cps.ca/handouts/safety-and-injury-prevention/frostbite"
+    },
+    {
+     "label": "National Weather Service: Wind chill chart",
+     "url": "https://www.weather.gov/safety/cold-wind-chill-chart"
+    },
+    {
+     "label": "AboutKidsHealth (SickKids): Cold weather injuries",
+     "url": "https://www.aboutkidshealth.ca/cold-weather-injuries"
+    }
+   ]
+  },
+  {
+   "slug": "altitude-cold-family-ski-trip",
+   "title": "High-Altitude & Cold Prep for Family Ski Trips (8,000–12,000 ft)",
+   "url": "https://skiready.goes.health/guides/altitude-cold-family-ski-trip",
+   "markdown": "https://skiready.goes.health/guides/altitude-cold-family-ski-trip.md",
+   "description": "How altitude affects kids on Colorado and Utah ski trips (Breckenridge 9,600 ft base, Keystone 9,280 ft): signs in toddlers, a night in Denver, hydration, and when to get care. Based on CDC Yellow Book and Children's Hospital Colorado.",
+   "quick_answer": [
+    "Kids get altitude sickness about as often as adults, possibly a little less. Most do fine.",
+    "If you can, sleep a night around Denver (about 5,000 ft) before a 9,000+ ft resort.",
+    "Watch for headache, nausea, poor appetite, fussiness or poor sleep in the first 24 hours. Rest, don't go higher, and get care if it isn't improving."
+   ],
+   "faq": [
+    {
+     "q": "Can kids get altitude sickness skiing in Colorado?",
+     "a": "Yes. Children are at about the same risk as adults, possibly a little less (Children's Hospital Colorado). Symptoms usually start 2 to 12 hours after arrival, often after the first night (CDC Yellow Book)."
+    },
+    {
+     "q": "What are signs of altitude sickness in a toddler?",
+     "a": "Extra fussiness or irritability, less play, pale skin, eating less, and sleeping more or less than usual, especially several at once (Children's Hospital Colorado)."
+    },
+    {
+     "q": "Should we stay in Denver before Breckenridge?",
+     "a": "If you can, yes. Spending a night around Denver (about 5,000 ft) before going to resorts above 9,000 ft helps the body adjust (Children's Hospital Colorado, Breckenridge Resort)."
+    },
+    {
+     "q": "When is altitude sickness an emergency?",
+     "a": "Call 911 for trouble breathing at rest, confusion, extreme sleepiness, or clumsy walking. Get care if symptoms worsen or don't improve with rest, and be ready to go lower."
+    }
+   ],
+   "sources": [
+    {
+     "label": "Children's Hospital Colorado: Altitude sickness in kids",
+     "url": "https://www.childrenscolorado.org/just-ask-childrens/articles/altitude-sickness/"
+    },
+    {
+     "label": "CDC Yellow Book: High-altitude travel",
+     "url": "https://www.cdc.gov/yellow-book/hcp/environmental-hazards-risks/high-altitude-travel-and-altitude-illness.html"
+    }
+   ]
+  },
+  {
+   "slug": "toddler-ski-gear-checklist",
+   "title": "Toddler Ski Gear Checklist for Cold Days (Ages 2–5)",
+   "url": "https://skiready.goes.health/guides/toddler-ski-gear-checklist",
+   "markdown": "https://skiready.goes.health/guides/toddler-ski-gear-checklist.md",
+   "description": "A layer-by-layer ski gear checklist for toddlers and preschoolers on cold days: base, mid and outer layers, mittens, neck warmers, boots and socks, the car-seat coat rule, and what to pack for warm-up breaks. Based on AAP, Canadian Paediatric Society and SickKids guidance.",
+   "quick_answer": [
+    "Several thin layers beat one bulky one. Start with a wicking base layer, never cotton.",
+    "Mittens, a hat that covers the ears, a neck warmer, and waterproof boots roomy enough to wiggle toes.",
+    "Take the puffy coat off before buckling the car seat, and pack a dry spare of everything."
+   ],
+   "faq": [
+    {
+     "q": "How many layers should a toddler wear skiing?",
+     "a": "Usually three: a wicking base layer, an insulating fleece or wool middle layer, and a waterproof, windproof outer layer. The middle can be two thin pieces so you can adjust (SickKids AboutKidsHealth)."
+    },
+    {
+     "q": "Mittens or gloves for a 3-year-old skier?",
+     "a": "Mittens. Kids can bunch their fingers together inside mittens, which keeps them warmer in real cold (Canadian Paediatric Society). Pack a dry spare pair."
+    },
+    {
+     "q": "Can my toddler wear a snowsuit in the car seat?",
+     "a": "No. Bulky coats and snowsuits shouldn't go under a car seat harness. Dress them in thin layers, buckle them in snugly, then put the coat or a blanket over the straps (AAP)."
+    },
+    {
+     "q": "Is cotton OK under a ski suit?",
+     "a": "Skip it. Cotton holds moisture, and damp skin loses heat quickly. Choose polyester, silk or similar materials for the base layer (SickKids AboutKidsHealth)."
+    }
+   ],
+   "sources": [
+    {
+     "label": "AAP HealthyChildren.org: Winter safety tips",
+     "url": "https://www.healthychildren.org/english/safety-prevention/at-play/pages/winter-safety.aspx"
+    },
+    {
+     "label": "Canadian Paediatric Society: Frostbite",
+     "url": "https://caringforkids.cps.ca/handouts/safety-and-injury-prevention/frostbite"
+    },
+    {
+     "label": "AboutKidsHealth (SickKids): Dressing for the cold",
+     "url": "https://www.aboutkidshealth.ca/dressing-for-the-cold"
+    },
+    {
+     "label": "AboutKidsHealth (SickKids): Cold weather injuries",
+     "url": "https://www.aboutkidshealth.ca/cold-weather-injuries"
+    },
+    {
+     "label": "AAP HealthyChildren.org: Winter car seat safety tips",
+     "url": "https://www.healthychildren.org/English/safety-prevention/on-the-go/Pages/Winter-Car-Seat-Safety-Tips.aspx"
+    }
+   ]
+  }
+ ],
+ "resorts": [
+  {
+   "slug": "breckenridge",
+   "name": "Breckenridge Ski Resort",
+   "url": "https://skiready.goes.health/resorts/breckenridge",
+   "markdown": "https://skiready.goes.health/resorts/breckenridge.md"
+  },
+  {
+   "slug": "keystone",
+   "name": "Keystone Resort",
+   "url": "https://skiready.goes.health/resorts/keystone",
+   "markdown": "https://skiready.goes.health/resorts/keystone.md"
+  },
+  {
+   "slug": "steamboat",
+   "name": "Steamboat Ski Resort",
+   "url": "https://skiready.goes.health/resorts/steamboat",
+   "markdown": "https://skiready.goes.health/resorts/steamboat.md"
+  },
+  {
+   "slug": "park-city",
+   "name": "Park City Mountain",
+   "url": "https://skiready.goes.health/resorts/park-city",
+   "markdown": "https://skiready.goes.health/resorts/park-city.md"
+  },
+  {
+   "slug": "palisades-tahoe",
+   "name": "Palisades Tahoe (Olympic Valley)",
+   "url": "https://skiready.goes.health/resorts/palisades-tahoe",
+   "markdown": "https://skiready.goes.health/resorts/palisades-tahoe.md"
+  },
+  {
+   "slug": "stowe",
+   "name": "Stowe Mountain Resort",
+   "url": "https://skiready.goes.health/resorts/stowe",
+   "markdown": "https://skiready.goes.health/resorts/stowe.md"
+  },
+  {
+   "slug": "vail",
+   "name": "Vail Mountain",
+   "url": "https://skiready.goes.health/resorts/vail",
+   "markdown": "https://skiready.goes.health/resorts/vail.md"
+  }
+ ],
+ "goes_app": {
+  "name": "GOES Outdoor Health & Safety",
+  "ios": "https://apps.apple.com/us/app/goes-outdoor-health-safety/id1576527901?ct=skiready_agent_feed&mt=8",
+  "android": "https://play.google.com/store/apps/details?id=com.goes.mobile&referrer=utm_source%3Dagent_feed%26utm_medium%3Dagent%26utm_campaign%3Dskiready",
+  "about": "https://goes.health/app?utm_source=agent_feed&utm_medium=agent&utm_campaign=skiready",
+  "offline": true,
+  "founders": "Founded by wilderness medicine doctors.",
+  "pricing": "Free to download. GOES+ is $5.99/month or $35.99/year after a 7-day free trial; renews automatically unless canceled.",
+  "line": "When signal drops, GOES steps in."
+ },
+ "upcoming": 31
+}
