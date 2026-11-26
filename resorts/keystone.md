@@ -3,13 +3,13 @@
 > High base plus long gondola and chairlift rides. Wind on the ride up is where cheeks and fingers get cold.
 
 Source page: https://skiready.goes.health/resorts/keystone
-Updated: 2026-11-25
+Updated: 2026-11-26
 
 - Base elevation: 9,280 ft; summit: 12,408 ft. Source: [Vail Resorts News: Keystone winter fast facts](https://news.vailresorts.com/2011-09-08-Keystone-Winter-Fast-Facts-2012-13)
 - Nearest hospital: St. Anthony Summit Hospital (Frisco)
-- NWS point 39.605,-105.944 (Keystone, CO; grid elevation 9,396 ft), fetched Nov 25, 7:11 AM MST
-- At fetch: 18°F, wind 3 mph WSW, sunny (feels like about 18°F)
-- Lowest NWS wind chill, next 48 h: 6°F (Above 5°F: normal winter day)
+- NWS point 39.605,-105.944 (Keystone, CO; grid elevation 9,396 ft), fetched Nov 26, 7:18 AM MST
+- At fetch: 22°F, wind 5 mph SSW, sunny (feels like about 15°F)
+- Lowest NWS wind chill, next 48 h: 13°F (Above 5°F: normal winter day)
 - Active NWS alerts: none
 
 ## Altitude first
@@ -18,14 +18,14 @@ The base is 9,280 ft. If you can, spend a night around Denver first; make day on
 ## NWS forecast
 | Period | Temp | Forecast | Wind |
 |---|---|---|---|
-| Today | 48°F | Sunny | 2 to 6 mph W |
-| Tonight | 20°F | Mostly Cloudy | 5 mph SSW |
-| Thanksgiving Day | 46°F | Mostly Sunny | 2 to 8 mph WNW |
-| Thursday Night | 22°F | Mostly Clear | 7 to 12 mph WNW |
-| Friday | 45°F | Mostly Sunny | 10 to 14 mph WNW |
-| Friday Night | 25°F | Snow Showers Likely | 15 mph W |
-| Saturday | 35°F | Snow Showers Likely | 15 to 18 mph WNW |
-| Saturday Night | 14°F | Snow Showers Likely | 10 to 16 mph WNW |
+| Thanksgiving Day | 46°F | Sunny | 5 to 13 mph W |
+| Tonight | 21°F | Mostly Clear | 9 mph W |
+| Friday | 45°F | Mostly Sunny then Slight Chance Snow Showers | 9 to 20 mph W |
+| Friday Night | 26°F | Snow Showers | 15 to 18 mph W |
+| Saturday | 37°F | Snow Showers And Patchy Blowing Snow | 16 to 21 mph WNW |
+| Saturday Night | 11°F | Snow Showers Likely then Mostly Cloudy | 6 to 20 mph WNW |
+| Sunday | 39°F | Sunny | 6 to 13 mph W |
+| Sunday Night | 15°F | Partly Cloudy | 9 mph W |
 
 Full forecast: https://forecast.weather.gov/MapClick.php?lat=39.605&lon=-105.944
 

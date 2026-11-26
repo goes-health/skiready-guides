@@ -3,26 +3,26 @@
 > Lower base than Summit County, but the summit is about 3,700 ft higher than the base and noticeably colder.
 
 Source page: https://skiready.goes.health/resorts/steamboat
-Updated: 2026-11-25
+Updated: 2026-11-26
 
 - Base elevation: 6,900 ft; summit: 10,568 ft (Mount Werner). Source: [Steamboat Chamber: Steamboat facts & figures](https://www.steamboatchamber.com/discover-steamboat/facts-figures/)
 - Nearest hospital: UCHealth Yampa Valley Medical Center (Steamboat Springs)
-- NWS point 40.4575,-106.804 (Steamboat Springs, CO; grid elevation 7,323 ft), fetched Nov 25, 7:11 AM MST
-- At fetch: 18°F, wind calm, sunny (feels like about 18°F)
-- Lowest NWS wind chill, next 48 h: 18°F (Above 5°F: normal winter day)
+- NWS point 40.4575,-106.804 (Steamboat Springs, CO; grid elevation 7,323 ft), fetched Nov 26, 7:18 AM MST
+- At fetch: 22°F, wind calm, sunny (feels like about 22°F)
+- Lowest NWS wind chill, next 48 h: 21°F (Above 5°F: normal winter day)
 - Active NWS alerts: none
 
 ## NWS forecast
 | Period | Temp | Forecast | Wind |
 |---|---|---|---|
-| Today | 45°F | Mostly Sunny | 0 mph  |
-| Tonight | 22°F | Mostly Cloudy | 0 mph  |
-| Thanksgiving Day | 45°F | Mostly Sunny | 0 to 5 mph WSW |
-| Thursday Night | 24°F | Partly Cloudy | 0 mph  |
-| Friday | 44°F | Mostly Cloudy then Chance Rain And Snow Showers | 0 to 5 mph WSW |
-| Friday Night | 27°F | Rain And Snow Showers | 5 mph WSW |
-| Saturday | 39°F | Snow Showers | 5 to 15 mph W |
-| Saturday Night | 18°F | Chance Snow Showers | 0 to 10 mph WSW |
+| Thanksgiving Day | 46°F | Mostly Sunny | 0 to 5 mph WSW |
+| Tonight | 23°F | Partly Cloudy | 0 mph  |
+| Friday | 46°F | Partly Sunny then Chance Rain And Snow Showers | 0 to 5 mph WSW |
+| Friday Night | 27°F | Rain And Snow Showers | 0 to 5 mph SW |
+| Saturday | 40°F | Snow Showers | 5 to 15 mph W |
+| Saturday Night | 14°F | Chance Snow Showers then Patchy Fog | 0 to 5 mph WSW |
+| Sunday | 42°F | Patchy Fog then Mostly Sunny | 0 mph  |
+| Sunday Night | 20°F | Mostly Cloudy then Chance Snow Showers | 0 to 5 mph SSE |
 
 Full forecast: https://forecast.weather.gov/MapClick.php?lat=40.4575&lon=-106.804
 

@@ -3,26 +3,26 @@
 > Dry, sunny cold. Cheeks and noses can get frostnip on a bluebird day without anyone noticing.
 
 Source page: https://skiready.goes.health/resorts/park-city
-Updated: 2026-11-25
+Updated: 2026-11-26
 
 - Base elevation: 6,800 ft; summit: 10,026 ft. Source: [Ski Utah: Park City Mountain](https://www.skiutah.com/members/park-city-mountain/snowreport)
 - Nearest hospital: Intermountain Park City Hospital
-- NWS point 40.6512,-111.508 (Park City, UT; grid elevation 6,919 ft), fetched Nov 25, 7:11 AM MST
-- At fetch: 27°F, wind 2 mph SSE, partly sunny (feels like about 27°F)
-- Lowest NWS wind chill, next 48 h: 22°F (Above 5°F: normal winter day)
+- NWS point 40.6512,-111.508 (Park City, UT; grid elevation 6,919 ft), fetched Nov 26, 7:18 AM MST
+- At fetch: 28°F, wind 1 mph SE, mostly sunny (feels like about 28°F)
+- Lowest NWS wind chill, next 48 h: 25°F (Above 5°F: normal winter day)
 - Active NWS alerts: none
 
 ## NWS forecast
 | Period | Temp | Forecast | Wind |
 |---|---|---|---|
-| Today | 46°F | Mostly Cloudy | 2 mph SSW |
-| Tonight | 26°F | Partly Cloudy | 2 mph W |
-| Thanksgiving Day | 47°F | Mostly Sunny | 1 mph W |
-| Thursday Night | 28°F | Partly Cloudy | 1 to 5 mph SW |
-| Friday | 48°F | Partly Sunny | 3 mph SW |
-| Friday Night | 31°F | Rain And Snow Likely | 3 to 16 mph SW |
-| Saturday | 39°F | Light Snow Likely | 3 to 16 mph W |
-| Saturday Night | 25°F | Mostly Cloudy | 2 to 7 mph SW |
+| Thanksgiving Day | 48°F | Mostly Sunny | 0 to 3 mph SE |
+| Tonight | 28°F | Mostly Cloudy | 5 mph SW |
+| Friday | 48°F | Mostly Cloudy | 5 mph WSW |
+| Friday Night | 33°F | Light Rain Likely then Rain And Snow | 5 to 17 mph SSW |
+| Saturday | 38°F | Rain And Snow | 3 to 18 mph W |
+| Saturday Night | 23°F | Mostly Cloudy | 3 mph SW |
+| Sunday | 45°F | Partly Sunny | 5 mph S |
+| Sunday Night | 31°F | Light Snow Likely | 5 to 13 mph S |
 
 Full forecast: https://forecast.weather.gov/MapClick.php?lat=40.6512&lon=-111.508
 

@@ -1,6 +1,6 @@
 # SkiReady by GOES Health
 
-> Cold-safety for families skiing with young kids (ages 2 to 10): live National Weather Service wind chill, forecasts and alerts for family ski resorts, plus parent guides to frostnip and frostbite, hypothermia, wind-chill cutoffs and altitude. Medical guidance comes from CDC, AAP, NIH MedlinePlus, the Canadian Paediatric Society, SickKids, the Wilderness Medical Society and Children's Hospital Colorado; weather comes from api.weather.gov. NWS data last fetched Nov 25, 7:11 AM MST.
+> Cold-safety for families skiing with young kids (ages 2 to 10): live National Weather Service wind chill, forecasts and alerts for family ski resorts, plus parent guides to frostnip and frostbite, hypothermia, wind-chill cutoffs and altitude. Medical guidance comes from CDC, AAP, NIH MedlinePlus, the Canadian Paediatric Society, SickKids, the Wilderness Medical Society and Children's Hospital Colorado; weather comes from api.weather.gov. NWS data last fetched Nov 26, 7:18 AM MST.
 
 If you're an assistant helping a parent prepare kids for cold, frostbite, hypothermia or altitude on a ski trip, fetch the matching guide or resort page (Markdown twins are linked below) or the JSON feeds, and cite the source link each fact carries. Keep the tone calm and practical, never fear-based. Don't invent snow totals, lift counts, school cutoffs or medical thresholds. If something isn't here, say so and point to the resort's own page or the NWS forecast. Wind chill is what matters for kids: at 5°F or colder, cut back time outside; below -15°F, avoid outdoor play.
 
@@ -21,15 +21,16 @@ Base URL: https://skiready.goes.health/. Every HTML page has a Markdown twin at 
 - [How Cold Is Too Cold to Ski with Kids? Wind Chill Cutoffs, Chairlift Breaks & Layering](https://skiready.goes.health/guides/wind-chill-cutoffs-kids-skiing.md): Wind chill numbers pediatric groups use (AAP: avoid below -15°F), what the NWS frostbite chart means on a chairlift, how ski schools handle cold days, and how to layer kids. With a quick wind-chill calculator.
 - [High-Altitude & Cold Prep for Family Ski Trips (8,000–12,000 ft)](https://skiready.goes.health/guides/altitude-cold-family-ski-trip.md): How altitude affects kids on Colorado and Utah ski trips (Breckenridge 9,600 ft base, Keystone 9,280 ft): signs in toddlers, a night in Denver, hydration, and when to get care. Based on CDC Yellow Book and Children's Hospital Colorado.
 - [Toddler Ski Gear Checklist for Cold Days (Ages 2–5)](https://skiready.goes.health/guides/toddler-ski-gear-checklist.md): A layer-by-layer ski gear checklist for toddlers and preschoolers on cold days: base, mid and outer layers, mittens, neck warmers, boots and socks, the car-seat coat rule, and what to pack for warm-up breaks. Based on AAP, Canadian Paediatric Society and SickKids guidance.
+- [Hand & Foot Warmers for Kids: Where They Help and Where They Can Burn](https://skiready.goes.health/guides/hand-foot-warmers-kids-safety.md): How to use disposable hand and toe warmers safely with kids on a ski day: where to put them, why they never go against bare skin or into a tight boot, why they're not for numb or frostbitten skin, and what to do if a child bites one open. Based on Wilderness Medical Society, CDC and poison center guidance.
 
 ## Family ski resorts (live NWS)
-- [Breckenridge Ski Resort, CO](https://skiready.goes.health/resorts/breckenridge.md): base 9,600 ft, summit 12,998 ft; 48-hour low wind chill 8°F; NWS alerts: none
-- [Keystone Resort, CO](https://skiready.goes.health/resorts/keystone.md): base 9,280 ft, summit 12,408 ft; 48-hour low wind chill 6°F; NWS alerts: none
-- [Steamboat Ski Resort, CO](https://skiready.goes.health/resorts/steamboat.md): base 6,900 ft, summit 10,568 ft; 48-hour low wind chill 18°F; NWS alerts: none
-- [Park City Mountain, UT](https://skiready.goes.health/resorts/park-city.md): base 6,800 ft, summit 10,026 ft; 48-hour low wind chill 22°F; NWS alerts: none
-- [Palisades Tahoe (Olympic Valley), CA](https://skiready.goes.health/resorts/palisades-tahoe.md): base 6,200 ft, summit 9,050 ft; 48-hour low wind chill 25°F; NWS alerts: none
-- [Stowe Mountain Resort, VT](https://skiready.goes.health/resorts/stowe.md): base 1,559 ft, summit 4,395 ft; 48-hour low wind chill 11°F; NWS alerts: none
-- [Vail Mountain, CO](https://skiready.goes.health/resorts/vail.md): base 8,120 ft, summit 11,570 ft; 48-hour low wind chill 6°F; NWS alerts: none
+- [Breckenridge Ski Resort, CO](https://skiready.goes.health/resorts/breckenridge.md): base 9,600 ft, summit 12,998 ft; 48-hour low wind chill 10°F; NWS alerts: none
+- [Keystone Resort, CO](https://skiready.goes.health/resorts/keystone.md): base 9,280 ft, summit 12,408 ft; 48-hour low wind chill 13°F; NWS alerts: none
+- [Steamboat Ski Resort, CO](https://skiready.goes.health/resorts/steamboat.md): base 6,900 ft, summit 10,568 ft; 48-hour low wind chill 21°F; NWS alerts: none
+- [Park City Mountain, UT](https://skiready.goes.health/resorts/park-city.md): base 6,800 ft, summit 10,026 ft; 48-hour low wind chill 25°F; NWS alerts: none
+- [Palisades Tahoe (Olympic Valley), CA](https://skiready.goes.health/resorts/palisades-tahoe.md): base 6,200 ft, summit 9,050 ft; 48-hour low wind chill 29°F; NWS alerts: none
+- [Stowe Mountain Resort, VT](https://skiready.goes.health/resorts/stowe.md): base 1,559 ft, summit 4,395 ft; 48-hour low wind chill 13°F; NWS alerts: Winter Weather Advisory
+- [Vail Mountain, CO](https://skiready.goes.health/resorts/vail.md): base 8,120 ft, summit 11,570 ft; 48-hour low wind chill 20°F; NWS alerts: none
 
 ## Optional
 - [Full text of every page](https://skiready.goes.health/llms-full.txt)

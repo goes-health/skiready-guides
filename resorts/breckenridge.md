@@ -3,13 +3,13 @@
 > Highest base on this list. Most families feel the altitude before they feel the cold.
 
 Source page: https://skiready.goes.health/resorts/breckenridge
-Updated: 2026-11-25
+Updated: 2026-11-26
 
 - Base elevation: 9,600 ft; summit: 12,998 ft (Peak 8 summit). Source: [Breckenridge Resort: Breckenridge altitude, what to know](https://www.breckenridge.com/travel-guide/breckenridge-elevation.aspx)
 - Nearest hospital: St. Anthony Summit Hospital (Frisco)
-- NWS point 39.48,-106.07 (Breckenridge, CO; grid elevation 9,797 ft), fetched Nov 25, 7:11 AM MST
-- At fetch: 16°F, wind 3 mph WSW, sunny (feels like about 16°F)
-- Lowest NWS wind chill, next 48 h: 8°F (Above 5°F: normal winter day)
+- NWS point 39.48,-106.07 (Breckenridge, CO; grid elevation 9,797 ft), fetched Nov 26, 7:18 AM MST
+- At fetch: 21°F, wind 5 mph WSW, sunny (feels like about 14°F)
+- Lowest NWS wind chill, next 48 h: 10°F (Above 5°F: normal winter day)
 - Active NWS alerts: none
 
 ## Altitude first
@@ -18,14 +18,14 @@ The base is 9,600 ft. If you can, spend a night around Denver first; make day on
 ## NWS forecast
 | Period | Temp | Forecast | Wind |
 |---|---|---|---|
-| Today | 47°F | Sunny | 2 to 6 mph WNW |
-| Tonight | 21°F | Mostly Cloudy | 3 mph WSW |
-| Thanksgiving Day | 45°F | Mostly Sunny | 3 to 9 mph WNW |
-| Thursday Night | 21°F | Mostly Clear | 8 to 13 mph WNW |
-| Friday | 44°F | Mostly Sunny | 15 mph WNW |
-| Friday Night | 25°F | Snow Showers Likely | 14 to 17 mph W |
-| Saturday | 33°F | Snow Showers Likely | 20 mph WNW |
-| Saturday Night | 14°F | Snow Showers Likely | 10 to 18 mph WNW |
+| Thanksgiving Day | 45°F | Sunny | 5 to 13 mph NW |
+| Tonight | 20°F | Mostly Clear | 10 to 15 mph WNW |
+| Friday | 44°F | Mostly Sunny then Slight Chance Snow Showers | 15 to 22 mph WNW |
+| Friday Night | 26°F | Snow Showers And Patchy Blowing Snow | 17 to 22 mph W |
+| Saturday | 35°F | Snow Showers And Patchy Blowing Snow | 21 to 24 mph WNW |
+| Saturday Night | 11°F | Snow Showers Likely then Mostly Cloudy | 10 to 23 mph WNW |
+| Sunday | 39°F | Sunny | 8 to 15 mph W |
+| Sunday Night | 16°F | Partly Cloudy | 10 mph WSW |
 
 Full forecast: https://forecast.weather.gov/MapClick.php?lat=39.48&lon=-106.07
 

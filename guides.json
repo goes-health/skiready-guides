@@ -1,7 +1,7 @@
 {
  "site": "SkiReady by GOES Health",
  "base": "https://skiready.goes.health/",
- "updated": "2026-11-24",
+ "updated": "2026-11-26",
  "disclaimer": "GOES provides guidance and is not a substitute for professional medical care. If you think you have a medical emergency, call 911.",
  "guides": [
   {
@@ -255,6 +255,66 @@
      "url": "https://www.healthychildren.org/English/safety-prevention/on-the-go/Pages/Winter-Car-Seat-Safety-Tips.aspx"
     }
    ]
+  },
+  {
+   "slug": "hand-foot-warmers-kids-safety",
+   "title": "Hand & Foot Warmers for Kids: Where They Help and Where They Can Burn",
+   "url": "https://skiready.goes.health/guides/hand-foot-warmers-kids-safety",
+   "markdown": "https://skiready.goes.health/guides/hand-foot-warmers-kids-safety.md",
+   "description": "How to use disposable hand and toe warmers safely with kids on a ski day: where to put them, why they never go against bare skin or into a tight boot, why they're not for numb or frostbitten skin, and what to do if a child bites one open. Based on Wilderness Medical Society, CDC and poison center guidance.",
+   "quick_answer": [
+    "Keep a layer between warmer and skin: in the mitten's outer pocket or on top of the sock, never against bare skin.",
+    "Don't squeeze a warmer into a tight boot. If it makes the fit snug, it can cut off blood flow and make toes colder.",
+    "Numb, white or waxy skin needs gentle body warmth and a check, not a warmer. Frostbitten skin can burn without feeling it."
+   ],
+   "faq": [
+    {
+     "q": "Are hand warmers safe for toddlers?",
+     "a": "They can be, with an adult in charge: put the warmer where it can't touch bare skin, check under it at breaks, and keep packets away from little ones who put things in their mouths (Wilderness Medical Society; Maryland Poison Center)."
+    },
+    {
+     "q": "Can I put a toe warmer inside my child's sock?",
+     "a": "No. Warmers shouldn't sit directly against skin, and they shouldn't make a boot tight enough to restrict blood flow. Put it on top of the sock only if toes can still wiggle (Wilderness Medical Society)."
+    },
+    {
+     "q": "Should I use a hand warmer on frostbite?",
+     "a": "No. Frostbitten skin is numb and can easily burn. Warm it with body heat or warm, not hot, water and have it checked by a health care provider (CDC)."
+    },
+    {
+     "q": "What if my child ate part of a hand warmer?",
+     "a": "Call Poison Help at 1-800-222-1222. Call 911 if your child has trouble breathing, can't be woken, or is turning blue (Maryland Poison Center)."
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wilderness Medical Society: Frostbite guidelines, 2024 update",
+     "url": "https://journals.sagepub.com/doi/full/10.1177/10806032231222359"
+    },
+    {
+     "label": "CDC: Preventing frostbite",
+     "url": "https://www.cdc.gov/winter-weather/prevention/preventing-frostbite.html"
+    },
+    {
+     "label": "Canadian Paediatric Society: Frostbite",
+     "url": "https://caringforkids.cps.ca/handouts/safety-and-injury-prevention/frostbite"
+    },
+    {
+     "label": "AboutKidsHealth (SickKids): Dressing for the cold",
+     "url": "https://www.aboutkidshealth.ca/dressing-for-the-cold"
+    },
+    {
+     "label": "AboutKidsHealth (SickKids): Cold weather injuries",
+     "url": "https://www.aboutkidshealth.ca/cold-weather-injuries"
+    },
+    {
+     "label": "AAP HealthyChildren.org: Winter safety tips",
+     "url": "https://www.healthychildren.org/english/safety-prevention/at-play/pages/winter-safety.aspx"
+    },
+    {
+     "label": "Maryland Poison Center (University of Maryland School of Pharmacy): Hand warmers and kids",
+     "url": "https://blog.mdpoison.com/2025/02/28/will-kids-really-eat-that-part-three/"
+    }
+   ]
   }
  ],
  "resorts": [
@@ -311,5 +371,5 @@
   "pricing": "Free to download. GOES+ is $5.99/month or $35.99/year after a 7-day free trial; renews automatically unless canceled.",
   "line": "When signal drops, GOES steps in."
  },
- "upcoming": 31
+ "upcoming": 30
 }

@@ -3,13 +3,13 @@
 > Big mountain with long lift rides out to the Back Bowls. The summit is about 3,450 ft above the base, so plan warm-up breaks before kids get cold, not after.
 
 Source page: https://skiready.goes.health/resorts/vail
-Updated: 2026-11-25
+Updated: 2026-11-26
 
 - Base elevation: 8,120 ft; summit: 11,570 ft. Source: [Vail Mountain: Mountain info](https://www.vail.com/the-mountain/about-the-mountain/mountain-info.aspx)
 - Nearest hospital: Vail Health Hospital (Vail)
-- NWS point 39.6403,-106.3742 (Vail, CO; grid elevation 8,950 ft), fetched Nov 25, 7:11 AM MST
-- At fetch: 16°F, wind 5 mph SE, sunny (feels like about 8°F)
-- Lowest NWS wind chill, next 48 h: 6°F (Above 5°F: normal winter day)
+- NWS point 39.6403,-106.3742 (Vail, CO; grid elevation 8,950 ft), fetched Nov 26, 7:18 AM MST
+- At fetch: 24°F, wind calm, sunny (feels like about 24°F)
+- Lowest NWS wind chill, next 48 h: 20°F (Above 5°F: normal winter day)
 - Active NWS alerts: none
 
 ## Altitude first
@@ -18,14 +18,14 @@ The base is 8,120 ft. If you can, spend a night around Denver first; make day on
 ## NWS forecast
 | Period | Temp | Forecast | Wind |
 |---|---|---|---|
-| Today | 45°F | Sunny | 0 to 5 mph SW |
-| Tonight | 22°F | Mostly Cloudy | 0 to 5 mph SSE |
-| Thanksgiving Day | 44°F | Mostly Sunny | 0 to 5 mph WSW |
-| Thursday Night | 24°F | Mostly Clear | 5 mph SW |
-| Friday | 43°F | Partly Sunny | 5 to 10 mph WSW |
-| Friday Night | 27°F | Snow Showers | 5 mph WSW |
-| Saturday | 36°F | Snow Showers | 5 to 10 mph W |
-| Saturday Night | 16°F | Snow Showers Likely | 0 to 5 mph W |
+| Thanksgiving Day | 45°F | Mostly Sunny | 0 to 5 mph W |
+| Tonight | 22°F | Partly Cloudy | 0 mph  |
+| Friday | 43°F | Partly Sunny then Slight Chance Snow Showers | 0 to 10 mph WSW |
+| Friday Night | 29°F | Snow Showers | 5 to 10 mph SW |
+| Saturday | 35°F | Snow Showers | 5 to 10 mph W |
+| Saturday Night | 13°F | Chance Snow Showers then Mostly Cloudy | 0 to 10 mph W |
+| Sunday | 38°F | Mostly Sunny | 0 to 5 mph SW |
+| Sunday Night | 20°F | Partly Cloudy | 0 to 5 mph SSW |
 
 Full forecast: https://forecast.weather.gov/MapClick.php?lat=39.6403&lon=-106.3742
 

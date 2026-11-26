@@ -3,26 +3,26 @@
 > Sierra storms come in wet. Damp mittens and soaked layers, not deep cold, are the usual problem for kids.
 
 Source page: https://skiready.goes.health/resorts/palisades-tahoe
-Updated: 2026-11-25
+Updated: 2026-11-26
 
 - Base elevation: 6,200 ft; summit: 9,050 ft. Source: [Palisades Tahoe: Mountain statistics](https://www.palisadestahoe.com/footer/mountain-statistics)
 - Nearest hospital: Tahoe Forest Hospital (Truckee)
-- NWS point 39.1968,-120.2354 (Sunnyside-Tahoe City, CA; grid elevation 6,283 ft), fetched Nov 25, 7:11 AM MST
-- At fetch: 29°F, wind 5 mph SW, mostly cloudy (feels like about 24°F)
-- Lowest NWS wind chill, next 48 h: 25°F (Above 5°F: normal winter day)
+- NWS point 39.1968,-120.2354 (Sunnyside-Tahoe City, CA; grid elevation 6,283 ft), fetched Nov 26, 7:18 AM MST
+- At fetch: 29°F, wind calm, mostly cloudy (feels like about 29°F)
+- Lowest NWS wind chill, next 48 h: 29°F (Above 5°F: normal winter day)
 - Active NWS alerts: none
 
 ## NWS forecast
 | Period | Temp | Forecast | Wind |
 |---|---|---|---|
-| Today | 47°F | Mostly Sunny | 0 to 5 mph SW |
-| Tonight | 27°F | Partly Cloudy | 0 mph  |
 | Thanksgiving Day | 54°F | Partly Sunny | 0 mph  |
-| Thursday Night | 31°F | Mostly Cloudy | 0 mph  |
-| Friday | 54°F | Partly Sunny | 0 to 5 mph S |
-| Friday Night | 32°F | Mostly Cloudy | 0 to 5 mph SW |
-| Saturday | 50°F | Partly Sunny | 0 mph  |
-| Saturday Night | 31°F | Mostly Cloudy then Chance Rain And Snow | 0 to 10 mph SW |
+| Tonight | 31°F | Mostly Cloudy | 0 mph  |
+| Friday | 54°F | Partly Sunny | 0 to 5 mph SW |
+| Friday Night | 31°F | Mostly Cloudy | 0 to 5 mph SW |
+| Saturday | 53°F | Partly Sunny | 0 mph  |
+| Saturday Night | 32°F | Partly Cloudy | 0 to 5 mph S |
+| Sunday | 46°F | Light Rain | 5 to 10 mph SW |
+| Sunday Night | 32°F | Rain And Snow | 10 to 25 mph SW |
 
 Full forecast: https://forecast.weather.gov/MapClick.php?lat=39.1968&lon=-120.2354
 

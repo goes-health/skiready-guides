@@ -1,7 +1,7 @@
 {
  "site": "SkiReady by GOES Health",
  "source": "National Weather Service, api.weather.gov",
- "fetched_at": "2026-11-25T14:11:47.635Z",
+ "fetched_at": "2026-11-26T14:18:12.950Z",
  "disclaimer": "GOES provides guidance and is not a substitute for professional medical care. If you think you have a medical emergency, call 911.",
  "not_affiliated": "SkiReady is independent and is not affiliated with or endorsed by any ski resort, the National Weather Service or any government agency.",
  "kids_cold_bands": [
@@ -34,85 +34,85 @@
     "office": "BOU",
     "grid_elevation_ft": 9797,
     "forecast_page": "https://forecast.weather.gov/MapClick.php?lat=39.48&lon=-106.07",
-    "generated": "2026-11-25T14:11:48+00:00",
-    "now": "16°F, wind 3 mph WSW, sunny",
-    "feels_like_now_f": 16,
-    "wind_chill_min_48h_f": 8,
-    "wind_chill_min_at": "2026-11-25T09:00:00+00:00",
+    "generated": "2026-11-26T14:18:13+00:00",
+    "now": "21°F, wind 5 mph WSW, sunny",
+    "feels_like_now_f": 14,
+    "wind_chill_min_48h_f": 10,
+    "wind_chill_min_at": "2026-11-27T10:00:00+00:00",
     "kids_band": "Above 5°F: normal winter day",
     "alerts": [],
     "periods": [
      {
-      "name": "Today",
-      "temp": 47,
+      "name": "Thanksgiving Day",
+      "temp": 45,
       "unit": "F",
-      "wind": "2 to 6 mph",
-      "dir": "WNW",
+      "wind": "5 to 13 mph",
+      "dir": "NW",
       "short": "Sunny",
       "precip": 0
      },
      {
       "name": "Tonight",
-      "temp": 21,
+      "temp": 20,
       "unit": "F",
-      "wind": "3 mph",
-      "dir": "WSW",
-      "short": "Mostly Cloudy",
-      "precip": 0
-     },
-     {
-      "name": "Thanksgiving Day",
-      "temp": 45,
-      "unit": "F",
-      "wind": "3 to 9 mph",
-      "dir": "WNW",
-      "short": "Mostly Sunny",
-      "precip": 0
-     },
-     {
-      "name": "Thursday Night",
-      "temp": 21,
-      "unit": "F",
-      "wind": "8 to 13 mph",
+      "wind": "10 to 15 mph",
       "dir": "WNW",
       "short": "Mostly Clear",
-      "precip": 1
+      "precip": 0
      },
      {
       "name": "Friday",
       "temp": 44,
       "unit": "F",
-      "wind": "15 mph",
+      "wind": "15 to 22 mph",
       "dir": "WNW",
-      "short": "Mostly Sunny",
-      "precip": 10
+      "short": "Mostly Sunny then Slight Chance Snow Showers",
+      "precip": 20
      },
      {
       "name": "Friday Night",
-      "temp": 25,
+      "temp": 26,
       "unit": "F",
-      "wind": "14 to 17 mph",
+      "wind": "17 to 22 mph",
       "dir": "W",
-      "short": "Snow Showers Likely",
-      "precip": 71
+      "short": "Snow Showers And Patchy Blowing Snow",
+      "precip": 95
      },
      {
       "name": "Saturday",
-      "temp": 33,
+      "temp": 35,
       "unit": "F",
-      "wind": "20 mph",
+      "wind": "21 to 24 mph",
       "dir": "WNW",
-      "short": "Snow Showers Likely",
-      "precip": 73
+      "short": "Snow Showers And Patchy Blowing Snow",
+      "precip": 95
      },
      {
       "name": "Saturday Night",
-      "temp": 14,
+      "temp": 11,
       "unit": "F",
-      "wind": "10 to 18 mph",
+      "wind": "10 to 23 mph",
       "dir": "WNW",
-      "short": "Snow Showers Likely",
-      "precip": 62
+      "short": "Snow Showers Likely then Mostly Cloudy",
+      "precip": 55
+     },
+     {
+      "name": "Sunday",
+      "temp": 39,
+      "unit": "F",
+      "wind": "8 to 15 mph",
+      "dir": "W",
+      "short": "Sunny",
+      "precip": 2
+     },
+     {
+      "name": "Sunday Night",
+      "temp": 16,
+      "unit": "F",
+      "wind": "10 mph",
+      "dir": "WSW",
+      "short": "Partly Cloudy",
+      "precip": 3
      }
     ]
    }
@@ -134,85 +134,85 @@
     "office": "BOU",
     "grid_elevation_ft": 9396,
     "forecast_page": "https://forecast.weather.gov/MapClick.php?lat=39.605&lon=-105.944",
-    "generated": "2026-11-25T14:11:48+00:00",
-    "now": "18°F, wind 3 mph WSW, sunny",
-    "feels_like_now_f": 18,
-    "wind_chill_min_48h_f": 6,
-    "wind_chill_min_at": "2026-11-25T10:00:00+00:00",
+    "generated": "2026-11-26T14:18:13+00:00",
+    "now": "22°F, wind 5 mph SSW, sunny",
+    "feels_like_now_f": 15,
+    "wind_chill_min_48h_f": 13,
+    "wind_chill_min_at": "2026-11-27T10:00:00+00:00",
     "kids_band": "Above 5°F: normal winter day",
     "alerts": [],
     "periods": [
      {
-      "name": "Today",
-      "temp": 48,
+      "name": "Thanksgiving Day",
+      "temp": 46,
       "unit": "F",
-      "wind": "2 to 6 mph",
+      "wind": "5 to 13 mph",
       "dir": "W",
       "short": "Sunny",
       "precip": 0
      },
      {
       "name": "Tonight",
-      "temp": 20,
+      "temp": 21,
       "unit": "F",
-      "wind": "5 mph",
-      "dir": "SSW",
-      "short": "Mostly Cloudy",
-      "precip": 0
-     },
-     {
-      "name": "Thanksgiving Day",
-      "temp": 46,
-      "unit": "F",
-      "wind": "2 to 8 mph",
-      "dir": "WNW",
-      "short": "Mostly Sunny",
-      "precip": 0
-     },
-     {
-      "name": "Thursday Night",
-      "temp": 22,
-      "unit": "F",
-      "wind": "7 to 12 mph",
-      "dir": "WNW",
+      "wind": "9 mph",
+      "dir": "W",
       "short": "Mostly Clear",
-      "precip": 1
+      "precip": 0
      },
      {
       "name": "Friday",
       "temp": 45,
       "unit": "F",
-      "wind": "10 to 14 mph",
-      "dir": "WNW",
-      "short": "Mostly Sunny",
-      "precip": 9
+      "wind": "9 to 20 mph",
+      "dir": "W",
+      "short": "Mostly Sunny then Slight Chance Snow Showers",
+      "precip": 20
      },
      {
       "name": "Friday Night",
-      "temp": 25,
+      "temp": 26,
       "unit": "F",
-      "wind": "15 mph",
+      "wind": "15 to 18 mph",
       "dir": "W",
-      "short": "Snow Showers Likely",
-      "precip": 71
+      "short": "Snow Showers",
+      "precip": 95
      },
      {
       "name": "Saturday",
-      "temp": 35,
+      "temp": 37,
       "unit": "F",
-      "wind": "15 to 18 mph",
+      "wind": "16 to 21 mph",
       "dir": "WNW",
-      "short": "Snow Showers Likely",
-      "precip": 73
+      "short": "Snow Showers And Patchy Blowing Snow",
+      "precip": 98
      },
      {
       "name": "Saturday Night",
-      "temp": 14,
+      "temp": 11,
       "unit": "F",
-      "wind": "10 to 16 mph",
+      "wind": "6 to 20 mph",
       "dir": "WNW",
-      "short": "Snow Showers Likely",
-      "precip": 62
+      "short": "Snow Showers Likely then Mostly Cloudy",
+      "precip": 60
+     },
+     {
+      "name": "Sunday",
+      "temp": 39,
+      "unit": "F",
+      "wind": "6 to 13 mph",
+      "dir": "W",
+      "short": "Sunny",
+      "precip": 2
+     },
+     {
+      "name": "Sunday Night",
+      "temp": 15,
+      "unit": "F",
+      "wind": "9 mph",
+      "dir": "W",
+      "short": "Partly Cloudy",
+      "precip": 2
      }
     ]
    }
@@ -234,85 +234,85 @@
     "office": "GJT",
     "grid_elevation_ft": 7323,
     "forecast_page": "https://forecast.weather.gov/MapClick.php?lat=40.4575&lon=-106.804",
-    "generated": "2026-11-25T14:11:48+00:00",
-    "now": "18°F, wind calm, sunny",
-    "feels_like_now_f": 18,
-    "wind_chill_min_48h_f": 18,
-    "wind_chill_min_at": "2026-11-25T10:00:00+00:00",
+    "generated": "2026-11-26T14:18:14+00:00",
+    "now": "22°F, wind calm, sunny",
+    "feels_like_now_f": 22,
+    "wind_chill_min_48h_f": 21,
+    "wind_chill_min_at": "2026-11-28T14:00:00+00:00",
     "kids_band": "Above 5°F: normal winter day",
     "alerts": [],
     "periods": [
      {
-      "name": "Today",
-      "temp": 45,
+      "name": "Thanksgiving Day",
+      "temp": 46,
       "unit": "F",
-      "wind": "0 mph",
-      "dir": "",
+      "wind": "0 to 5 mph",
+      "dir": "WSW",
       "short": "Mostly Sunny",
       "precip": 0
      },
      {
       "name": "Tonight",
-      "temp": 22,
-      "unit": "F",
-      "wind": "0 mph",
-      "dir": "",
-      "short": "Mostly Cloudy",
-      "precip": 0
-     },
-     {
-      "name": "Thanksgiving Day",
-      "temp": 45,
-      "unit": "F",
-      "wind": "0 to 5 mph",
-      "dir": "WSW",
-      "short": "Mostly Sunny",
-      "precip": 0
-     },
-     {
-      "name": "Thursday Night",
-      "temp": 24,
+      "temp": 23,
       "unit": "F",
       "wind": "0 mph",
       "dir": "",
       "short": "Partly Cloudy",
-      "precip": 7
+      "precip": 9
      },
      {
       "name": "Friday",
-      "temp": 44,
+      "temp": 46,
       "unit": "F",
       "wind": "0 to 5 mph",
       "dir": "WSW",
-      "short": "Mostly Cloudy then Chance Rain And Snow Showers",
-      "precip": 25
+      "short": "Partly Sunny then Chance Rain And Snow Showers",
+      "precip": 54
      },
      {
       "name": "Friday Night",
       "temp": 27,
       "unit": "F",
-      "wind": "5 mph",
-      "dir": "WSW",
+      "wind": "0 to 5 mph",
+      "dir": "SW",
       "short": "Rain And Snow Showers",
-      "precip": 86
+      "precip": 100
      },
      {
       "name": "Saturday",
-      "temp": 39,
+      "temp": 40,
       "unit": "F",
       "wind": "5 to 15 mph",
       "dir": "W",
       "short": "Snow Showers",
-      "precip": 86
+      "precip": 100
      },
      {
       "name": "Saturday Night",
-      "temp": 18,
+      "temp": 14,
       "unit": "F",
-      "wind": "0 to 10 mph",
+      "wind": "0 to 5 mph",
       "dir": "WSW",
-      "short": "Chance Snow Showers",
-      "precip": 51
+      "short": "Chance Snow Showers then Patchy Fog",
+      "precip": 35
+     },
+     {
+      "name": "Sunday",
+      "temp": 42,
+      "unit": "F",
+      "wind": "0 mph",
+      "dir": "",
+      "short": "Patchy Fog then Mostly Sunny",
+      "precip": 9
+     },
+     {
+      "name": "Sunday Night",
+      "temp": 20,
+      "unit": "F",
+      "wind": "0 to 5 mph",
+      "dir": "SSE",
+      "short": "Mostly Cloudy then Chance Snow Showers",
+      "precip": 33
      }
     ]
    }
@@ -334,85 +334,85 @@
     "office": "SLC",
     "grid_elevation_ft": 6919,
     "forecast_page": "https://forecast.weather.gov/MapClick.php?lat=40.6512&lon=-111.508",
-    "generated": "2026-11-25T13:47:17+00:00",
-    "now": "27°F, wind 2 mph SSE, partly sunny",
-    "feels_like_now_f": 27,
-    "wind_chill_min_48h_f": 22,
-    "wind_chill_min_at": "2026-11-25T10:00:00+00:00",
+    "generated": "2026-11-26T14:18:14+00:00",
+    "now": "28°F, wind 1 mph SE, mostly sunny",
+    "feels_like_now_f": 28,
+    "wind_chill_min_48h_f": 25,
+    "wind_chill_min_at": "2026-11-28T12:00:00+00:00",
     "kids_band": "Above 5°F: normal winter day",
     "alerts": [],
     "periods": [
      {
-      "name": "Today",
-      "temp": 46,
-      "unit": "F",
-      "wind": "2 mph",
-      "dir": "SSW",
-      "short": "Mostly Cloudy",
-      "precip": 0
-     },
-     {
-      "name": "Tonight",
-      "temp": 26,
-      "unit": "F",
-      "wind": "2 mph",
-      "dir": "W",
-      "short": "Partly Cloudy",
-      "precip": 0
-     },
-     {
       "name": "Thanksgiving Day",
-      "temp": 47,
+      "temp": 48,
       "unit": "F",
-      "wind": "1 mph",
-      "dir": "W",
+      "wind": "0 to 3 mph",
+      "dir": "SE",
       "short": "Mostly Sunny",
       "precip": 0
      },
      {
-      "name": "Thursday Night",
+      "name": "Tonight",
       "temp": 28,
       "unit": "F",
-      "wind": "1 to 5 mph",
+      "wind": "5 mph",
       "dir": "SW",
-      "short": "Partly Cloudy",
-      "precip": 0
+      "short": "Mostly Cloudy",
+      "precip": 1
      },
      {
       "name": "Friday",
       "temp": 48,
       "unit": "F",
-      "wind": "3 mph",
-      "dir": "SW",
-      "short": "Partly Sunny",
-      "precip": 10
+      "wind": "5 mph",
+      "dir": "WSW",
+      "short": "Mostly Cloudy",
+      "precip": 11
      },
      {
       "name": "Friday Night",
-      "temp": 31,
+      "temp": 33,
       "unit": "F",
-      "wind": "3 to 16 mph",
-      "dir": "SW",
-      "short": "Rain And Snow Likely",
-      "precip": 64
+      "wind": "5 to 17 mph",
+      "dir": "SSW",
+      "short": "Light Rain Likely then Rain And Snow",
+      "precip": 88
      },
      {
       "name": "Saturday",
-      "temp": 39,
+      "temp": 38,
       "unit": "F",
-      "wind": "3 to 16 mph",
+      "wind": "3 to 18 mph",
       "dir": "W",
-      "short": "Light Snow Likely",
-      "precip": 58
+      "short": "Rain And Snow",
+      "precip": 88
      },
      {
       "name": "Saturday Night",
-      "temp": 25,
+      "temp": 23,
       "unit": "F",
-      "wind": "2 to 7 mph",
+      "wind": "3 mph",
       "dir": "SW",
       "short": "Mostly Cloudy",
       "precip": 7
+     },
+     {
+      "name": "Sunday",
+      "temp": 45,
+      "unit": "F",
+      "wind": "5 mph",
+      "dir": "S",
+      "short": "Partly Sunny",
+      "precip": 6
+     },
+     {
+      "name": "Sunday Night",
+      "temp": 31,
+      "unit": "F",
+      "wind": "5 to 13 mph",
+      "dir": "S",
+      "short": "Light Snow Likely",
+      "precip": 68
      }
     ]
    }
@@ -434,32 +434,14 @@
     "office": "REV",
     "grid_elevation_ft": 6283,
     "forecast_page": "https://forecast.weather.gov/MapClick.php?lat=39.1968&lon=-120.2354",
-    "generated": "2026-11-25T14:07:02+00:00",
-    "now": "29°F, wind 5 mph SW, mostly cloudy",
-    "feels_like_now_f": 24,
-    "wind_chill_min_48h_f": 25,
-    "wind_chill_min_at": "2026-11-25T13:00:00+00:00",
+    "generated": "2026-11-26T14:18:15+00:00",
+    "now": "29°F, wind calm, mostly cloudy",
+    "feels_like_now_f": 29,
+    "wind_chill_min_48h_f": 29,
+    "wind_chill_min_at": "2026-11-26T13:00:00+00:00",
     "kids_band": "Above 5°F: normal winter day",
     "alerts": [],
     "periods": [
-     {
-      "name": "Today",
-      "temp": 47,
-      "unit": "F",
-      "wind": "0 to 5 mph",
-      "dir": "SW",
-      "short": "Mostly Sunny",
-      "precip": 7
-     },
-     {
-      "name": "Tonight",
-      "temp": 27,
-      "unit": "F",
-      "wind": "0 mph",
-      "dir": "",
-      "short": "Partly Cloudy",
-      "precip": 0
-     },
      {
       "name": "Thanksgiving Day",
       "temp": 54,
@@ -470,7 +452,7 @@
       "precip": 0
      },
      {
-      "name": "Thursday Night",
+      "name": "Tonight",
       "temp": 31,
       "unit": "F",
       "wind": "0 mph",
@@ -483,36 +465,54 @@
       "temp": 54,
       "unit": "F",
       "wind": "0 to 5 mph",
-      "dir": "S",
-      "short": "Partly Sunny",
-      "precip": 9
-     },
-     {
-      "name": "Friday Night",
-      "temp": 32,
-      "unit": "F",
-      "wind": "0 to 5 mph",
       "dir": "SW",
-      "short": "Mostly Cloudy",
-      "precip": 9
-     },
-     {
-      "name": "Saturday",
-      "temp": 50,
-      "unit": "F",
-      "wind": "0 mph",
-      "dir": "",
       "short": "Partly Sunny",
       "precip": 2
      },
      {
-      "name": "Saturday Night",
+      "name": "Friday Night",
       "temp": 31,
       "unit": "F",
-      "wind": "0 to 10 mph",
+      "wind": "0 to 5 mph",
       "dir": "SW",
-      "short": "Mostly Cloudy then Chance Rain And Snow",
-      "precip": 27
+      "short": "Mostly Cloudy",
+      "precip": 2
+     },
+     {
+      "name": "Saturday",
+      "temp": 53,
+      "unit": "F",
+      "wind": "0 mph",
+      "dir": "",
+      "short": "Partly Sunny",
+      "precip": 0
+     },
+     {
+      "name": "Saturday Night",
+      "temp": 32,
+      "unit": "F",
+      "wind": "0 to 5 mph",
+      "dir": "S",
+      "short": "Partly Cloudy",
+      "precip": 12
+     },
+     {
+      "name": "Sunday",
+      "temp": 46,
+      "unit": "F",
+      "wind": "5 to 10 mph",
+      "dir": "SW",
+      "short": "Light Rain",
+      "precip": 95
+     },
+     {
+      "name": "Sunday Night",
+      "temp": 32,
+      "unit": "F",
+      "wind": "10 to 25 mph",
+      "dir": "SW",
+      "short": "Rain And Snow",
+      "precip": 95
      }
     ]
    }
@@ -534,85 +534,93 @@
     "office": "BTV",
     "grid_elevation_ft": 2093,
     "forecast_page": "https://forecast.weather.gov/MapClick.php?lat=44.53&lon=-72.781",
-    "generated": "2026-11-25T14:11:50+00:00",
-    "now": "22°F, wind calm, partly sunny",
-    "feels_like_now_f": 22,
-    "wind_chill_min_48h_f": 11,
-    "wind_chill_min_at": "2026-11-26T10:00:00+00:00",
+    "generated": "2026-11-26T11:02:44+00:00",
+    "now": "25°F, wind 5 mph S, mostly sunny",
+    "feels_like_now_f": 19,
+    "wind_chill_min_48h_f": 13,
+    "wind_chill_min_at": "2026-11-26T12:00:00+00:00",
     "kids_band": "Above 5°F: normal winter day",
-    "alerts": [],
+    "alerts": [
+     {
+      "event": "Winter Weather Advisory",
+      "headline": "Winter Weather Advisory issued November 26 at 1:13AM EST until November 27 at 7:00AM EST by NWS Burlington VT",
+      "severity": "Moderate",
+      "ends": "2026-11-27T07:00:00-05:00",
+      "url": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.433b21db516cb9e10c3b33bcb667c4b94e67a32d.002.1"
+     }
+    ],
     "periods": [
      {
-      "name": "Today",
-      "temp": 30,
+      "name": "Thanksgiving Day",
+      "temp": 35,
       "unit": "F",
-      "wind": "1 mph",
-      "dir": "SW",
-      "short": "Sunny",
+      "wind": "7 mph",
+      "dir": "SE",
+      "short": "Partly Sunny",
       "precip": 0
      },
      {
       "name": "Tonight",
-      "temp": 18,
+      "temp": 32,
       "unit": "F",
-      "wind": "2 to 6 mph",
-      "dir": "S",
-      "short": "Mostly Cloudy",
-      "precip": 0
-     },
-     {
-      "name": "Thanksgiving Day",
-      "temp": 33,
-      "unit": "F",
-      "wind": "7 mph",
-      "dir": "SE",
-      "short": "Mostly Cloudy",
-      "precip": 3
-     },
-     {
-      "name": "Thursday Night",
-      "temp": 30,
-      "unit": "F",
-      "wind": "8 to 14 mph",
+      "wind": "8 to 15 mph",
       "dir": "E",
       "short": "Freezing Rain",
       "precip": 100
      },
      {
       "name": "Friday",
-      "temp": 38,
+      "temp": 39,
       "unit": "F",
-      "wind": "5 to 8 mph",
+      "wind": "6 to 9 mph",
       "dir": "SE",
-      "short": "Light Rain then Rain And Snow",
-      "precip": 100
+      "short": "Chance Light Rain",
+      "precip": 32
      },
      {
       "name": "Friday Night",
-      "temp": 33,
+      "temp": 36,
       "unit": "F",
-      "wind": "6 to 10 mph",
+      "wind": "6 to 9 mph",
       "dir": "SW",
       "short": "Light Rain then Rain And Snow Showers",
-      "precip": 96
+      "precip": 97
      },
      {
       "name": "Saturday",
-      "temp": 34,
+      "temp": 36,
       "unit": "F",
-      "wind": "6 to 9 mph",
+      "wind": "5 to 8 mph",
       "dir": "W",
-      "short": "Rain And Snow Showers",
-      "precip": 79
+      "short": "Snow Showers",
+      "precip": 71
      },
      {
       "name": "Saturday Night",
-      "temp": 31,
+      "temp": 33,
       "unit": "F",
-      "wind": "7 to 10 mph",
+      "wind": "8 mph",
       "dir": "SW",
-      "short": "Chance Rain And Snow Showers then Chance Rain And Snow",
-      "precip": 53
+      "short": "Rain And Snow Showers Likely then Chance Rain And Snow",
+      "precip": 58
+     },
+     {
+      "name": "Sunday",
+      "temp": 40,
+      "unit": "F",
+      "wind": "7 mph",
+      "dir": "S",
+      "short": "Slight Chance Light Snow then Partly Sunny",
+      "precip": 8
+     },
+     {
+      "name": "Sunday Night",
+      "temp": 34,
+      "unit": "F",
+      "wind": "8 to 15 mph",
+      "dir": "SE",
+      "short": "Mostly Cloudy then Rain And Snow",
+      "precip": 75
      }
     ]
    }
@@ -634,85 +642,85 @@
     "office": "GJT",
     "grid_elevation_ft": 8950,
     "forecast_page": "https://forecast.weather.gov/MapClick.php?lat=39.6403&lon=-106.3742",
-    "generated": "2026-11-25T14:11:50+00:00",
-    "now": "16°F, wind 5 mph SE, sunny",
-    "feels_like_now_f": 8,
-    "wind_chill_min_48h_f": 6,
-    "wind_chill_min_at": "2026-11-25T09:00:00+00:00",
+    "generated": "2026-11-26T13:38:52+00:00",
+    "now": "24°F, wind calm, sunny",
+    "feels_like_now_f": 24,
+    "wind_chill_min_48h_f": 20,
+    "wind_chill_min_at": "2026-11-27T14:00:00+00:00",
     "kids_band": "Above 5°F: normal winter day",
     "alerts": [],
     "periods": [
      {
-      "name": "Today",
+      "name": "Thanksgiving Day",
       "temp": 45,
       "unit": "F",
       "wind": "0 to 5 mph",
-      "dir": "SW",
-      "short": "Sunny",
+      "dir": "W",
+      "short": "Mostly Sunny",
       "precip": 0
      },
      {
       "name": "Tonight",
       "temp": 22,
       "unit": "F",
-      "wind": "0 to 5 mph",
-      "dir": "SSE",
-      "short": "Mostly Cloudy",
-      "precip": 0
-     },
-     {
-      "name": "Thanksgiving Day",
-      "temp": 44,
-      "unit": "F",
-      "wind": "0 to 5 mph",
-      "dir": "WSW",
-      "short": "Mostly Sunny",
-      "precip": 0
-     },
-     {
-      "name": "Thursday Night",
-      "temp": 24,
-      "unit": "F",
-      "wind": "5 mph",
-      "dir": "SW",
-      "short": "Mostly Clear",
+      "wind": "0 mph",
+      "dir": "",
+      "short": "Partly Cloudy",
       "precip": 1
      },
      {
       "name": "Friday",
       "temp": 43,
       "unit": "F",
-      "wind": "5 to 10 mph",
+      "wind": "0 to 10 mph",
       "dir": "WSW",
-      "short": "Partly Sunny",
-      "precip": 10
+      "short": "Partly Sunny then Slight Chance Snow Showers",
+      "precip": 18
      },
      {
       "name": "Friday Night",
-      "temp": 27,
+      "temp": 29,
       "unit": "F",
-      "wind": "5 mph",
-      "dir": "WSW",
+      "wind": "5 to 10 mph",
+      "dir": "SW",
       "short": "Snow Showers",
-      "precip": 80
+      "precip": 100
      },
      {
       "name": "Saturday",
-      "temp": 36,
+      "temp": 35,
       "unit": "F",
       "wind": "5 to 10 mph",
       "dir": "W",
       "short": "Snow Showers",
-      "precip": 80
+      "precip": 100
      },
      {
       "name": "Saturday Night",
-      "temp": 16,
+      "temp": 13,
+      "unit": "F",
+      "wind": "0 to 10 mph",
+      "dir": "W",
+      "short": "Chance Snow Showers then Mostly Cloudy",
+      "precip": 54
+     },
+     {
+      "name": "Sunday",
+      "temp": 38,
       "unit": "F",
       "wind": "0 to 5 mph",
-      "dir": "W",
-      "short": "Snow Showers Likely",
-      "precip": 61
+      "dir": "SW",
+      "short": "Mostly Sunny",
+      "precip": 4
+     },
+     {
+      "name": "Sunday Night",
+      "temp": 20,
+      "unit": "F",
+      "wind": "0 to 5 mph",
+      "dir": "SSW",
+      "short": "Partly Cloudy",
+      "precip": 10
      }
     ]
    }

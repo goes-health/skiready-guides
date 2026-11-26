@@ -3,7 +3,7 @@
 > Live National Weather Service wind chill checks for family ski resorts, plus parent guides to frostnip, frostbite, hypothermia and altitude for kids aged 2 to 10.
 
 Source page: https://skiready.goes.health/
-Updated: 2026-11-25
+Updated: 2026-11-26
 
 Confidence. Outdoors. GOES prepares and educates you to explore with confidence, wherever you are and when it matters most.
 
@@ -24,17 +24,18 @@ Confidence. Outdoors. GOES prepares and educates you to explore with confidence,
 - [How Cold Is Too Cold to Ski with Kids? Wind Chill Cutoffs, Chairlift Breaks & Layering](https://skiready.goes.health/guides/wind-chill-cutoffs-kids-skiing.md): Wind chill numbers pediatric groups use (AAP: avoid below -15°F), what the NWS frostbite chart means on a chairlift, how ski schools handle cold days, and how to layer kids. With a quick wind-chill calculator.
 - [High-Altitude & Cold Prep for Family Ski Trips (8,000–12,000 ft)](https://skiready.goes.health/guides/altitude-cold-family-ski-trip.md): How altitude affects kids on Colorado and Utah ski trips (Breckenridge 9,600 ft base, Keystone 9,280 ft): signs in toddlers, a night in Denver, hydration, and when to get care. Based on CDC Yellow Book and Children's Hospital Colorado.
 - [Toddler Ski Gear Checklist for Cold Days (Ages 2–5)](https://skiready.goes.health/guides/toddler-ski-gear-checklist.md): A layer-by-layer ski gear checklist for toddlers and preschoolers on cold days: base, mid and outer layers, mittens, neck warmers, boots and socks, the car-seat coat rule, and what to pack for warm-up breaks. Based on AAP, Canadian Paediatric Society and SickKids guidance.
+- [Hand & Foot Warmers for Kids: Where They Help and Where They Can Burn](https://skiready.goes.health/guides/hand-foot-warmers-kids-safety.md): How to use disposable hand and toe warmers safely with kids on a ski day: where to put them, why they never go against bare skin or into a tight boot, why they're not for numb or frostbitten skin, and what to do if a child bites one open. Based on Wilderness Medical Society, CDC and poison center guidance.
 
-## Resorts (NWS fetched Nov 25, 7:11 AM MST)
+## Resorts (NWS fetched Nov 26, 7:18 AM MST)
 | Resort | Base ft | Summit ft | Now | 48-hr low wind chill | NWS alerts |
 |---|---|---|---|---|---|
-| [Breckenridge Ski Resort](https://skiready.goes.health/resorts/breckenridge.md) | 9,600 | 12,998 | 16°F, wind 3 mph WSW, sunny | 8°F | none |
-| [Keystone Resort](https://skiready.goes.health/resorts/keystone.md) | 9,280 | 12,408 | 18°F, wind 3 mph WSW, sunny | 6°F | none |
-| [Steamboat Ski Resort](https://skiready.goes.health/resorts/steamboat.md) | 6,900 | 10,568 | 18°F, wind calm, sunny | 18°F | none |
-| [Park City Mountain](https://skiready.goes.health/resorts/park-city.md) | 6,800 | 10,026 | 27°F, wind 2 mph SSE, partly sunny | 22°F | none |
-| [Palisades Tahoe (Olympic Valley)](https://skiready.goes.health/resorts/palisades-tahoe.md) | 6,200 | 9,050 | 29°F, wind 5 mph SW, mostly cloudy | 25°F | none |
-| [Stowe Mountain Resort](https://skiready.goes.health/resorts/stowe.md) | 1,559 | 4,395 | 22°F, wind calm, partly sunny | 11°F | none |
-| [Vail Mountain](https://skiready.goes.health/resorts/vail.md) | 8,120 | 11,570 | 16°F, wind 5 mph SE, sunny | 6°F | none |
+| [Breckenridge Ski Resort](https://skiready.goes.health/resorts/breckenridge.md) | 9,600 | 12,998 | 21°F, wind 5 mph WSW, sunny | 10°F | none |
+| [Keystone Resort](https://skiready.goes.health/resorts/keystone.md) | 9,280 | 12,408 | 22°F, wind 5 mph SSW, sunny | 13°F | none |
+| [Steamboat Ski Resort](https://skiready.goes.health/resorts/steamboat.md) | 6,900 | 10,568 | 22°F, wind calm, sunny | 21°F | none |
+| [Park City Mountain](https://skiready.goes.health/resorts/park-city.md) | 6,800 | 10,026 | 28°F, wind 1 mph SE, mostly sunny | 25°F | none |
+| [Palisades Tahoe (Olympic Valley)](https://skiready.goes.health/resorts/palisades-tahoe.md) | 6,200 | 9,050 | 29°F, wind calm, mostly cloudy | 29°F | none |
+| [Stowe Mountain Resort](https://skiready.goes.health/resorts/stowe.md) | 1,559 | 4,395 | 25°F, wind 5 mph S, mostly sunny | 13°F | Winter Weather Advisory |
+| [Vail Mountain](https://skiready.goes.health/resorts/vail.md) | 8,120 | 11,570 | 24°F, wind calm, sunny | 20°F | none |
 
 ## When signal drops, GOES steps in.
 

@@ -3,7 +3,7 @@
 > Wind chill numbers pediatric groups use (AAP: avoid below -15°F), what the NWS frostbite chart means on a chairlift, how ski schools handle cold days, and how to layer kids. With a quick wind-chill calculator.
 
 Source page: https://skiready.goes.health/guides/wind-chill-cutoffs-kids-skiing
-Updated: 2026-11-25
+Updated: 2026-11-26
 
 There's no single number every resort uses, but pediatric guidance gives you a clear line. Check the wind chill, not just the temperature, and plan the day around it.
 

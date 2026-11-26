@@ -7,7 +7,7 @@ GOES provides guidance and is not a substitute for professional medical care. If
 > Live National Weather Service wind chill checks for family ski resorts, plus parent guides to frostnip, frostbite, hypothermia and altitude for kids aged 2 to 10.
 
 Source page: https://skiready.goes.health/
-Updated: 2026-11-25
+Updated: 2026-11-26
 
 Confidence. Outdoors. GOES prepares and educates you to explore with confidence, wherever you are and when it matters most.
 
@@ -28,17 +28,18 @@ Confidence. Outdoors. GOES prepares and educates you to explore with confidence,
 - [How Cold Is Too Cold to Ski with Kids? Wind Chill Cutoffs, Chairlift Breaks & Layering](https://skiready.goes.health/guides/wind-chill-cutoffs-kids-skiing.md): Wind chill numbers pediatric groups use (AAP: avoid below -15°F), what the NWS frostbite chart means on a chairlift, how ski schools handle cold days, and how to layer kids. With a quick wind-chill calculator.
 - [High-Altitude & Cold Prep for Family Ski Trips (8,000–12,000 ft)](https://skiready.goes.health/guides/altitude-cold-family-ski-trip.md): How altitude affects kids on Colorado and Utah ski trips (Breckenridge 9,600 ft base, Keystone 9,280 ft): signs in toddlers, a night in Denver, hydration, and when to get care. Based on CDC Yellow Book and Children's Hospital Colorado.
 - [Toddler Ski Gear Checklist for Cold Days (Ages 2–5)](https://skiready.goes.health/guides/toddler-ski-gear-checklist.md): A layer-by-layer ski gear checklist for toddlers and preschoolers on cold days: base, mid and outer layers, mittens, neck warmers, boots and socks, the car-seat coat rule, and what to pack for warm-up breaks. Based on AAP, Canadian Paediatric Society and SickKids guidance.
+- [Hand & Foot Warmers for Kids: Where They Help and Where They Can Burn](https://skiready.goes.health/guides/hand-foot-warmers-kids-safety.md): How to use disposable hand and toe warmers safely with kids on a ski day: where to put them, why they never go against bare skin or into a tight boot, why they're not for numb or frostbitten skin, and what to do if a child bites one open. Based on Wilderness Medical Society, CDC and poison center guidance.
 
-## Resorts (NWS fetched Nov 25, 7:11 AM MST)
+## Resorts (NWS fetched Nov 26, 7:18 AM MST)
 | Resort | Base ft | Summit ft | Now | 48-hr low wind chill | NWS alerts |
 |---|---|---|---|---|---|
-| [Breckenridge Ski Resort](https://skiready.goes.health/resorts/breckenridge.md) | 9,600 | 12,998 | 16°F, wind 3 mph WSW, sunny | 8°F | none |
-| [Keystone Resort](https://skiready.goes.health/resorts/keystone.md) | 9,280 | 12,408 | 18°F, wind 3 mph WSW, sunny | 6°F | none |
-| [Steamboat Ski Resort](https://skiready.goes.health/resorts/steamboat.md) | 6,900 | 10,568 | 18°F, wind calm, sunny | 18°F | none |
-| [Park City Mountain](https://skiready.goes.health/resorts/park-city.md) | 6,800 | 10,026 | 27°F, wind 2 mph SSE, partly sunny | 22°F | none |
-| [Palisades Tahoe (Olympic Valley)](https://skiready.goes.health/resorts/palisades-tahoe.md) | 6,200 | 9,050 | 29°F, wind 5 mph SW, mostly cloudy | 25°F | none |
-| [Stowe Mountain Resort](https://skiready.goes.health/resorts/stowe.md) | 1,559 | 4,395 | 22°F, wind calm, partly sunny | 11°F | none |
-| [Vail Mountain](https://skiready.goes.health/resorts/vail.md) | 8,120 | 11,570 | 16°F, wind 5 mph SE, sunny | 6°F | none |
+| [Breckenridge Ski Resort](https://skiready.goes.health/resorts/breckenridge.md) | 9,600 | 12,998 | 21°F, wind 5 mph WSW, sunny | 10°F | none |
+| [Keystone Resort](https://skiready.goes.health/resorts/keystone.md) | 9,280 | 12,408 | 22°F, wind 5 mph SSW, sunny | 13°F | none |
+| [Steamboat Ski Resort](https://skiready.goes.health/resorts/steamboat.md) | 6,900 | 10,568 | 22°F, wind calm, sunny | 21°F | none |
+| [Park City Mountain](https://skiready.goes.health/resorts/park-city.md) | 6,800 | 10,026 | 28°F, wind 1 mph SE, mostly sunny | 25°F | none |
+| [Palisades Tahoe (Olympic Valley)](https://skiready.goes.health/resorts/palisades-tahoe.md) | 6,200 | 9,050 | 29°F, wind calm, mostly cloudy | 29°F | none |
+| [Stowe Mountain Resort](https://skiready.goes.health/resorts/stowe.md) | 1,559 | 4,395 | 25°F, wind 5 mph S, mostly sunny | 13°F | Winter Weather Advisory |
+| [Vail Mountain](https://skiready.goes.health/resorts/vail.md) | 8,120 | 11,570 | 24°F, wind calm, sunny | 20°F | none |
 
 ## When signal drops, GOES steps in.
 
@@ -60,7 +61,7 @@ GOES provides guidance and is not a substitute for professional medical care. If
 > How to spot frostnip early on your child's cheeks, nose, fingers and toes while skiing, what to do in the lodge, what not to do, and when to get care. Based on CDC, AAP and Wilderness Medical Society guidance.
 
 Source page: https://skiready.goes.health/guides/frostbite-kids-skiing
-Updated: 2026-11-25
+Updated: 2026-11-26
 
 Frostnip is common, and it's easy to catch early. Two minutes of looking at cheeks, noses and fingers at every warm-up break keeps a cold morning from turning into frostbite.
 
@@ -153,7 +154,7 @@ GOES provides guidance and is not a substitute for professional medical care. If
 > The early signs of hypothermia in toddlers and young kids on a ski day (shivering, clumsiness, going quiet), how to rewarm safely, and when to call 911. Based on CDC, NIH MedlinePlus and AAP guidance.
 
 Source page: https://skiready.goes.health/guides/hypothermia-young-kids-skiing
-Updated: 2026-11-25
+Updated: 2026-11-26
 
 Hypothermia on a ski day usually builds slowly: wet layers, a long lesson, a windy lift. The early signs are easy to see once you know them, and dry clothes plus a warm lodge fix most of it.
 
@@ -244,7 +245,7 @@ GOES provides guidance and is not a substitute for professional medical care. If
 > Wind chill numbers pediatric groups use (AAP: avoid below -15°F), what the NWS frostbite chart means on a chairlift, how ski schools handle cold days, and how to layer kids. With a quick wind-chill calculator.
 
 Source page: https://skiready.goes.health/guides/wind-chill-cutoffs-kids-skiing
-Updated: 2026-11-25
+Updated: 2026-11-26
 
 There's no single number every resort uses, but pediatric guidance gives you a clear line. Check the wind chill, not just the temperature, and plan the day around it.
 
@@ -321,7 +322,7 @@ GOES provides guidance and is not a substitute for professional medical care. If
 > How altitude affects kids on Colorado and Utah ski trips (Breckenridge 9,600 ft base, Keystone 9,280 ft): signs in toddlers, a night in Denver, hydration, and when to get care. Based on CDC Yellow Book and Children's Hospital Colorado.
 
 Source page: https://skiready.goes.health/guides/altitude-cold-family-ski-trip
-Updated: 2026-11-25
+Updated: 2026-11-26
 
 Most kids do great at altitude. A slower first day, a night lower down if you can, and knowing the few signs to watch for are all it takes.
 
@@ -396,7 +397,7 @@ GOES provides guidance and is not a substitute for professional medical care. If
 > A layer-by-layer ski gear checklist for toddlers and preschoolers on cold days: base, mid and outer layers, mittens, neck warmers, boots and socks, the car-seat coat rule, and what to pack for warm-up breaks. Based on AAP, Canadian Paediatric Society and SickKids guidance.
 
 Source page: https://skiready.goes.health/guides/toddler-ski-gear-checklist
-Updated: 2026-11-25
+Updated: 2026-11-26
 
 Dressing a toddler for the snow comes down to three things: thin layers you can add or take off, nothing wet against the skin, and every bit of skin covered when the wind picks up. Here's the whole list, from car seat to chairlift.
 
@@ -483,18 +484,110 @@ GOES provides guidance and is not a substitute for professional medical care. If
 
 ---
 
+# Hand & Foot Warmers for Kids: Where They Help and Where They Can Burn
+
+> How to use disposable hand and toe warmers safely with kids on a ski day: where to put them, why they never go against bare skin or into a tight boot, why they're not for numb or frostbitten skin, and what to do if a child bites one open. Based on Wilderness Medical Society, CDC and poison center guidance.
+
+Source page: https://skiready.goes.health/guides/hand-foot-warmers-kids-safety
+Updated: 2026-11-26
+
+Hand and toe warmers are a great extra on a cold ski day, and the Wilderness Medical Society lists them as one way to keep fingers and toes warm. They just need a few rules with kids: always a layer of fabric between warmer and skin, never in a boot that's already snug, and never as a fix for skin that's already numb.
+
+## Quick answer
+1. Keep a layer between warmer and skin: in the mitten's outer pocket or on top of the sock, never against bare skin.
+2. Don't squeeze a warmer into a tight boot. If it makes the fit snug, it can cut off blood flow and make toes colder.
+3. Numb, white or waxy skin needs gentle body warmth and a check, not a warmer. Frostbitten skin can burn without feeling it.
+
+Sources: [Wilderness Medical Society: Frostbite guidelines, 2024 update](https://journals.sagepub.com/doi/full/10.1177/10806032231222359), [CDC: Preventing frostbite](https://www.cdc.gov/winter-weather/prevention/preventing-frostbite.html)
+
+## Why warmers help, and why kids need extra care
+
+The Wilderness Medical Society's frostbite guidelines list chemical hand and foot warmers as one way to keep fingers and toes warm in the cold, with two conditions: the warmer must not sit directly against the skin, and it must not make a boot so tight that it cuts off blood flow. ([WMS](https://journals.sagepub.com/doi/full/10.1177/10806032231222359)) Kids add a third: they can't always tell you something feels too hot, especially once their hands and feet are cold. ([SickKids](https://www.aboutkidshealth.ca/cold-weather-injuries)) So a grown-up places the warmer, checks it at breaks, and takes it out if anything looks red or sore.
+
+## Where warmers go (and where they don't)
+
+| Spot | OK? | How |
+|---|---|---|
+| Mittens | Yes, with a layer | In a mitten's outer pocket or between a liner and the shell, not loose against the palm. Mittens already keep fingers warmer than gloves ([CPS](https://caringforkids.cps.ca/handouts/safety-and-injury-prevention/frostbite)) |
+| Boots | Only if the fit stays roomy | On top of the sock, never inside it. If toes can't wiggle, take it out: a tight boot squeezes blood flow ([WMS](https://journals.sagepub.com/doi/full/10.1177/10806032231222359)) ([sickkids-dressing](https://www.aboutkidshealth.ca/dressing-for-the-cold)) |
+| Jacket pockets | Yes | A warm pocket gives cold hands somewhere to go on the chairlift without touching the warmer directly ([WMS](https://journals.sagepub.com/doi/full/10.1177/10806032231222359)) |
+| Bare skin | No | Warmers must not be placed directly against skin ([WMS](https://journals.sagepub.com/doi/full/10.1177/10806032231222359)) |
+| Numb or frostbitten skin | No | Frostbitten areas are numb and can easily burn ([CDC](https://www.cdc.gov/winter-weather/prevention/preventing-frostbite.html)) |
+
+## A safe routine for ski day
+
+**Do**
+- Open and activate warmers indoors or in the car, before they go into cold gear. WMS advises warmers be close to body temperature before they're activated. ([WMS](https://journals.sagepub.com/doi/full/10.1177/10806032231222359))
+- Put them in yourself, with fabric between the warmer and your child's skin. ([WMS](https://journals.sagepub.com/doi/full/10.1177/10806032231222359))
+- At every warm-up break, check fingers and toes and look at the skin under where the warmer sat. ([WMS](https://journals.sagepub.com/doi/full/10.1177/10806032231222359))
+- Keep socks and mittens dry. A warmer can't make up for wet gear, so swap anything damp right away. ([AAP](https://www.healthychildren.org/english/safety-prevention/at-play/pages/winter-safety.aspx))
+
+**Don't**
+- Don't tuck a warmer inside a sock or under a snug boot liner. ([WMS](https://journals.sagepub.com/doi/full/10.1177/10806032231222359))
+- Don't use a warmer to rewarm skin that is already white, gray or waxy. That's possible frostbite. ([CDC](https://www.cdc.gov/winter-weather/prevention/preventing-frostbite.html))
+- Don't hand a warmer to a toddler who mouths things. The packet holds iron powder. ([mpc-warmers](https://blog.mdpoison.com/2025/02/28/will-kids-really-eat-that-part-three/))
+
+## If skin is already numb or looks frostbitten
+
+Signs of frostbite include white or grayish-yellow skin, skin that feels unusually firm or waxy, and numbness. ([CDC](https://www.cdc.gov/winter-weather/prevention/preventing-frostbite.html)) Head inside, take off anything wet, and warm the area with body heat, such as cold fingers in an armpit, or warm (not hot) water that feels comfortable to an unaffected hand. ([CDC](https://www.cdc.gov/winter-weather/prevention/preventing-frostbite.html)) Don't rub it, and don't use a heating pad, stove, fireplace or other strong heat, because numb skin can easily burn. ([CDC](https://www.cdc.gov/winter-weather/prevention/preventing-frostbite.html)) Frostbite should be checked by a health care provider. ([CDC](https://www.cdc.gov/winter-weather/prevention/preventing-frostbite.html))
+
+## If your child bites or swallows a warmer
+
+- Hand warmers contain iron powder with ingredients like charcoal, salt or vermiculite. ([mpc-warmers](https://blog.mdpoison.com/2025/02/28/will-kids-really-eat-that-part-three/))
+- The contents of a used warmer are mostly rust and aren't expected to cause severe effects; a large amount of unused powder can cause iron toxicity. ([mpc-warmers](https://blog.mdpoison.com/2025/02/28/will-kids-really-eat-that-part-three/))
+- If your child eats any of the contents, call Poison Help at 1-800-222-1222. ([mpc-warmers](https://blog.mdpoison.com/2025/02/28/will-kids-really-eat-that-part-three/))
+- If your child has trouble breathing, can't be woken, or is turning blue, call 911. ([mpc-warmers](https://blog.mdpoison.com/2025/02/28/will-kids-really-eat-that-part-three/))
+
+## Parent FAQ
+
+**Are hand warmers safe for toddlers?**
+They can be, with an adult in charge: put the warmer where it can't touch bare skin, check under it at breaks, and keep packets away from little ones who put things in their mouths (Wilderness Medical Society; Maryland Poison Center).
+
+**Can I put a toe warmer inside my child's sock?**
+No. Warmers shouldn't sit directly against skin, and they shouldn't make a boot tight enough to restrict blood flow. Put it on top of the sock only if toes can still wiggle (Wilderness Medical Society).
+
+**Should I use a hand warmer on frostbite?**
+No. Frostbitten skin is numb and can easily burn. Warm it with body heat or warm, not hot, water and have it checked by a health care provider (CDC).
+
+**What if my child ate part of a hand warmer?**
+Call Poison Help at 1-800-222-1222. Call 911 if your child has trouble breathing, can't be woken, or is turning blue (Maryland Poison Center).
+
+## Sources
+- [Wilderness Medical Society: Frostbite guidelines, 2024 update](https://journals.sagepub.com/doi/full/10.1177/10806032231222359)
+- [CDC: Preventing frostbite](https://www.cdc.gov/winter-weather/prevention/preventing-frostbite.html)
+- [Canadian Paediatric Society: Frostbite](https://caringforkids.cps.ca/handouts/safety-and-injury-prevention/frostbite)
+- [AboutKidsHealth (SickKids): Dressing for the cold](https://www.aboutkidshealth.ca/dressing-for-the-cold)
+- [AboutKidsHealth (SickKids): Cold weather injuries](https://www.aboutkidshealth.ca/cold-weather-injuries)
+- [AAP HealthyChildren.org: Winter safety tips](https://www.healthychildren.org/english/safety-prevention/at-play/pages/winter-safety.aspx)
+- [Maryland Poison Center (University of Maryland School of Pharmacy): Hand warmers and kids](https://blog.mdpoison.com/2025/02/28/will-kids-really-eat-that-part-three/)
+
+## When signal drops, GOES steps in.
+
+The free GOES Outdoor Health & Safety app keeps frostbite, hypothermia and altitude guidance on your phone offline: an interactive health assessment, 50+ visual how-to guides, and 200+ prevention tips across 60+ medical topics. Founded by wilderness medicine doctors.
+
+- iOS: https://apps.apple.com/us/app/goes-outdoor-health-safety/id1576527901?ct=skiready_markdown&mt=8
+- Android: https://play.google.com/store/apps/details?id=com.goes.mobile&referrer=utm_source%3Dmarkdown%26utm_medium%3Dagent%26utm_campaign%3Dskiready
+- About: https://goes.health/app?utm_source=markdown&utm_medium=agent&utm_campaign=skiready
+
+Free to download. GOES+ is $5.99/month or $35.99/year after a 7-day free trial; renews automatically unless canceled.
+
+GOES provides guidance and is not a substitute for professional medical care. If you think you have a medical emergency, call 911.
+
+
+---
+
 # Breckenridge Ski Resort with kids: cold-safety & live forecast
 
 > Highest base on this list. Most families feel the altitude before they feel the cold.
 
 Source page: https://skiready.goes.health/resorts/breckenridge
-Updated: 2026-11-25
+Updated: 2026-11-26
 
 - Base elevation: 9,600 ft; summit: 12,998 ft (Peak 8 summit). Source: [Breckenridge Resort: Breckenridge altitude, what to know](https://www.breckenridge.com/travel-guide/breckenridge-elevation.aspx)
 - Nearest hospital: St. Anthony Summit Hospital (Frisco)
-- NWS point 39.48,-106.07 (Breckenridge, CO; grid elevation 9,797 ft), fetched Nov 25, 7:11 AM MST
-- At fetch: 16°F, wind 3 mph WSW, sunny (feels like about 16°F)
-- Lowest NWS wind chill, next 48 h: 8°F (Above 5°F: normal winter day)
+- NWS point 39.48,-106.07 (Breckenridge, CO; grid elevation 9,797 ft), fetched Nov 26, 7:18 AM MST
+- At fetch: 21°F, wind 5 mph WSW, sunny (feels like about 14°F)
+- Lowest NWS wind chill, next 48 h: 10°F (Above 5°F: normal winter day)
 - Active NWS alerts: none
 
 ## Altitude first
@@ -503,14 +596,14 @@ The base is 9,600 ft. If you can, spend a night around Denver first; make day on
 ## NWS forecast
 | Period | Temp | Forecast | Wind |
 |---|---|---|---|
-| Today | 47°F | Sunny | 2 to 6 mph WNW |
-| Tonight | 21°F | Mostly Cloudy | 3 mph WSW |
-| Thanksgiving Day | 45°F | Mostly Sunny | 3 to 9 mph WNW |
-| Thursday Night | 21°F | Mostly Clear | 8 to 13 mph WNW |
-| Friday | 44°F | Mostly Sunny | 15 mph WNW |
-| Friday Night | 25°F | Snow Showers Likely | 14 to 17 mph W |
-| Saturday | 33°F | Snow Showers Likely | 20 mph WNW |
-| Saturday Night | 14°F | Snow Showers Likely | 10 to 18 mph WNW |
+| Thanksgiving Day | 45°F | Sunny | 5 to 13 mph NW |
+| Tonight | 20°F | Mostly Clear | 10 to 15 mph WNW |
+| Friday | 44°F | Mostly Sunny then Slight Chance Snow Showers | 15 to 22 mph WNW |
+| Friday Night | 26°F | Snow Showers And Patchy Blowing Snow | 17 to 22 mph W |
+| Saturday | 35°F | Snow Showers And Patchy Blowing Snow | 21 to 24 mph WNW |
+| Saturday Night | 11°F | Snow Showers Likely then Mostly Cloudy | 10 to 23 mph WNW |
+| Sunday | 39°F | Sunny | 8 to 15 mph W |
+| Sunday Night | 16°F | Partly Cloudy | 10 mph WSW |
 
 Full forecast: https://forecast.weather.gov/MapClick.php?lat=39.48&lon=-106.07
 
@@ -540,13 +633,13 @@ GOES provides guidance and is not a substitute for professional medical care. If
 > High base plus long gondola and chairlift rides. Wind on the ride up is where cheeks and fingers get cold.
 
 Source page: https://skiready.goes.health/resorts/keystone
-Updated: 2026-11-25
+Updated: 2026-11-26
 
 - Base elevation: 9,280 ft; summit: 12,408 ft. Source: [Vail Resorts News: Keystone winter fast facts](https://news.vailresorts.com/2011-09-08-Keystone-Winter-Fast-Facts-2012-13)
 - Nearest hospital: St. Anthony Summit Hospital (Frisco)
-- NWS point 39.605,-105.944 (Keystone, CO; grid elevation 9,396 ft), fetched Nov 25, 7:11 AM MST
-- At fetch: 18°F, wind 3 mph WSW, sunny (feels like about 18°F)
-- Lowest NWS wind chill, next 48 h: 6°F (Above 5°F: normal winter day)
+- NWS point 39.605,-105.944 (Keystone, CO; grid elevation 9,396 ft), fetched Nov 26, 7:18 AM MST
+- At fetch: 22°F, wind 5 mph SSW, sunny (feels like about 15°F)
+- Lowest NWS wind chill, next 48 h: 13°F (Above 5°F: normal winter day)
 - Active NWS alerts: none
 
 ## Altitude first
@@ -555,14 +648,14 @@ The base is 9,280 ft. If you can, spend a night around Denver first; make day on
 ## NWS forecast
 | Period | Temp | Forecast | Wind |
 |---|---|---|---|
-| Today | 48°F | Sunny | 2 to 6 mph W |
-| Tonight | 20°F | Mostly Cloudy | 5 mph SSW |
-| Thanksgiving Day | 46°F | Mostly Sunny | 2 to 8 mph WNW |
-| Thursday Night | 22°F | Mostly Clear | 7 to 12 mph WNW |
-| Friday | 45°F | Mostly Sunny | 10 to 14 mph WNW |
-| Friday Night | 25°F | Snow Showers Likely | 15 mph W |
-| Saturday | 35°F | Snow Showers Likely | 15 to 18 mph WNW |
-| Saturday Night | 14°F | Snow Showers Likely | 10 to 16 mph WNW |
+| Thanksgiving Day | 46°F | Sunny | 5 to 13 mph W |
+| Tonight | 21°F | Mostly Clear | 9 mph W |
+| Friday | 45°F | Mostly Sunny then Slight Chance Snow Showers | 9 to 20 mph W |
+| Friday Night | 26°F | Snow Showers | 15 to 18 mph W |
+| Saturday | 37°F | Snow Showers And Patchy Blowing Snow | 16 to 21 mph WNW |
+| Saturday Night | 11°F | Snow Showers Likely then Mostly Cloudy | 6 to 20 mph WNW |
+| Sunday | 39°F | Sunny | 6 to 13 mph W |
+| Sunday Night | 15°F | Partly Cloudy | 9 mph W |
 
 Full forecast: https://forecast.weather.gov/MapClick.php?lat=39.605&lon=-105.944
 
@@ -592,26 +685,26 @@ GOES provides guidance and is not a substitute for professional medical care. If
 > Lower base than Summit County, but the summit is about 3,700 ft higher than the base and noticeably colder.
 
 Source page: https://skiready.goes.health/resorts/steamboat
-Updated: 2026-11-25
+Updated: 2026-11-26
 
 - Base elevation: 6,900 ft; summit: 10,568 ft (Mount Werner). Source: [Steamboat Chamber: Steamboat facts & figures](https://www.steamboatchamber.com/discover-steamboat/facts-figures/)
 - Nearest hospital: UCHealth Yampa Valley Medical Center (Steamboat Springs)
-- NWS point 40.4575,-106.804 (Steamboat Springs, CO; grid elevation 7,323 ft), fetched Nov 25, 7:11 AM MST
-- At fetch: 18°F, wind calm, sunny (feels like about 18°F)
-- Lowest NWS wind chill, next 48 h: 18°F (Above 5°F: normal winter day)
+- NWS point 40.4575,-106.804 (Steamboat Springs, CO; grid elevation 7,323 ft), fetched Nov 26, 7:18 AM MST
+- At fetch: 22°F, wind calm, sunny (feels like about 22°F)
+- Lowest NWS wind chill, next 48 h: 21°F (Above 5°F: normal winter day)
 - Active NWS alerts: none
 
 ## NWS forecast
 | Period | Temp | Forecast | Wind |
 |---|---|---|---|
-| Today | 45°F | Mostly Sunny | 0 mph  |
-| Tonight | 22°F | Mostly Cloudy | 0 mph  |
-| Thanksgiving Day | 45°F | Mostly Sunny | 0 to 5 mph WSW |
-| Thursday Night | 24°F | Partly Cloudy | 0 mph  |
-| Friday | 44°F | Mostly Cloudy then Chance Rain And Snow Showers | 0 to 5 mph WSW |
-| Friday Night | 27°F | Rain And Snow Showers | 5 mph WSW |
-| Saturday | 39°F | Snow Showers | 5 to 15 mph W |
-| Saturday Night | 18°F | Chance Snow Showers | 0 to 10 mph WSW |
+| Thanksgiving Day | 46°F | Mostly Sunny | 0 to 5 mph WSW |
+| Tonight | 23°F | Partly Cloudy | 0 mph  |
+| Friday | 46°F | Partly Sunny then Chance Rain And Snow Showers | 0 to 5 mph WSW |
+| Friday Night | 27°F | Rain And Snow Showers | 0 to 5 mph SW |
+| Saturday | 40°F | Snow Showers | 5 to 15 mph W |
+| Saturday Night | 14°F | Chance Snow Showers then Patchy Fog | 0 to 5 mph WSW |
+| Sunday | 42°F | Patchy Fog then Mostly Sunny | 0 mph  |
+| Sunday Night | 20°F | Mostly Cloudy then Chance Snow Showers | 0 to 5 mph SSE |
 
 Full forecast: https://forecast.weather.gov/MapClick.php?lat=40.4575&lon=-106.804
 
@@ -641,26 +734,26 @@ GOES provides guidance and is not a substitute for professional medical care. If
 > Dry, sunny cold. Cheeks and noses can get frostnip on a bluebird day without anyone noticing.
 
 Source page: https://skiready.goes.health/resorts/park-city
-Updated: 2026-11-25
+Updated: 2026-11-26
 
 - Base elevation: 6,800 ft; summit: 10,026 ft. Source: [Ski Utah: Park City Mountain](https://www.skiutah.com/members/park-city-mountain/snowreport)
 - Nearest hospital: Intermountain Park City Hospital
-- NWS point 40.6512,-111.508 (Park City, UT; grid elevation 6,919 ft), fetched Nov 25, 7:11 AM MST
-- At fetch: 27°F, wind 2 mph SSE, partly sunny (feels like about 27°F)
-- Lowest NWS wind chill, next 48 h: 22°F (Above 5°F: normal winter day)
+- NWS point 40.6512,-111.508 (Park City, UT; grid elevation 6,919 ft), fetched Nov 26, 7:18 AM MST
+- At fetch: 28°F, wind 1 mph SE, mostly sunny (feels like about 28°F)
+- Lowest NWS wind chill, next 48 h: 25°F (Above 5°F: normal winter day)
 - Active NWS alerts: none
 
 ## NWS forecast
 | Period | Temp | Forecast | Wind |
 |---|---|---|---|
-| Today | 46°F | Mostly Cloudy | 2 mph SSW |
-| Tonight | 26°F | Partly Cloudy | 2 mph W |
-| Thanksgiving Day | 47°F | Mostly Sunny | 1 mph W |
-| Thursday Night | 28°F | Partly Cloudy | 1 to 5 mph SW |
-| Friday | 48°F | Partly Sunny | 3 mph SW |
-| Friday Night | 31°F | Rain And Snow Likely | 3 to 16 mph SW |
-| Saturday | 39°F | Light Snow Likely | 3 to 16 mph W |
-| Saturday Night | 25°F | Mostly Cloudy | 2 to 7 mph SW |
+| Thanksgiving Day | 48°F | Mostly Sunny | 0 to 3 mph SE |
+| Tonight | 28°F | Mostly Cloudy | 5 mph SW |
+| Friday | 48°F | Mostly Cloudy | 5 mph WSW |
+| Friday Night | 33°F | Light Rain Likely then Rain And Snow | 5 to 17 mph SSW |
+| Saturday | 38°F | Rain And Snow | 3 to 18 mph W |
+| Saturday Night | 23°F | Mostly Cloudy | 3 mph SW |
+| Sunday | 45°F | Partly Sunny | 5 mph S |
+| Sunday Night | 31°F | Light Snow Likely | 5 to 13 mph S |
 
 Full forecast: https://forecast.weather.gov/MapClick.php?lat=40.6512&lon=-111.508
 
@@ -690,26 +783,26 @@ GOES provides guidance and is not a substitute for professional medical care. If
 > Sierra storms come in wet. Damp mittens and soaked layers, not deep cold, are the usual problem for kids.
 
 Source page: https://skiready.goes.health/resorts/palisades-tahoe
-Updated: 2026-11-25
+Updated: 2026-11-26
 
 - Base elevation: 6,200 ft; summit: 9,050 ft. Source: [Palisades Tahoe: Mountain statistics](https://www.palisadestahoe.com/footer/mountain-statistics)
 - Nearest hospital: Tahoe Forest Hospital (Truckee)
-- NWS point 39.1968,-120.2354 (Sunnyside-Tahoe City, CA; grid elevation 6,283 ft), fetched Nov 25, 7:11 AM MST
-- At fetch: 29°F, wind 5 mph SW, mostly cloudy (feels like about 24°F)
-- Lowest NWS wind chill, next 48 h: 25°F (Above 5°F: normal winter day)
+- NWS point 39.1968,-120.2354 (Sunnyside-Tahoe City, CA; grid elevation 6,283 ft), fetched Nov 26, 7:18 AM MST
+- At fetch: 29°F, wind calm, mostly cloudy (feels like about 29°F)
+- Lowest NWS wind chill, next 48 h: 29°F (Above 5°F: normal winter day)
 - Active NWS alerts: none
 
 ## NWS forecast
 | Period | Temp | Forecast | Wind |
 |---|---|---|---|
-| Today | 47°F | Mostly Sunny | 0 to 5 mph SW |
-| Tonight | 27°F | Partly Cloudy | 0 mph  |
 | Thanksgiving Day | 54°F | Partly Sunny | 0 mph  |
-| Thursday Night | 31°F | Mostly Cloudy | 0 mph  |
-| Friday | 54°F | Partly Sunny | 0 to 5 mph S |
-| Friday Night | 32°F | Mostly Cloudy | 0 to 5 mph SW |
-| Saturday | 50°F | Partly Sunny | 0 mph  |
-| Saturday Night | 31°F | Mostly Cloudy then Chance Rain And Snow | 0 to 10 mph SW |
+| Tonight | 31°F | Mostly Cloudy | 0 mph  |
+| Friday | 54°F | Partly Sunny | 0 to 5 mph SW |
+| Friday Night | 31°F | Mostly Cloudy | 0 to 5 mph SW |
+| Saturday | 53°F | Partly Sunny | 0 mph  |
+| Saturday Night | 32°F | Partly Cloudy | 0 to 5 mph S |
+| Sunday | 46°F | Light Rain | 5 to 10 mph SW |
+| Sunday Night | 32°F | Rain And Snow | 10 to 25 mph SW |
 
 Full forecast: https://forecast.weather.gov/MapClick.php?lat=39.1968&lon=-120.2354
 
@@ -739,26 +832,26 @@ GOES provides guidance and is not a substitute for professional medical care. If
 > Low elevation, but Northeast arctic outbreaks bring the deepest wind chills on this list. Exposed skin is the main risk.
 
 Source page: https://skiready.goes.health/resorts/stowe
-Updated: 2026-11-25
+Updated: 2026-11-26
 
 - Base elevation: 1,559 ft; summit: 4,395 ft (Mt. Mansfield, Vermont's highest peak). Source: [Vail Resorts News: Stowe Mountain Resort tip sheet](https://news.vailresorts.com/stowe-mountain-resort-tip-sheet)
 - Nearest hospital: Copley Hospital (Morrisville)
-- NWS point 44.53,-72.781 (Underhill Center, VT; grid elevation 2,093 ft), fetched Nov 25, 7:11 AM MST
-- At fetch: 22°F, wind calm, partly sunny (feels like about 22°F)
-- Lowest NWS wind chill, next 48 h: 11°F (Above 5°F: normal winter day)
-- Active NWS alerts: none
+- NWS point 44.53,-72.781 (Underhill Center, VT; grid elevation 2,093 ft), fetched Nov 26, 7:18 AM MST
+- At fetch: 25°F, wind 5 mph S, mostly sunny (feels like about 19°F)
+- Lowest NWS wind chill, next 48 h: 13°F (Above 5°F: normal winter day)
+- Active NWS alerts: Winter Weather Advisory: Winter Weather Advisory issued November 26 at 1:13AM EST until November 27 at 7:00AM EST by NWS Burlington VT
 
 ## NWS forecast
 | Period | Temp | Forecast | Wind |
 |---|---|---|---|
-| Today | 30°F | Sunny | 1 mph SW |
-| Tonight | 18°F | Mostly Cloudy | 2 to 6 mph S |
-| Thanksgiving Day | 33°F | Mostly Cloudy | 7 mph SE |
-| Thursday Night | 30°F | Freezing Rain | 8 to 14 mph E |
-| Friday | 38°F | Light Rain then Rain And Snow | 5 to 8 mph SE |
-| Friday Night | 33°F | Light Rain then Rain And Snow Showers | 6 to 10 mph SW |
-| Saturday | 34°F | Rain And Snow Showers | 6 to 9 mph W |
-| Saturday Night | 31°F | Chance Rain And Snow Showers then Chance Rain And Snow | 7 to 10 mph SW |
+| Thanksgiving Day | 35°F | Partly Sunny | 7 mph SE |
+| Tonight | 32°F | Freezing Rain | 8 to 15 mph E |
+| Friday | 39°F | Chance Light Rain | 6 to 9 mph SE |
+| Friday Night | 36°F | Light Rain then Rain And Snow Showers | 6 to 9 mph SW |
+| Saturday | 36°F | Snow Showers | 5 to 8 mph W |
+| Saturday Night | 33°F | Rain And Snow Showers Likely then Chance Rain And Snow | 8 mph SW |
+| Sunday | 40°F | Slight Chance Light Snow then Partly Sunny | 7 mph S |
+| Sunday Night | 34°F | Mostly Cloudy then Rain And Snow | 8 to 15 mph SE |
 
 Full forecast: https://forecast.weather.gov/MapClick.php?lat=44.53&lon=-72.781
 
@@ -788,13 +881,13 @@ GOES provides guidance and is not a substitute for professional medical care. If
 > Big mountain with long lift rides out to the Back Bowls. The summit is about 3,450 ft above the base, so plan warm-up breaks before kids get cold, not after.
 
 Source page: https://skiready.goes.health/resorts/vail
-Updated: 2026-11-25
+Updated: 2026-11-26
 
 - Base elevation: 8,120 ft; summit: 11,570 ft. Source: [Vail Mountain: Mountain info](https://www.vail.com/the-mountain/about-the-mountain/mountain-info.aspx)
 - Nearest hospital: Vail Health Hospital (Vail)
-- NWS point 39.6403,-106.3742 (Vail, CO; grid elevation 8,950 ft), fetched Nov 25, 7:11 AM MST
-- At fetch: 16°F, wind 5 mph SE, sunny (feels like about 8°F)
-- Lowest NWS wind chill, next 48 h: 6°F (Above 5°F: normal winter day)
+- NWS point 39.6403,-106.3742 (Vail, CO; grid elevation 8,950 ft), fetched Nov 26, 7:18 AM MST
+- At fetch: 24°F, wind calm, sunny (feels like about 24°F)
+- Lowest NWS wind chill, next 48 h: 20°F (Above 5°F: normal winter day)
 - Active NWS alerts: none
 
 ## Altitude first
@@ -803,14 +896,14 @@ The base is 8,120 ft. If you can, spend a night around Denver first; make day on
 ## NWS forecast
 | Period | Temp | Forecast | Wind |
 |---|---|---|---|
-| Today | 45°F | Sunny | 0 to 5 mph SW |
-| Tonight | 22°F | Mostly Cloudy | 0 to 5 mph SSE |
-| Thanksgiving Day | 44°F | Mostly Sunny | 0 to 5 mph WSW |
-| Thursday Night | 24°F | Mostly Clear | 5 mph SW |
-| Friday | 43°F | Partly Sunny | 5 to 10 mph WSW |
-| Friday Night | 27°F | Snow Showers | 5 mph WSW |
-| Saturday | 36°F | Snow Showers | 5 to 10 mph W |
-| Saturday Night | 16°F | Snow Showers Likely | 0 to 5 mph W |
+| Thanksgiving Day | 45°F | Mostly Sunny | 0 to 5 mph W |
+| Tonight | 22°F | Partly Cloudy | 0 mph  |
+| Friday | 43°F | Partly Sunny then Slight Chance Snow Showers | 0 to 10 mph WSW |
+| Friday Night | 29°F | Snow Showers | 5 to 10 mph SW |
+| Saturday | 35°F | Snow Showers | 5 to 10 mph W |
+| Saturday Night | 13°F | Chance Snow Showers then Mostly Cloudy | 0 to 10 mph W |
+| Sunday | 38°F | Mostly Sunny | 0 to 5 mph SW |
+| Sunday Night | 20°F | Partly Cloudy | 0 to 5 mph SSW |
 
 Full forecast: https://forecast.weather.gov/MapClick.php?lat=39.6403&lon=-106.3742
 
