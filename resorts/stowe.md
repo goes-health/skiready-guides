@@ -3,26 +3,26 @@
 > Low elevation, but Northeast arctic outbreaks bring the deepest wind chills on this list. Exposed skin is the main risk.
 
 Source page: https://skiready.goes.health/resorts/stowe
-Updated: 2026-11-26
+Updated: 2026-11-27
 
 - Base elevation: 1,559 ft; summit: 4,395 ft (Mt. Mansfield, Vermont's highest peak). Source: [Vail Resorts News: Stowe Mountain Resort tip sheet](https://news.vailresorts.com/stowe-mountain-resort-tip-sheet)
 - Nearest hospital: Copley Hospital (Morrisville)
-- NWS point 44.53,-72.781 (Underhill Center, VT; grid elevation 2,093 ft), fetched Nov 26, 7:18 AM MST
-- At fetch: 25°F, wind 5 mph S, mostly sunny (feels like about 19°F)
-- Lowest NWS wind chill, next 48 h: 13°F (Above 5°F: normal winter day)
-- Active NWS alerts: Winter Weather Advisory: Winter Weather Advisory issued November 26 at 1:13AM EST until November 27 at 7:00AM EST by NWS Burlington VT
+- NWS point 44.53,-72.781 (Underhill Center, VT; grid elevation 2,093 ft), fetched Nov 27, 7:12 AM MST
+- At fetch: 36°F, wind 8 mph SE, mostly cloudy (feels like about 30°F)
+- Lowest NWS wind chill, next 48 h: 25°F (Above 5°F: normal winter day)
+- Active NWS alerts: none
 
 ## NWS forecast
 | Period | Temp | Forecast | Wind |
 |---|---|---|---|
-| Thanksgiving Day | 35°F | Partly Sunny | 7 mph SE |
-| Tonight | 32°F | Freezing Rain | 8 to 15 mph E |
-| Friday | 39°F | Chance Light Rain | 6 to 9 mph SE |
-| Friday Night | 36°F | Light Rain then Rain And Snow Showers | 6 to 9 mph SW |
-| Saturday | 36°F | Snow Showers | 5 to 8 mph W |
-| Saturday Night | 33°F | Rain And Snow Showers Likely then Chance Rain And Snow | 8 mph SW |
-| Sunday | 40°F | Slight Chance Light Snow then Partly Sunny | 7 mph S |
-| Sunday Night | 34°F | Mostly Cloudy then Rain And Snow | 8 to 15 mph SE |
+| Today | 40°F | Mostly Cloudy then Slight Chance Light Rain | 8 mph S |
+| Tonight | 33°F | Light Rain then Chance Rain And Snow | 6 to 10 mph SW |
+| Saturday | 35°F | Rain And Snow Likely | 6 to 9 mph W |
+| Saturday Night | 32°F | Rain And Snow | 9 mph W |
+| Sunday | 41°F | Rain And Snow Likely then Partly Sunny | 5 to 8 mph SW |
+| Sunday Night | 34°F | Mostly Cloudy then Light Rain | 8 to 15 mph SE |
+| Monday | 39°F | Light Rain then Rain And Snow Likely | 8 to 23 mph SW |
+| Monday Night | 21°F | Light Snow Likely | 24 to 32 mph NW |
 
 Full forecast: https://forecast.weather.gov/MapClick.php?lat=44.53&lon=-72.781
 

@@ -3,7 +3,7 @@
 > Live National Weather Service wind chill checks for family ski resorts, plus parent guides to frostnip, frostbite, hypothermia and altitude for kids aged 2 to 10.
 
 Source page: https://skiready.goes.health/
-Updated: 2026-11-26
+Updated: 2026-11-27
 
 Confidence. Outdoors. GOES prepares and educates you to explore with confidence, wherever you are and when it matters most.
 
@@ -26,16 +26,17 @@ Confidence. Outdoors. GOES prepares and educates you to explore with confidence,
 - [Toddler Ski Gear Checklist for Cold Days (Ages 2–5)](https://skiready.goes.health/guides/toddler-ski-gear-checklist.md): A layer-by-layer ski gear checklist for toddlers and preschoolers on cold days: base, mid and outer layers, mittens, neck warmers, boots and socks, the car-seat coat rule, and what to pack for warm-up breaks. Based on AAP, Canadian Paediatric Society and SickKids guidance.
 - [Hand & Foot Warmers for Kids: Where They Help and Where They Can Burn](https://skiready.goes.health/guides/hand-foot-warmers-kids-safety.md): How to use disposable hand and toe warmers safely with kids on a ski day: where to put them, why they never go against bare skin or into a tight boot, why they're not for numb or frostbitten skin, and what to do if a child bites one open. Based on Wilderness Medical Society, CDC and poison center guidance.
 
-## Resorts (NWS fetched Nov 26, 7:18 AM MST)
+## Resorts (NWS fetched Nov 27, 7:12 AM MST)
 | Resort | Base ft | Summit ft | Now | 48-hr low wind chill | NWS alerts |
 |---|---|---|---|---|---|
-| [Breckenridge Ski Resort](https://skiready.goes.health/resorts/breckenridge.md) | 9,600 | 12,998 | 21°F, wind 5 mph WSW, sunny | 10°F | none |
-| [Keystone Resort](https://skiready.goes.health/resorts/keystone.md) | 9,280 | 12,408 | 22°F, wind 5 mph SSW, sunny | 13°F | none |
-| [Steamboat Ski Resort](https://skiready.goes.health/resorts/steamboat.md) | 6,900 | 10,568 | 22°F, wind calm, sunny | 21°F | none |
-| [Park City Mountain](https://skiready.goes.health/resorts/park-city.md) | 6,800 | 10,026 | 28°F, wind 1 mph SE, mostly sunny | 25°F | none |
-| [Palisades Tahoe (Olympic Valley)](https://skiready.goes.health/resorts/palisades-tahoe.md) | 6,200 | 9,050 | 29°F, wind calm, mostly cloudy | 29°F | none |
-| [Stowe Mountain Resort](https://skiready.goes.health/resorts/stowe.md) | 1,559 | 4,395 | 25°F, wind 5 mph S, mostly sunny | 13°F | Winter Weather Advisory |
-| [Vail Mountain](https://skiready.goes.health/resorts/vail.md) | 8,120 | 11,570 | 24°F, wind calm, sunny | 20°F | none |
+| [Breckenridge Ski Resort](https://skiready.goes.health/resorts/breckenridge.md) | 9,600 | 12,998 | 24°F, wind 15 mph W, sunny | -1°F | Winter Weather Advisory |
+| [Keystone Resort](https://skiready.goes.health/resorts/keystone.md) | 9,280 | 12,408 | 24°F, wind 9 mph W, sunny | -3°F | Winter Weather Advisory |
+| [Steamboat Ski Resort](https://skiready.goes.health/resorts/steamboat.md) | 6,900 | 10,568 | 24°F, wind calm, partly sunny | 8°F | none |
+| [Park City Mountain](https://skiready.goes.health/resorts/park-city.md) | 6,800 | 10,026 | 32°F, wind 3 mph SSE, mostly cloudy | 21°F | none |
+| [Palisades Tahoe (Olympic Valley)](https://skiready.goes.health/resorts/palisades-tahoe.md) | 6,200 | 9,050 | 31°F, wind calm, partly sunny | 26°F | none |
+| [Stowe Mountain Resort](https://skiready.goes.health/resorts/stowe.md) | 1,559 | 4,395 | 36°F, wind 8 mph SE, mostly cloudy | 25°F | none |
+| [Vail Mountain](https://skiready.goes.health/resorts/vail.md) | 8,120 | 11,570 | 24°F, wind 5 mph SW, mostly sunny | 3°F | Winter Weather Advisory |
+| [Beaver Creek Resort](https://skiready.goes.health/resorts/beaver-creek.md) | 8,100 | 11,440 | 24°F, wind 5 mph W, mostly sunny | 4°F | Winter Weather Advisory |
 
 ## When signal drops, GOES steps in.
 

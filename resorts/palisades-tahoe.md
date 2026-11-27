@@ -3,26 +3,26 @@
 > Sierra storms come in wet. Damp mittens and soaked layers, not deep cold, are the usual problem for kids.
 
 Source page: https://skiready.goes.health/resorts/palisades-tahoe
-Updated: 2026-11-26
+Updated: 2026-11-27
 
 - Base elevation: 6,200 ft; summit: 9,050 ft. Source: [Palisades Tahoe: Mountain statistics](https://www.palisadestahoe.com/footer/mountain-statistics)
 - Nearest hospital: Tahoe Forest Hospital (Truckee)
-- NWS point 39.1968,-120.2354 (Sunnyside-Tahoe City, CA; grid elevation 6,283 ft), fetched Nov 26, 7:18 AM MST
-- At fetch: 29°F, wind calm, mostly cloudy (feels like about 29°F)
-- Lowest NWS wind chill, next 48 h: 29°F (Above 5°F: normal winter day)
+- NWS point 39.1968,-120.2354 (Sunnyside-Tahoe City, CA; grid elevation 6,283 ft), fetched Nov 27, 7:12 AM MST
+- At fetch: 31°F, wind calm, partly sunny (feels like about 31°F)
+- Lowest NWS wind chill, next 48 h: 26°F (Above 5°F: normal winter day)
 - Active NWS alerts: none
 
 ## NWS forecast
 | Period | Temp | Forecast | Wind |
 |---|---|---|---|
-| Thanksgiving Day | 54°F | Partly Sunny | 0 mph  |
-| Tonight | 31°F | Mostly Cloudy | 0 mph  |
-| Friday | 54°F | Partly Sunny | 0 to 5 mph SW |
-| Friday Night | 31°F | Mostly Cloudy | 0 to 5 mph SW |
-| Saturday | 53°F | Partly Sunny | 0 mph  |
-| Saturday Night | 32°F | Partly Cloudy | 0 to 5 mph S |
-| Sunday | 46°F | Light Rain | 5 to 10 mph SW |
-| Sunday Night | 32°F | Rain And Snow | 10 to 25 mph SW |
+| Today | 55°F | Partly Sunny | 0 to 5 mph SW |
+| Tonight | 33°F | Mostly Cloudy | 0 to 5 mph SW |
+| Saturday | 55°F | Partly Sunny | 0 mph  |
+| Saturday Night | 33°F | Partly Cloudy then Slight Chance Light Rain | 0 to 10 mph S |
+| Sunday | 45°F | Rain And Snow Likely | 10 to 15 mph SW |
+| Sunday Night | 32°F | Showers And Thunderstorms then Rain And Snow | 10 to 20 mph SW |
+| Monday | 42°F | Light Rain Likely then Light Snow | 5 to 20 mph SW |
+| Monday Night | 30°F | Light Snow | 0 to 5 mph SW |
 
 Full forecast: https://forecast.weather.gov/MapClick.php?lat=39.1968&lon=-120.2354
 

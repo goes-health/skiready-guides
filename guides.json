@@ -359,6 +359,12 @@
    "name": "Vail Mountain",
    "url": "https://skiready.goes.health/resorts/vail",
    "markdown": "https://skiready.goes.health/resorts/vail.md"
+  },
+  {
+   "slug": "beaver-creek",
+   "name": "Beaver Creek Resort",
+   "url": "https://skiready.goes.health/resorts/beaver-creek",
+   "markdown": "https://skiready.goes.health/resorts/beaver-creek.md"
   }
  ],
  "goes_app": {
@@ -371,5 +377,5 @@
   "pricing": "Free to download. GOES+ is $5.99/month or $35.99/year after a 7-day free trial; renews automatically unless canceled.",
   "line": "When signal drops, GOES steps in."
  },
- "upcoming": 30
+ "upcoming": 29
 }

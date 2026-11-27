@@ -3,7 +3,7 @@
 > A layer-by-layer ski gear checklist for toddlers and preschoolers on cold days: base, mid and outer layers, mittens, neck warmers, boots and socks, the car-seat coat rule, and what to pack for warm-up breaks. Based on AAP, Canadian Paediatric Society and SickKids guidance.
 
 Source page: https://skiready.goes.health/guides/toddler-ski-gear-checklist
-Updated: 2026-11-26
+Updated: 2026-11-27
 
 Dressing a toddler for the snow comes down to three things: thin layers you can add or take off, nothing wet against the skin, and every bit of skin covered when the wind picks up. Here's the whole list, from car seat to chairlift.
 

@@ -3,14 +3,14 @@
 > Highest base on this list. Most families feel the altitude before they feel the cold.
 
 Source page: https://skiready.goes.health/resorts/breckenridge
-Updated: 2026-11-26
+Updated: 2026-11-27
 
 - Base elevation: 9,600 ft; summit: 12,998 ft (Peak 8 summit). Source: [Breckenridge Resort: Breckenridge altitude, what to know](https://www.breckenridge.com/travel-guide/breckenridge-elevation.aspx)
 - Nearest hospital: St. Anthony Summit Hospital (Frisco)
-- NWS point 39.48,-106.07 (Breckenridge, CO; grid elevation 9,797 ft), fetched Nov 26, 7:18 AM MST
-- At fetch: 21°F, wind 5 mph WSW, sunny (feels like about 14°F)
-- Lowest NWS wind chill, next 48 h: 10°F (Above 5°F: normal winter day)
-- Active NWS alerts: none
+- NWS point 39.48,-106.07 (Breckenridge, CO; grid elevation 9,797 ft), fetched Nov 27, 7:12 AM MST
+- At fetch: 24°F, wind 15 mph W, sunny (feels like about 11°F)
+- Lowest NWS wind chill, next 48 h: -1°F (5°F to -15°F: shorter day, faces covered)
+- Active NWS alerts: Winter Weather Advisory: Winter Weather Advisory issued November 26 at 10:05PM MST until November 29 at 12:00AM MST by NWS Denver CO
 
 ## Altitude first
 The base is 9,600 ft. If you can, spend a night around Denver first; make day one short; watch for headache, nausea, poor appetite, fussiness or poor sleep in the first 24 hours ([Children's Colorado](https://www.childrenscolorado.org/just-ask-childrens/articles/altitude-sickness/), [CDC](https://www.cdc.gov/yellow-book/hcp/environmental-hazards-risks/high-altitude-travel-and-altitude-illness.html)).
@@ -18,14 +18,14 @@ The base is 9,600 ft. If you can, spend a night around Denver first; make day on
 ## NWS forecast
 | Period | Temp | Forecast | Wind |
 |---|---|---|---|
-| Thanksgiving Day | 45°F | Sunny | 5 to 13 mph NW |
-| Tonight | 20°F | Mostly Clear | 10 to 15 mph WNW |
-| Friday | 44°F | Mostly Sunny then Slight Chance Snow Showers | 15 to 22 mph WNW |
-| Friday Night | 26°F | Snow Showers And Patchy Blowing Snow | 17 to 22 mph W |
-| Saturday | 35°F | Snow Showers And Patchy Blowing Snow | 21 to 24 mph WNW |
-| Saturday Night | 11°F | Snow Showers Likely then Mostly Cloudy | 10 to 23 mph WNW |
-| Sunday | 39°F | Sunny | 8 to 15 mph W |
-| Sunday Night | 16°F | Partly Cloudy | 10 mph WSW |
+| Today | 43°F | Mostly Sunny then Slight Chance Snow Showers | 15 to 22 mph WNW |
+| Tonight | 27°F | Snow Showers | 15 to 21 mph W |
+| Saturday | 31°F | Snow Showers And Patchy Blowing Snow | 12 to 22 mph WNW |
+| Saturday Night | 10°F | Chance Snow Showers And Patchy Blowing Snow then Partly Cloudy | 8 to 18 mph WNW |
+| Sunday | 39°F | Sunny | 9 mph W |
+| Sunday Night | 18°F | Mostly Clear | 10 mph W |
+| Monday | 38°F | Mostly Sunny | 12 mph W |
+| Monday Night | 19°F | Mostly Cloudy | 6 to 13 mph W |
 
 Full forecast: https://forecast.weather.gov/MapClick.php?lat=39.48&lon=-106.07
 
