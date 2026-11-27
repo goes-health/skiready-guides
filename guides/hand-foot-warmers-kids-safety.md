@@ -1,4 +1,4 @@
-# Hand & Foot Warmers for Kids: Where They Help and Where They Can Burn
+# Hand & Foot Warmers for Kids: Where They Help and How to Use Them Safely
 
 > How to use disposable hand and toe warmers safely with kids on a ski day: where to put them, why they never go against bare skin or into a tight boot, why they're not for numb or frostbitten skin, and what to do if a child bites one open. Based on Wilderness Medical Society, CDC and poison center guidance.
 
@@ -23,7 +23,7 @@ The Wilderness Medical Society's frostbite guidelines list chemical hand and foo
 | Spot | OK? | How |
 |---|---|---|
 | Mittens | Yes, with a layer | In a mitten's outer pocket or between a liner and the shell, not loose against the palm. Mittens already keep fingers warmer than gloves ([CPS](https://caringforkids.cps.ca/handouts/safety-and-injury-prevention/frostbite)) |
-| Boots | Only if the fit stays roomy | On top of the sock, never inside it. If toes can't wiggle, take it out: a tight boot squeezes blood flow ([WMS](https://journals.sagepub.com/doi/full/10.1177/10806032231222359)) ([sickkids-dressing](https://www.aboutkidshealth.ca/dressing-for-the-cold)) |
+| Boots | Only if the fit stays roomy | On top of the sock, never inside it. If toes can't wiggle, take it out: a tight boot squeezes blood flow ([WMS](https://journals.sagepub.com/doi/full/10.1177/10806032231222359)) ([SickKids](https://www.aboutkidshealth.ca/dressing-for-the-cold)) |
 | Jacket pockets | Yes | A warm pocket gives cold hands somewhere to go on the chairlift without touching the warmer directly ([WMS](https://journals.sagepub.com/doi/full/10.1177/10806032231222359)) |
 | Bare skin | No | Warmers must not be placed directly against skin ([WMS](https://journals.sagepub.com/doi/full/10.1177/10806032231222359)) |
 | Numb or frostbitten skin | No | Frostbitten areas are numb and can easily burn ([CDC](https://www.cdc.gov/winter-weather/prevention/preventing-frostbite.html)) |
@@ -39,7 +39,7 @@ The Wilderness Medical Society's frostbite guidelines list chemical hand and foo
 **Don't**
 - Don't tuck a warmer inside a sock or under a snug boot liner. ([WMS](https://journals.sagepub.com/doi/full/10.1177/10806032231222359))
 - Don't use a warmer to rewarm skin that is already white, gray or waxy. That's possible frostbite. ([CDC](https://www.cdc.gov/winter-weather/prevention/preventing-frostbite.html))
-- Don't hand a warmer to a toddler who mouths things. The packet holds iron powder. ([mpc-warmers](https://blog.mdpoison.com/2025/02/28/will-kids-really-eat-that-part-three/))
+- Don't hand a warmer to a toddler who mouths things. The packet holds iron powder. ([Poison Center](https://blog.mdpoison.com/2025/02/28/will-kids-really-eat-that-part-three/))
 
 ## If skin is already numb or looks frostbitten
 
@@ -47,10 +47,10 @@ Signs of frostbite include white or grayish-yellow skin, skin that feels unusual
 
 ## If your child bites or swallows a warmer
 
-- Hand warmers contain iron powder with ingredients like charcoal, salt or vermiculite. ([mpc-warmers](https://blog.mdpoison.com/2025/02/28/will-kids-really-eat-that-part-three/))
-- The contents of a used warmer are mostly rust and aren't expected to cause severe effects; a large amount of unused powder can cause iron toxicity. ([mpc-warmers](https://blog.mdpoison.com/2025/02/28/will-kids-really-eat-that-part-three/))
-- If your child eats any of the contents, call Poison Help at 1-800-222-1222. ([mpc-warmers](https://blog.mdpoison.com/2025/02/28/will-kids-really-eat-that-part-three/))
-- If your child has trouble breathing, can't be woken, or is turning blue, call 911. ([mpc-warmers](https://blog.mdpoison.com/2025/02/28/will-kids-really-eat-that-part-three/))
+- Hand warmers contain iron powder with ingredients like charcoal, salt or vermiculite. ([Poison Center](https://blog.mdpoison.com/2025/02/28/will-kids-really-eat-that-part-three/))
+- The contents of a used warmer are mostly rust and aren't expected to cause severe effects; a large amount of unused powder can cause iron toxicity. ([Poison Center](https://blog.mdpoison.com/2025/02/28/will-kids-really-eat-that-part-three/))
+- If your child eats any of the contents, call Poison Help at 1-800-222-1222. ([Poison Center](https://blog.mdpoison.com/2025/02/28/will-kids-really-eat-that-part-three/))
+- If your child has trouble breathing, can't be woken, or is turning blue, call 911. ([Poison Center](https://blog.mdpoison.com/2025/02/28/will-kids-really-eat-that-part-three/))
 
 ## Parent FAQ
 

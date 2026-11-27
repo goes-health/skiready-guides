@@ -22,37 +22,37 @@ Kids lose heat faster than adults because their bodies are smaller, and when the
 
 | Layer | What to pack | Why |
 |---|---|---|
-| Base layer | Thin, snug long underwear top and bottom in polyester, silk or similar. Not cotton | Moves sweat off the skin. Damp skin loses heat fast ([sickkids-dressing](https://www.aboutkidshealth.ca/dressing-for-the-cold)) |
-| Middle layer | Fleece or wool. Two thin layers work as well as one thick one | This is the insulation, and thin layers are easy to add or remove ([sickkids-dressing](https://www.aboutkidshealth.ca/dressing-for-the-cold)) |
-| Outer layer | Waterproof, windproof jacket with a hood and high collar, plus bib-style snow pants | Blocks wind and snow; bibs keep snow out when little kids roll around ([sickkids-dressing](https://www.aboutkidshealth.ca/dressing-for-the-cold)) |
-| Head and neck | Warm hat or helmet liner that covers the ears, a neck warmer or tube scarf, and a balaclava on very cold days | Ears frostbite easily, and a tube scarf avoids a long loose scarf ([CPS](https://caringforkids.cps.ca/handouts/safety-and-injury-prevention/frostbite)) ([sickkids-dressing](https://www.aboutkidshealth.ca/dressing-for-the-cold)) |
+| Base layer | Thin, snug long underwear top and bottom in polyester, silk or similar. Not cotton | Moves sweat off the skin. Damp skin loses heat fast ([SickKids](https://www.aboutkidshealth.ca/dressing-for-the-cold)) |
+| Middle layer | Fleece or wool. Two thin layers work as well as one thick one | This is the insulation, and thin layers are easy to add or remove ([SickKids](https://www.aboutkidshealth.ca/dressing-for-the-cold)) |
+| Outer layer | Waterproof, windproof jacket with a hood and high collar, plus bib-style snow pants | Blocks wind and snow; bibs keep snow out when little kids roll around ([SickKids](https://www.aboutkidshealth.ca/dressing-for-the-cold)) |
+| Head and neck | Warm hat or helmet liner that covers the ears, a neck warmer or tube scarf, and a balaclava on very cold days | Ears frostbite easily, and a tube scarf avoids a long loose scarf ([CPS](https://caringforkids.cps.ca/handouts/safety-and-injury-prevention/frostbite)) ([SickKids](https://www.aboutkidshealth.ca/dressing-for-the-cold)) |
 | Hands | Waterproof mittens, plus at least one dry spare pair | Fingers bunched together in a mitten stay warmer than in gloves ([CPS](https://caringforkids.cps.ca/handouts/safety-and-injury-prevention/frostbite)) |
-| Feet | Moisture-wicking socks and boots that aren't tight | Tight boots squeeze blood flow and make feet colder. Toes should wiggle ([sickkids-dressing](https://www.aboutkidshealth.ca/dressing-for-the-cold)) ([CPS](https://caringforkids.cps.ca/handouts/safety-and-injury-prevention/frostbite)) |
+| Feet | Moisture-wicking socks and boots that aren't tight | Tight boots squeeze blood flow and make feet colder. Toes should wiggle ([SickKids](https://www.aboutkidshealth.ca/dressing-for-the-cold)) ([CPS](https://caringforkids.cps.ca/handouts/safety-and-injury-prevention/frostbite)) |
 | Eyes and face | Goggles that meet the helmet, and a face covering for chairlifts | Skiing's speed raises the risk of windburn and frostbite on the face ([SickKids](https://www.aboutkidshealth.ca/cold-weather-injuries)) |
 
 ## The drive up: car seats and coats
 
 **Do**
-- Dress your toddler in thin layers for the car: leggings or long underwear, pants, a warm top and a thin fleece. ([aap-carseat](https://www.healthychildren.org/English/safety-prevention/on-the-go/Pages/Winter-Car-Seat-Safety-Tips.aspx))
-- Take off the puffy coat or snowsuit before buckling, then lay the coat or a blanket over the harness. ([aap-carseat](https://www.healthychildren.org/English/safety-prevention/on-the-go/Pages/Winter-Car-Seat-Safety-Tips.aspx))
-- Do the pinch test: if you can pinch the harness strap at the chest, tighten it. ([aap-carseat](https://www.healthychildren.org/English/safety-prevention/on-the-go/Pages/Winter-Car-Seat-Safety-Tips.aspx))
-- Put hats, mittens and socks on in the car. They keep kids warm without getting in the way of the straps. ([aap-carseat](https://www.healthychildren.org/English/safety-prevention/on-the-go/Pages/Winter-Car-Seat-Safety-Tips.aspx))
+- Dress your toddler in thin layers for the car: leggings or long underwear, pants, a warm top and a thin fleece. ([AAP](https://www.healthychildren.org/English/safety-prevention/on-the-go/Pages/Winter-Car-Seat-Safety-Tips.aspx))
+- Take off the puffy coat or snowsuit before buckling, then lay the coat or a blanket over the harness. ([AAP](https://www.healthychildren.org/English/safety-prevention/on-the-go/Pages/Winter-Car-Seat-Safety-Tips.aspx))
+- Do the pinch test: if you can pinch the harness strap at the chest, tighten it. ([AAP](https://www.healthychildren.org/English/safety-prevention/on-the-go/Pages/Winter-Car-Seat-Safety-Tips.aspx))
+- Put hats, mittens and socks on in the car. They keep kids warm without getting in the way of the straps. ([AAP](https://www.healthychildren.org/English/safety-prevention/on-the-go/Pages/Winter-Car-Seat-Safety-Tips.aspx))
 
 **Don't**
-- Don't buckle a child in over a winter coat or snowsuit. In a crash the padding flattens and leaves the harness too loose. ([aap-carseat](https://www.healthychildren.org/English/safety-prevention/on-the-go/Pages/Winter-Car-Seat-Safety-Tips.aspx))
-- Don't leave wet mittens on for the ride home. Wet mittens make kids colder, not warmer. ([aap-carseat](https://www.healthychildren.org/English/safety-prevention/on-the-go/Pages/Winter-Car-Seat-Safety-Tips.aspx))
+- Don't buckle a child in over a winter coat or snowsuit. In a crash the padding flattens and leaves the harness too loose. ([AAP](https://www.healthychildren.org/English/safety-prevention/on-the-go/Pages/Winter-Car-Seat-Safety-Tips.aspx))
+- Don't leave wet mittens on for the ride home. Wet mittens make kids colder, not warmer. ([AAP](https://www.healthychildren.org/English/safety-prevention/on-the-go/Pages/Winter-Car-Seat-Safety-Tips.aspx))
 
 ## Your pocket kit for warm-up breaks
 
 - A dry pair of mittens and socks for each child. Change out of anything wet right away. ([AAP](https://www.healthychildren.org/english/safety-prevention/at-play/pages/winter-safety.aspx))
 - A spare neck warmer or balaclava. They get damp from breath fast.
 - Snacks and a drink. AAP suggests something warm to drink when warming a cold child back up. ([AAP](https://www.healthychildren.org/english/safety-prevention/at-play/pages/winter-safety.aspx))
-- Tabs on zippers so small hands can work them with mittens on. ([sickkids-dressing](https://www.aboutkidshealth.ca/dressing-for-the-cold))
+- Tabs on zippers so small hands can work them with mittens on. ([SickKids](https://www.aboutkidshealth.ca/dressing-for-the-cold))
 - A plan for indoor breaks on a schedule, not just when someone complains. ([AAP](https://www.healthychildren.org/english/safety-prevention/at-play/pages/winter-safety.aspx))
 
 ## Getting the fit right on the hill
 
-Take a layer off just before a burst of activity and put it back on when you stop, so kids don't sweat through their base layer. ([sickkids-dressing](https://www.aboutkidshealth.ca/dressing-for-the-cold)) If you're standing in a lift line or waiting at the bottom of the magic carpet, get them off the snow and out of the wind when you can. ([sickkids-dressing](https://www.aboutkidshealth.ca/dressing-for-the-cold)) At night, hang up jackets and snow pants and dry hats, mittens and boot liners somewhere warm, because damp gear won't keep anyone warm tomorrow. ([sickkids-dressing](https://www.aboutkidshealth.ca/dressing-for-the-cold)) And check the wind chill before you go: AAP advises avoiding outdoor play below -15°F, when exposed skin begins to freeze within minutes. ([AAP](https://www.healthychildren.org/english/safety-prevention/at-play/pages/winter-safety.aspx))
+Take a layer off just before a burst of activity and put it back on when you stop, so kids don't sweat through their base layer. ([SickKids](https://www.aboutkidshealth.ca/dressing-for-the-cold)) If you're standing in a lift line or waiting at the bottom of the magic carpet, get them off the snow and out of the wind when you can. ([SickKids](https://www.aboutkidshealth.ca/dressing-for-the-cold)) At night, hang up jackets and snow pants and dry hats, mittens and boot liners somewhere warm, because damp gear won't keep anyone warm tomorrow. ([SickKids](https://www.aboutkidshealth.ca/dressing-for-the-cold)) And check the wind chill before you go: AAP advises avoiding outdoor play below -15°F, when exposed skin begins to freeze within minutes. ([AAP](https://www.healthychildren.org/english/safety-prevention/at-play/pages/winter-safety.aspx))
 
 ## Parent FAQ
 

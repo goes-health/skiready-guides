@@ -251,3 +251,88 @@ tr:last-child td{border-bottom:0}
   .fc td:nth-child(3){grid-column:1/-1;color:var(--ink)}
   .fc td:nth-child(4){grid-column:1/-1;font-size:16px;color:var(--muted)}
 }
+
+/* ---- Nov 27 user-type panel pass ---- */
+.terms,.meta,.status,.updated{font-size:15px}
+.site-footer .wrap{grid-template-columns:1fr}
+@media (min-width:900px){.site-footer .wrap{grid-template-columns:1.4fr 1fr 1fr 1fr}}
+/* store buttons share one row in narrow cards */
+.store-btn b,.store-btn small{white-space:nowrap}
+.offline{padding:1.2rem 1.1rem}
+/* hero jump chips */
+.jump{display:flex;flex-wrap:wrap;gap:.5rem;margin-top:1.1rem}
+.jump a{display:inline-flex;align-items:center;min-height:44px;padding:0 .95rem;border-radius:999px;background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.22);color:#fff;font-weight:600;font-size:16px;text-decoration:none}
+.jump a:hover{background:rgba(255,255,255,.18);border-color:var(--yellow)}
+/* hero resort pick (variant) */
+.hero-pick{margin-top:1.2rem;background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.18);border-radius:16px;padding:.9rem}
+.hero-pick label{color:#fff}
+.hero-pick .row{display:grid;grid-template-columns:1fr auto;gap:.5rem}
+.hero-pick .go{background:var(--yellow);color:var(--charcoal);min-width:64px}
+/* compact guide list */
+.guide-list{display:grid;gap:.6rem}
+@media (min-width:700px){.guide-list{grid-template-columns:repeat(2,1fr)}}
+.gl-item{display:grid;grid-template-columns:1fr auto;column-gap:.8rem;align-items:center;padding:.85rem 1rem;background:#fff;border:1px solid var(--line);border-radius:14px;text-decoration:none;color:var(--night);box-shadow:0 1px 2px rgba(31,42,51,.05)}
+.gl-item::after{content:"→";grid-column:2;grid-row:1/span 3;color:var(--teal-dark);font-size:1.15rem}
+.gl-item .tag{grid-column:1;margin-bottom:.35rem;justify-self:start}
+.gl-item b{grid-column:1;font-size:17px;line-height:1.3}
+.gl-sub{grid-column:1;font-size:16px;color:var(--muted);line-height:1.4;margin-top:.15rem}
+/* compact resort list */
+.resort-list{display:grid;gap:.6rem}
+@media (min-width:700px){.resort-list{grid-template-columns:repeat(2,1fr)}}
+.rl-item{display:grid;grid-template-columns:1fr auto;gap:.8rem;align-items:center;padding:.85rem 1rem;background:#fff;border:1px solid var(--line);border-radius:14px;text-decoration:none;color:var(--night);min-height:72px}
+.rl-name{display:flex;flex-direction:column;gap:.1rem;min-width:0}
+.rl-name b{font-size:17px}
+.rl-name>span:not(.tag){font-size:16px;color:var(--muted)}
+.rl-name .tag{margin:.3rem 0 0;align-self:flex-start}
+.rl-wc{display:flex;align-items:center;gap:.5rem;text-align:right}
+.rl-wc b{font-family:var(--display);font-weight:400;font-size:2.3rem;line-height:1;color:var(--night)}
+.rl-wc .lbl{font-size:12px;line-height:1.2;color:var(--muted);text-transform:uppercase;letter-spacing:.05em;font-weight:700}
+.src-all summary{cursor:pointer;display:flex;align-items:center;min-height:48px;font-weight:700;color:var(--teal-dark)}
+/* resort glance card */
+.glance{background:var(--night);color:#E7ECEE;border-radius:var(--r-lg);padding:1.2rem 1.2rem 1rem;margin:0 0 1.2rem;box-shadow:var(--shadow)}
+.glance p{margin:0}
+.gl-k{font-size:13px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--yellow)}
+.gl-top{display:grid;grid-template-columns:auto 1fr;gap:1rem;align-items:center;margin:.5rem 0 .6rem}
+.gl-big{font-family:var(--display);font-size:4.2rem;line-height:.85;color:#fff}
+.gl-big small{font-size:1.6rem}
+.gl-lbl{font-size:16px;color:#C4CED3}
+.gl-band{font-weight:700;font-size:17px;line-height:1.35;margin-top:.15rem!important}
+.gl-band.ok{color:#9BE0C8}.gl-band.care{color:#F3D774}.gl-band.stop{color:#FFB3AE}
+.gl-now{font-size:16px;color:#D2DADE}
+.gl-alert,.gl-ok{margin-top:.7rem!important;padding:.6rem .8rem;border-radius:10px;font-size:16px;background:rgba(231,193,54,.14);border:1px solid rgba(231,193,54,.35);color:#F5E9BE}
+.gl-ok{background:rgba(155,224,200,.12);border-color:rgba(155,224,200,.3);color:#CDEFE3}
+.gl-alert a{color:#fff}
+.gl-care{display:flex;flex-direction:column;margin-top:.8rem!important;padding-top:.8rem;border-top:1px solid rgba(255,255,255,.14);font-size:16px;color:#fff;line-height:1.4}
+.gl-care span{font-size:12px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:#AEB8BD;margin-bottom:.15rem}
+.gl-links{display:flex;flex-wrap:wrap;gap:.45rem;margin-top:.9rem}
+.gl-links a{display:inline-flex;align-items:center;min-height:44px;padding:0 .85rem;border-radius:999px;background:rgba(255,255,255,.1);color:#fff;text-decoration:none;font-weight:600;font-size:16px}
+.gl-src{font-size:14px;color:#AEB8BD;margin-top:.7rem!important}
+.facts.two{grid-template-columns:repeat(2,minmax(0,1fr))}
+@media (min-width:800px){.facts.two{grid-template-columns:repeat(2,minmax(0,1fr))}}
+.hosp{display:flex;flex-direction:column;background:#fff;border:1px solid var(--line);border-radius:12px;padding:.8rem .9rem;font-size:16px;margin:-.8rem 0 1.6rem}
+.hosp span{font-size:13px;letter-spacing:.05em;text-transform:uppercase;color:var(--muted);font-weight:700}
+.alert-box.calm{border-left-color:var(--yellow);background:#FBF6E4}
+.js .fc-collapsed .more-row{display:none}
+.fc-more{display:flex;align-items:center;justify-content:center;width:100%;min-height:48px;margin:-.6rem 0 1.2rem;border:1px solid var(--line);border-radius:12px;background:#fff;color:var(--teal-dark);font:700 16px var(--font);cursor:pointer}
+html:not(.js) .fc-more{display:none}
+/* warmers OK badges */
+.okb{display:inline-flex;align-items:center;gap:.3rem;padding:.1rem .6rem;border-radius:999px;font-weight:700;font-size:16px}
+.okb.yes{background:#DDEFE9;color:#1d5a49}.okb.no{background:#FBE0DE;color:#8a2c27}.okb.care{background:#FBF0C9;color:#6b5510}
+.okr{display:block;margin-top:.25rem}
+.oktable td[data-label="OK?"] .okr{color:var(--ink)}
+/* plan card in app band */
+.plan{margin:1.1rem 0 0;border:1px solid rgba(255,255,255,.18);border-radius:14px;overflow:hidden}
+.plan-row{display:grid;grid-template-columns:5.2rem 1fr;gap:.8rem;align-items:center;padding:.8rem 1rem;background:rgba(255,255,255,.05)}
+.plan-row+.plan-row{border-top:1px solid rgba(255,255,255,.14)}
+.plan-row b{font-family:var(--display);font-weight:400;font-size:1.7rem;line-height:1;color:#fff}
+.plan-row.plus b{color:var(--yellow)}
+.plan-row span{font-size:16px;color:#D9E0E3;line-height:1.4}
+.price.two{display:grid;grid-template-columns:1fr 1fr}
+.gl-sub{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.rl-tag{grid-column:1/-1;justify-self:start;margin:0}
+.r-lede{font-size:1rem!important;margin:0 0 1.2rem}
+.offline .stores{gap:.5rem}.offline .store-btn svg{width:22px;height:22px}
+.okr::first-letter{text-transform:uppercase}
+.offline .store-btn{gap:.45rem;padding:.45rem .6rem}
+.store-btn{padding:.45rem .85rem .45rem .7rem}
+.offline .store-btn{padding:.45rem .5rem;gap:.4rem}.offline .store-btn svg{width:20px;height:20px}

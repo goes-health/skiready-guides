@@ -28,7 +28,7 @@ Confidence. Outdoors. GOES prepares and educates you to explore with confidence,
 - [How Cold Is Too Cold to Ski with Kids? Wind Chill Cutoffs, Chairlift Breaks & Layering](https://skiready.goes.health/guides/wind-chill-cutoffs-kids-skiing.md): Wind chill numbers pediatric groups use (AAP: avoid below -15°F), what the NWS frostbite chart means on a chairlift, how ski schools handle cold days, and how to layer kids. With a quick wind-chill calculator.
 - [High-Altitude & Cold Prep for Family Ski Trips (8,000–12,000 ft)](https://skiready.goes.health/guides/altitude-cold-family-ski-trip.md): How altitude affects kids on Colorado and Utah ski trips (Breckenridge 9,600 ft base, Keystone 9,280 ft): signs in toddlers, a night in Denver, hydration, and when to get care. Based on CDC Yellow Book and Children's Hospital Colorado.
 - [Toddler Ski Gear Checklist for Cold Days (Ages 2–5)](https://skiready.goes.health/guides/toddler-ski-gear-checklist.md): A layer-by-layer ski gear checklist for toddlers and preschoolers on cold days: base, mid and outer layers, mittens, neck warmers, boots and socks, the car-seat coat rule, and what to pack for warm-up breaks. Based on AAP, Canadian Paediatric Society and SickKids guidance.
-- [Hand & Foot Warmers for Kids: Where They Help and Where They Can Burn](https://skiready.goes.health/guides/hand-foot-warmers-kids-safety.md): How to use disposable hand and toe warmers safely with kids on a ski day: where to put them, why they never go against bare skin or into a tight boot, why they're not for numb or frostbitten skin, and what to do if a child bites one open. Based on Wilderness Medical Society, CDC and poison center guidance.
+- [Hand & Foot Warmers for Kids: Where They Help and How to Use Them Safely](https://skiready.goes.health/guides/hand-foot-warmers-kids-safety.md): How to use disposable hand and toe warmers safely with kids on a ski day: where to put them, why they never go against bare skin or into a tight boot, why they're not for numb or frostbitten skin, and what to do if a child bites one open. Based on Wilderness Medical Society, CDC and poison center guidance.
 
 ## Resorts (NWS fetched Nov 27, 7:12 AM MST)
 | Resort | Base ft | Summit ft | Now | 48-hr low wind chill | NWS alerts |
@@ -417,37 +417,37 @@ Kids lose heat faster than adults because their bodies are smaller, and when the
 
 | Layer | What to pack | Why |
 |---|---|---|
-| Base layer | Thin, snug long underwear top and bottom in polyester, silk or similar. Not cotton | Moves sweat off the skin. Damp skin loses heat fast ([sickkids-dressing](https://www.aboutkidshealth.ca/dressing-for-the-cold)) |
-| Middle layer | Fleece or wool. Two thin layers work as well as one thick one | This is the insulation, and thin layers are easy to add or remove ([sickkids-dressing](https://www.aboutkidshealth.ca/dressing-for-the-cold)) |
-| Outer layer | Waterproof, windproof jacket with a hood and high collar, plus bib-style snow pants | Blocks wind and snow; bibs keep snow out when little kids roll around ([sickkids-dressing](https://www.aboutkidshealth.ca/dressing-for-the-cold)) |
-| Head and neck | Warm hat or helmet liner that covers the ears, a neck warmer or tube scarf, and a balaclava on very cold days | Ears frostbite easily, and a tube scarf avoids a long loose scarf ([CPS](https://caringforkids.cps.ca/handouts/safety-and-injury-prevention/frostbite)) ([sickkids-dressing](https://www.aboutkidshealth.ca/dressing-for-the-cold)) |
+| Base layer | Thin, snug long underwear top and bottom in polyester, silk or similar. Not cotton | Moves sweat off the skin. Damp skin loses heat fast ([SickKids](https://www.aboutkidshealth.ca/dressing-for-the-cold)) |
+| Middle layer | Fleece or wool. Two thin layers work as well as one thick one | This is the insulation, and thin layers are easy to add or remove ([SickKids](https://www.aboutkidshealth.ca/dressing-for-the-cold)) |
+| Outer layer | Waterproof, windproof jacket with a hood and high collar, plus bib-style snow pants | Blocks wind and snow; bibs keep snow out when little kids roll around ([SickKids](https://www.aboutkidshealth.ca/dressing-for-the-cold)) |
+| Head and neck | Warm hat or helmet liner that covers the ears, a neck warmer or tube scarf, and a balaclava on very cold days | Ears frostbite easily, and a tube scarf avoids a long loose scarf ([CPS](https://caringforkids.cps.ca/handouts/safety-and-injury-prevention/frostbite)) ([SickKids](https://www.aboutkidshealth.ca/dressing-for-the-cold)) |
 | Hands | Waterproof mittens, plus at least one dry spare pair | Fingers bunched together in a mitten stay warmer than in gloves ([CPS](https://caringforkids.cps.ca/handouts/safety-and-injury-prevention/frostbite)) |
-| Feet | Moisture-wicking socks and boots that aren't tight | Tight boots squeeze blood flow and make feet colder. Toes should wiggle ([sickkids-dressing](https://www.aboutkidshealth.ca/dressing-for-the-cold)) ([CPS](https://caringforkids.cps.ca/handouts/safety-and-injury-prevention/frostbite)) |
+| Feet | Moisture-wicking socks and boots that aren't tight | Tight boots squeeze blood flow and make feet colder. Toes should wiggle ([SickKids](https://www.aboutkidshealth.ca/dressing-for-the-cold)) ([CPS](https://caringforkids.cps.ca/handouts/safety-and-injury-prevention/frostbite)) |
 | Eyes and face | Goggles that meet the helmet, and a face covering for chairlifts | Skiing's speed raises the risk of windburn and frostbite on the face ([SickKids](https://www.aboutkidshealth.ca/cold-weather-injuries)) |
 
 ## The drive up: car seats and coats
 
 **Do**
-- Dress your toddler in thin layers for the car: leggings or long underwear, pants, a warm top and a thin fleece. ([aap-carseat](https://www.healthychildren.org/English/safety-prevention/on-the-go/Pages/Winter-Car-Seat-Safety-Tips.aspx))
-- Take off the puffy coat or snowsuit before buckling, then lay the coat or a blanket over the harness. ([aap-carseat](https://www.healthychildren.org/English/safety-prevention/on-the-go/Pages/Winter-Car-Seat-Safety-Tips.aspx))
-- Do the pinch test: if you can pinch the harness strap at the chest, tighten it. ([aap-carseat](https://www.healthychildren.org/English/safety-prevention/on-the-go/Pages/Winter-Car-Seat-Safety-Tips.aspx))
-- Put hats, mittens and socks on in the car. They keep kids warm without getting in the way of the straps. ([aap-carseat](https://www.healthychildren.org/English/safety-prevention/on-the-go/Pages/Winter-Car-Seat-Safety-Tips.aspx))
+- Dress your toddler in thin layers for the car: leggings or long underwear, pants, a warm top and a thin fleece. ([AAP](https://www.healthychildren.org/English/safety-prevention/on-the-go/Pages/Winter-Car-Seat-Safety-Tips.aspx))
+- Take off the puffy coat or snowsuit before buckling, then lay the coat or a blanket over the harness. ([AAP](https://www.healthychildren.org/English/safety-prevention/on-the-go/Pages/Winter-Car-Seat-Safety-Tips.aspx))
+- Do the pinch test: if you can pinch the harness strap at the chest, tighten it. ([AAP](https://www.healthychildren.org/English/safety-prevention/on-the-go/Pages/Winter-Car-Seat-Safety-Tips.aspx))
+- Put hats, mittens and socks on in the car. They keep kids warm without getting in the way of the straps. ([AAP](https://www.healthychildren.org/English/safety-prevention/on-the-go/Pages/Winter-Car-Seat-Safety-Tips.aspx))
 
 **Don't**
-- Don't buckle a child in over a winter coat or snowsuit. In a crash the padding flattens and leaves the harness too loose. ([aap-carseat](https://www.healthychildren.org/English/safety-prevention/on-the-go/Pages/Winter-Car-Seat-Safety-Tips.aspx))
-- Don't leave wet mittens on for the ride home. Wet mittens make kids colder, not warmer. ([aap-carseat](https://www.healthychildren.org/English/safety-prevention/on-the-go/Pages/Winter-Car-Seat-Safety-Tips.aspx))
+- Don't buckle a child in over a winter coat or snowsuit. In a crash the padding flattens and leaves the harness too loose. ([AAP](https://www.healthychildren.org/English/safety-prevention/on-the-go/Pages/Winter-Car-Seat-Safety-Tips.aspx))
+- Don't leave wet mittens on for the ride home. Wet mittens make kids colder, not warmer. ([AAP](https://www.healthychildren.org/English/safety-prevention/on-the-go/Pages/Winter-Car-Seat-Safety-Tips.aspx))
 
 ## Your pocket kit for warm-up breaks
 
 - A dry pair of mittens and socks for each child. Change out of anything wet right away. ([AAP](https://www.healthychildren.org/english/safety-prevention/at-play/pages/winter-safety.aspx))
 - A spare neck warmer or balaclava. They get damp from breath fast.
 - Snacks and a drink. AAP suggests something warm to drink when warming a cold child back up. ([AAP](https://www.healthychildren.org/english/safety-prevention/at-play/pages/winter-safety.aspx))
-- Tabs on zippers so small hands can work them with mittens on. ([sickkids-dressing](https://www.aboutkidshealth.ca/dressing-for-the-cold))
+- Tabs on zippers so small hands can work them with mittens on. ([SickKids](https://www.aboutkidshealth.ca/dressing-for-the-cold))
 - A plan for indoor breaks on a schedule, not just when someone complains. ([AAP](https://www.healthychildren.org/english/safety-prevention/at-play/pages/winter-safety.aspx))
 
 ## Getting the fit right on the hill
 
-Take a layer off just before a burst of activity and put it back on when you stop, so kids don't sweat through their base layer. ([sickkids-dressing](https://www.aboutkidshealth.ca/dressing-for-the-cold)) If you're standing in a lift line or waiting at the bottom of the magic carpet, get them off the snow and out of the wind when you can. ([sickkids-dressing](https://www.aboutkidshealth.ca/dressing-for-the-cold)) At night, hang up jackets and snow pants and dry hats, mittens and boot liners somewhere warm, because damp gear won't keep anyone warm tomorrow. ([sickkids-dressing](https://www.aboutkidshealth.ca/dressing-for-the-cold)) And check the wind chill before you go: AAP advises avoiding outdoor play below -15°F, when exposed skin begins to freeze within minutes. ([AAP](https://www.healthychildren.org/english/safety-prevention/at-play/pages/winter-safety.aspx))
+Take a layer off just before a burst of activity and put it back on when you stop, so kids don't sweat through their base layer. ([SickKids](https://www.aboutkidshealth.ca/dressing-for-the-cold)) If you're standing in a lift line or waiting at the bottom of the magic carpet, get them off the snow and out of the wind when you can. ([SickKids](https://www.aboutkidshealth.ca/dressing-for-the-cold)) At night, hang up jackets and snow pants and dry hats, mittens and boot liners somewhere warm, because damp gear won't keep anyone warm tomorrow. ([SickKids](https://www.aboutkidshealth.ca/dressing-for-the-cold)) And check the wind chill before you go: AAP advises avoiding outdoor play below -15°F, when exposed skin begins to freeze within minutes. ([AAP](https://www.healthychildren.org/english/safety-prevention/at-play/pages/winter-safety.aspx))
 
 ## Parent FAQ
 
@@ -485,7 +485,7 @@ GOES provides guidance and is not a substitute for professional medical care. If
 
 ---
 
-# Hand & Foot Warmers for Kids: Where They Help and Where They Can Burn
+# Hand & Foot Warmers for Kids: Where They Help and How to Use Them Safely
 
 > How to use disposable hand and toe warmers safely with kids on a ski day: where to put them, why they never go against bare skin or into a tight boot, why they're not for numb or frostbitten skin, and what to do if a child bites one open. Based on Wilderness Medical Society, CDC and poison center guidance.
 
@@ -510,7 +510,7 @@ The Wilderness Medical Society's frostbite guidelines list chemical hand and foo
 | Spot | OK? | How |
 |---|---|---|
 | Mittens | Yes, with a layer | In a mitten's outer pocket or between a liner and the shell, not loose against the palm. Mittens already keep fingers warmer than gloves ([CPS](https://caringforkids.cps.ca/handouts/safety-and-injury-prevention/frostbite)) |
-| Boots | Only if the fit stays roomy | On top of the sock, never inside it. If toes can't wiggle, take it out: a tight boot squeezes blood flow ([WMS](https://journals.sagepub.com/doi/full/10.1177/10806032231222359)) ([sickkids-dressing](https://www.aboutkidshealth.ca/dressing-for-the-cold)) |
+| Boots | Only if the fit stays roomy | On top of the sock, never inside it. If toes can't wiggle, take it out: a tight boot squeezes blood flow ([WMS](https://journals.sagepub.com/doi/full/10.1177/10806032231222359)) ([SickKids](https://www.aboutkidshealth.ca/dressing-for-the-cold)) |
 | Jacket pockets | Yes | A warm pocket gives cold hands somewhere to go on the chairlift without touching the warmer directly ([WMS](https://journals.sagepub.com/doi/full/10.1177/10806032231222359)) |
 | Bare skin | No | Warmers must not be placed directly against skin ([WMS](https://journals.sagepub.com/doi/full/10.1177/10806032231222359)) |
 | Numb or frostbitten skin | No | Frostbitten areas are numb and can easily burn ([CDC](https://www.cdc.gov/winter-weather/prevention/preventing-frostbite.html)) |
@@ -526,7 +526,7 @@ The Wilderness Medical Society's frostbite guidelines list chemical hand and foo
 **Don't**
 - Don't tuck a warmer inside a sock or under a snug boot liner. ([WMS](https://journals.sagepub.com/doi/full/10.1177/10806032231222359))
 - Don't use a warmer to rewarm skin that is already white, gray or waxy. That's possible frostbite. ([CDC](https://www.cdc.gov/winter-weather/prevention/preventing-frostbite.html))
-- Don't hand a warmer to a toddler who mouths things. The packet holds iron powder. ([mpc-warmers](https://blog.mdpoison.com/2025/02/28/will-kids-really-eat-that-part-three/))
+- Don't hand a warmer to a toddler who mouths things. The packet holds iron powder. ([Poison Center](https://blog.mdpoison.com/2025/02/28/will-kids-really-eat-that-part-three/))
 
 ## If skin is already numb or looks frostbitten
 
@@ -534,10 +534,10 @@ Signs of frostbite include white or grayish-yellow skin, skin that feels unusual
 
 ## If your child bites or swallows a warmer
 
-- Hand warmers contain iron powder with ingredients like charcoal, salt or vermiculite. ([mpc-warmers](https://blog.mdpoison.com/2025/02/28/will-kids-really-eat-that-part-three/))
-- The contents of a used warmer are mostly rust and aren't expected to cause severe effects; a large amount of unused powder can cause iron toxicity. ([mpc-warmers](https://blog.mdpoison.com/2025/02/28/will-kids-really-eat-that-part-three/))
-- If your child eats any of the contents, call Poison Help at 1-800-222-1222. ([mpc-warmers](https://blog.mdpoison.com/2025/02/28/will-kids-really-eat-that-part-three/))
-- If your child has trouble breathing, can't be woken, or is turning blue, call 911. ([mpc-warmers](https://blog.mdpoison.com/2025/02/28/will-kids-really-eat-that-part-three/))
+- Hand warmers contain iron powder with ingredients like charcoal, salt or vermiculite. ([Poison Center](https://blog.mdpoison.com/2025/02/28/will-kids-really-eat-that-part-three/))
+- The contents of a used warmer are mostly rust and aren't expected to cause severe effects; a large amount of unused powder can cause iron toxicity. ([Poison Center](https://blog.mdpoison.com/2025/02/28/will-kids-really-eat-that-part-three/))
+- If your child eats any of the contents, call Poison Help at 1-800-222-1222. ([Poison Center](https://blog.mdpoison.com/2025/02/28/will-kids-really-eat-that-part-three/))
+- If your child has trouble breathing, can't be woken, or is turning blue, call 911. ([Poison Center](https://blog.mdpoison.com/2025/02/28/will-kids-really-eat-that-part-three/))
 
 ## Parent FAQ
 

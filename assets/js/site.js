@@ -6,3 +6,5 @@ document.addEventListener("keydown",function(e){if(e.key==="Escape"&&b.getAttrib
 document.addEventListener("click",function(e){if(!h.contains(e.target))set(false)});
 h.querySelectorAll("#site-nav a,.cta-pill").forEach(function(a){a.addEventListener("click",function(){set(false)})});
 window.matchMedia("(min-width:1200px)").addEventListener("change",function(){set(false)})})();
+// Hero resort picker (variant): keeps the Go link in sync with the select.
+document.querySelectorAll("[data-go]").forEach(function(s){var a=s.parentElement.querySelector("[data-go-link]");s.addEventListener("change",function(){a.href=s.value})});
