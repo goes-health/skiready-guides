@@ -3,26 +3,26 @@
 > Lower base than Summit County, but the summit is about 3,700 ft higher than the base and noticeably colder.
 
 Source page: https://skiready.goes.health/resorts/steamboat
-Updated: 2026-11-27
+Updated: 2026-11-28
 
 - Base elevation: 6,900 ft; summit: 10,568 ft (Mount Werner). Source: [Steamboat Chamber: Steamboat facts & figures](https://www.steamboatchamber.com/discover-steamboat/facts-figures/)
 - Nearest hospital: UCHealth Yampa Valley Medical Center (Steamboat Springs)
-- NWS point 40.4575,-106.804 (Steamboat Springs, CO; grid elevation 7,323 ft), fetched Nov 27, 7:12 AM MST
-- At fetch: 24°F, wind calm, partly sunny (feels like about 24°F)
-- Lowest NWS wind chill, next 48 h: 8°F (Above 5°F: normal winter day)
+- NWS point 40.4575,-106.804 (Steamboat Springs, CO; grid elevation 7,323 ft), fetched Nov 27, 5:42 PM MST
+- At fetch: 39°F, wind 5 mph S, slight chance snow showers (feels like about 35°F)
+- Lowest NWS wind chill, next 48 h: 11°F (Above 5°F: normal winter day)
 - Active NWS alerts: none
 
 ## NWS forecast
 | Period | Temp | Forecast | Wind |
 |---|---|---|---|
-| Today | 43°F | Mostly Cloudy then Chance Rain And Snow Showers | 0 to 5 mph NNW |
-| Tonight | 28°F | Rain And Snow Showers | 5 to 10 mph SW |
-| Saturday | 38°F | Snow Showers | 10 to 15 mph W |
-| Saturday Night | 14°F | Slight Chance Snow Showers then Mostly Cloudy | 0 to 10 mph SW |
-| Sunday | 41°F | Mostly Sunny | 0 to 5 mph S |
-| Sunday Night | 21°F | Partly Cloudy then Patchy Fog | 0 to 5 mph SE |
-| Monday | 42°F | Patchy Fog then Chance Rain And Snow Showers | 0 to 5 mph SW |
-| Monday Night | 23°F | Chance Snow Showers then Mostly Cloudy | 0 to 5 mph S |
+| This Afternoon | 43°F | Slight Chance Snow Showers | 5 mph S |
+| Tonight | 28°F | Rain And Snow Showers | 5 to 10 mph S |
+| Saturday | 37°F | Snow Showers And Patchy Blowing Snow | 10 to 15 mph W |
+| Saturday Night | 11°F | Chance Snow Showers then Patchy Fog | 0 to 5 mph SW |
+| Sunday | 38°F | Patchy Fog then Mostly Sunny | 0 mph  |
+| Sunday Night | 20°F | Mostly Clear then Patchy Fog | 0 to 5 mph SE |
+| Monday | 43°F | Slight Chance Rain And Snow Showers | 0 to 5 mph SW |
+| Monday Night | 24°F | Slight Chance Snow Showers then Mostly Cloudy | 0 mph  |
 
 Full forecast: https://forecast.weather.gov/MapClick.php?lat=40.4575&lon=-106.804
 

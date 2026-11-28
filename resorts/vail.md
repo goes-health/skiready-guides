@@ -3,14 +3,14 @@
 > Big mountain with long lift rides out to the Back Bowls. The summit is about 3,450 ft above the base, so plan warm-up breaks before kids get cold, not after.
 
 Source page: https://skiready.goes.health/resorts/vail
-Updated: 2026-11-27
+Updated: 2026-11-28
 
 - Base elevation: 8,120 ft; summit: 11,570 ft. Source: [Vail Mountain: Mountain info](https://www.vail.com/the-mountain/about-the-mountain/mountain-info.aspx)
 - Nearest hospital: Vail Health Hospital (Vail)
-- NWS point 39.6403,-106.3742 (Vail, CO; grid elevation 8,950 ft), fetched Nov 27, 7:12 AM MST
-- At fetch: 24°F, wind 5 mph SW, mostly sunny (feels like about 18°F)
+- NWS point 39.6403,-106.3742 (Vail, CO; grid elevation 8,950 ft), fetched Nov 27, 5:42 PM MST
+- At fetch: 40°F, wind 10 mph W, mostly cloudy (feels like about 34°F)
 - Lowest NWS wind chill, next 48 h: 3°F (5°F to -15°F: shorter day, faces covered)
-- Active NWS alerts: Winter Weather Advisory: Winter Weather Advisory issued November 27 at 4:23AM MST until November 29 at 5:00AM MST by NWS Grand Junction CO
+- Active NWS alerts: Winter Weather Advisory: Winter Weather Advisory issued November 27 at 9:54AM MST until November 29 at 5:00AM MST by NWS Grand Junction CO
 
 ## Altitude first
 The base is 8,120 ft. If you can, spend a night around Denver first; make day one short; watch for headache, nausea, poor appetite, fussiness or poor sleep in the first 24 hours ([Children's Colorado](https://www.childrenscolorado.org/just-ask-childrens/articles/altitude-sickness/), [CDC](https://www.cdc.gov/yellow-book/hcp/environmental-hazards-risks/high-altitude-travel-and-altitude-illness.html)).
@@ -18,14 +18,14 @@ The base is 8,120 ft. If you can, spend a night around Denver first; make day on
 ## NWS forecast
 | Period | Temp | Forecast | Wind |
 |---|---|---|---|
-| Today | 43°F | Partly Sunny then Slight Chance Snow Showers | 5 to 10 mph WSW |
+| This Afternoon | 43°F | Mostly Cloudy | 10 mph W |
 | Tonight | 30°F | Snow Showers | 10 to 15 mph W |
-| Saturday | 35°F | Snow Showers | 15 mph W |
-| Saturday Night | 12°F | Chance Snow Showers then Partly Cloudy | 5 to 15 mph WSW |
-| Sunday | 39°F | Sunny | 0 to 5 mph SW |
-| Sunday Night | 21°F | Mostly Clear | 5 mph S |
-| Monday | 40°F | Slight Chance Snow Showers | 0 to 5 mph WSW |
-| Monday Night | 22°F | Mostly Cloudy | 0 to 5 mph SSW |
+| Saturday | 34°F | Snow Showers | 15 mph WNW |
+| Saturday Night | 8°F | Chance Snow Showers then Patchy Fog | 0 to 15 mph WSW |
+| Sunday | 38°F | Patchy Fog then Sunny | 0 to 5 mph SW |
+| Sunday Night | 20°F | Mostly Clear | 5 mph SSW |
+| Monday | 40°F | Mostly Sunny | 0 to 5 mph WSW |
+| Monday Night | 21°F | Mostly Cloudy | 0 to 5 mph SSW |
 
 Full forecast: https://forecast.weather.gov/MapClick.php?lat=39.6403&lon=-106.3742
 

@@ -3,7 +3,7 @@
 > How altitude affects kids on Colorado and Utah ski trips (Breckenridge 9,600 ft base, Keystone 9,280 ft): signs in toddlers, a night in Denver, hydration, and when to get care. Based on CDC Yellow Book and Children's Hospital Colorado.
 
 Source page: https://skiready.goes.health/guides/altitude-cold-family-ski-trip
-Updated: 2026-11-27
+Updated: 2026-11-28
 
 Most kids do great at altitude. A slower first day, a night lower down if you can, and knowing the few signs to watch for are all it takes.
 

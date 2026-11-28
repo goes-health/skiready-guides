@@ -3,7 +3,7 @@
 > How to spot frostnip early on your child's cheeks, nose, fingers and toes while skiing, what to do in the lodge, what not to do, and when to get care. Based on CDC, AAP and Wilderness Medical Society guidance.
 
 Source page: https://skiready.goes.health/guides/frostbite-kids-skiing
-Updated: 2026-11-27
+Updated: 2026-11-28
 
 Frostnip is common, and it's easy to catch early. Two minutes of looking at cheeks, noses and fingers at every warm-up break keeps a cold morning from turning into frostbite.
 

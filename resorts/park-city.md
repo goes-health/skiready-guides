@@ -3,26 +3,26 @@
 > Dry, sunny cold. Cheeks and noses can get frostnip on a bluebird day without anyone noticing.
 
 Source page: https://skiready.goes.health/resorts/park-city
-Updated: 2026-11-27
+Updated: 2026-11-28
 
 - Base elevation: 6,800 ft; summit: 10,026 ft. Source: [Ski Utah: Park City Mountain](https://www.skiutah.com/members/park-city-mountain/snowreport)
 - Nearest hospital: Intermountain Park City Hospital
-- NWS point 40.6512,-111.508 (Park City, UT; grid elevation 6,919 ft), fetched Nov 27, 7:12 AM MST
-- At fetch: 32°F, wind 3 mph SSE, mostly cloudy (feels like about 32°F)
-- Lowest NWS wind chill, next 48 h: 21°F (Above 5°F: normal winter day)
+- NWS point 40.6512,-111.508 (Park City, UT; grid elevation 6,919 ft), fetched Nov 27, 5:42 PM MST
+- At fetch: 44°F, wind 3 mph S, mostly cloudy (feels like about 44°F)
+- Lowest NWS wind chill, next 48 h: 19°F (Above 5°F: normal winter day)
 - Active NWS alerts: none
 
 ## NWS forecast
 | Period | Temp | Forecast | Wind |
 |---|---|---|---|
-| Today | 47°F | Mostly Cloudy | 5 mph S |
-| Tonight | 34°F | Chance Light Rain then Chance Rain And Snow | 5 to 14 mph WSW |
-| Saturday | 39°F | Rain And Snow | 3 to 14 mph WNW |
-| Saturday Night | 25°F | Mostly Cloudy | 3 mph SSW |
-| Sunday | 47°F | Mostly Sunny | 6 mph S |
-| Sunday Night | 32°F | Mostly Cloudy then Chance Rain And Snow | 6 to 13 mph S |
-| Monday | 43°F | Chance Rain And Snow | 3 to 7 mph SSW |
-| Monday Night | 31°F | Chance Light Snow | 3 to 8 mph S |
+| This Afternoon | 47°F | Mostly Cloudy | 6 mph S |
+| Tonight | 34°F | Rain And Snow | 6 to 16 mph SW |
+| Saturday | 37°F | Rain And Snow | 3 to 17 mph NW |
+| Saturday Night | 23°F | Mostly Cloudy | 3 mph SSW |
+| Sunday | 46°F | Mostly Sunny | 6 mph S |
+| Sunday Night | 32°F | Partly Cloudy then Chance Light Snow | 6 to 12 mph S |
+| Monday | 43°F | Chance Light Snow | 3 to 8 mph SSW |
+| Monday Night | 32°F | Rain And Snow Likely | 3 to 8 mph S |
 
 Full forecast: https://forecast.weather.gov/MapClick.php?lat=40.6512&lon=-111.508
 

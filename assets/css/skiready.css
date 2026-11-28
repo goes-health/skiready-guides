@@ -336,3 +336,19 @@ html:not(.js) .fc-more{display:none}
 .offline .store-btn{gap:.45rem;padding:.45rem .6rem}
 .store-btn{padding:.45rem .85rem .45rem .7rem}
 .offline .store-btn{padding:.45rem .5rem;gap:.4rem}.offline .store-btn svg{width:20px;height:20px}
+
+/* Gift guide: light jump chips under an article header, and the dated sale note */
+.jump.light{margin-top:1rem}
+.jump.light a{background:#fff;border:1px solid var(--line);color:var(--night);font-weight:700}
+.jump.light a:hover{background:#fff;border-color:var(--teal-dark)}
+.sale{background:#fff;border:1px solid var(--line);border-left:4px solid var(--yellow);border-radius:0 var(--r) var(--r) 0;padding:1rem 1.1rem;margin:1.5rem 0}
+.sale h2{font-size:1.5rem;margin:0 0 .4rem}
+.sale p{margin:0;font-size:16px}
+.sale p+p{margin-top:.5rem}
+[hidden]{display:none!important}
+@media (max-width:640px){
+  .gifts td:first-child{font-size:1.2rem;padding-bottom:.1rem}
+  .gifts td:first-child::before,.gifts td:nth-child(2)::before{display:none}
+  .gifts td:nth-child(2){color:var(--night);font-weight:600;padding-bottom:.35rem}
+  .gifts td:nth-child(3)::before{content:"Look for"}
+}

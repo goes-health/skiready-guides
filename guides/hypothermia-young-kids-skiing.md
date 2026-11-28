@@ -3,7 +3,7 @@
 > The early signs of hypothermia in toddlers and young kids on a ski day (shivering, clumsiness, going quiet), how to rewarm safely, and when to call 911. Based on CDC, NIH MedlinePlus and AAP guidance.
 
 Source page: https://skiready.goes.health/guides/hypothermia-young-kids-skiing
-Updated: 2026-11-27
+Updated: 2026-11-28
 
 Hypothermia on a ski day usually builds slowly: wet layers, a long lesson, a windy lift. The early signs are easy to see once you know them, and dry clothes plus a warm lodge fix most of it.
 

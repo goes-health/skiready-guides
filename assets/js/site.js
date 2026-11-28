@@ -8,3 +8,5 @@ h.querySelectorAll("#site-nav a,.cta-pill").forEach(function(a){a.addEventListen
 window.matchMedia("(min-width:1200px)").addEventListener("change",function(){set(false)})})();
 // Hero resort picker (variant): keeps the Go link in sync with the select.
 document.querySelectorAll("[data-go]").forEach(function(s){var a=s.parentElement.querySelector("[data-go-link]");s.addEventListener("change",function(){a.href=s.value})});
+// Dated blocks (e.g. a sale note) hide themselves after their data-expires time, even on a cached page.
+document.querySelectorAll("[data-expires]").forEach(function(n){var t=Date.parse(n.getAttribute("data-expires"));if(t&&Date.now()>t)n.hidden=true});

@@ -3,7 +3,7 @@
 > How to use disposable hand and toe warmers safely with kids on a ski day: where to put them, why they never go against bare skin or into a tight boot, why they're not for numb or frostbitten skin, and what to do if a child bites one open. Based on Wilderness Medical Society, CDC and poison center guidance.
 
 Source page: https://skiready.goes.health/guides/hand-foot-warmers-kids-safety
-Updated: 2026-11-27
+Updated: 2026-11-28
 
 Hand and toe warmers are a great extra on a cold ski day, and the Wilderness Medical Society lists them as one way to keep fingers and toes warm. They just need a few rules with kids: always a layer of fabric between warmer and skin, never in a boot that's already snug, and never as a fix for skin that's already numb.
 

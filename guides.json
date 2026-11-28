@@ -315,6 +315,58 @@
      "url": "https://blog.mdpoison.com/2025/02/28/will-kids-really-eat-that-part-three/"
     }
    ]
+  },
+  {
+   "slug": "winter-safety-gift-guide",
+   "title": "Winter Safety Gift Guide for Ski Families (2026)",
+   "url": "https://skiready.goes.health/guides/winter-safety-gift-guide",
+   "markdown": "https://skiready.goes.health/guides/winter-safety-gift-guide.md",
+   "description": "A calm, no-hype gift guide for ski families: warm base layers, mittens, helmets and goggles, hand warmers, and a gift for the grown-up who hikes where signal drops. Based on REI, WinterKids and Sun & Ski guidance.",
+   "quick_answer": [
+    "Warmth first: a wicking base layer (merino or synthetic, never cotton), real mittens and a neck gaiter.",
+    "Head and eyes next: a snug helmet and goggles that sit flush against it.",
+    "For the adults: give them a plan for when the signal drops, not just another gadget."
+   ],
+   "faq": [
+    {
+     "q": "Can I give GOES+ as a gift?",
+     "a": "There's no gift-subscription button, because GOES+ is bought in the App Store or Google Play by the person using it. Send an Apple or Google Play gift card, then help them download GOES and start the 7-day free trial."
+    },
+    {
+     "q": "Mittens or gloves for a young skier?",
+     "a": "Mittens. They're warmer than gloves for young kids, and waterproof, insulated pairs with a hand-warmer pocket work best (REI)."
+    },
+    {
+     "q": "When should I replace a kid's ski helmet?",
+     "a": "After damage, after a hard fall even if no damage shows, or after about 5 years (WinterKids)."
+    },
+    {
+     "q": "Is cotton OK under a ski suit?",
+     "a": "Skip it. Cotton holds sweat and gets cold, so choose merino or a synthetic base layer (REI; Sun & Ski)."
+    }
+   ],
+   "sources": [
+    {
+     "label": "REI Expert Advice: How to Teach Kids to Ski",
+     "url": "https://www.rei.com/learn/expert-advice/skiing-kids.html"
+    },
+    {
+     "label": "WinterKids: Ski & snowboarding gear checklist for kids",
+     "url": "https://www.winterkids.com/blog/1241/kids-ski-snowboard-gear-checklist"
+    },
+    {
+     "label": "Sun & Ski: Kids' ski and snowboard gear guide, 2026/2027",
+     "url": "https://www.sunandski.com/blog/gear-guides/outdoor-expert-top-picks-for-2026-2027-kids-ski-and-snowboard-gear-guide"
+    },
+    {
+     "label": "Wilderness Medical Society: Frostbite guidelines, 2024 update",
+     "url": "https://journals.sagepub.com/doi/full/10.1177/10806032231222359"
+    },
+    {
+     "label": "Smartwool: Black Friday & Cyber Monday 25% off terms",
+     "url": "https://www.smartwool.com/en-us/pages/bfcm-25-off-terms"
+    }
+   ]
   }
  ],
  "resorts": [
